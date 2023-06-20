@@ -1,0 +1,17 @@
+---
+
+- id: frankl
+  name: Mgr. Michal Frankl, Ph.D.
+  email: frankl@mua.cas.cz
+  image: person-icon.png
+  about: >
+   Text
+  contact: true
+
+- id: plzakova
+  name: Mgr. Aneta Plzáková
+  email: plzakova@mua.cas.cz
+  image: person-icon.png
+  about: |
+    Text
+  contact: true

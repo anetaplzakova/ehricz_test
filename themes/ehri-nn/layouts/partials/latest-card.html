@@ -1,0 +1,5 @@
+<div class="latest-card">
+    <header><a href="{{ .url }}">{{ or (T .id) .name }}</a></header>
+    <p>{{ .about }}</p>
+    <a class="button-primary" href="{{ .url }}">{{ i18n "learn_more" }}</a>
+</div>

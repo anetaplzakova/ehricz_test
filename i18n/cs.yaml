@@ -1,0 +1,80 @@
+
+about:
+  other: O EHRI-CZ
+
+contact:
+  other: Kontakt
+
+services:
+  other: Služby
+
+partners_funders:
+  other: Partneři
+
+partners:
+  other: Partneři
+
+fellowships_training:
+  other: Kurzy a stipendia
+
+document_blog:
+  other: Document Blog
+  
+
+portal:
+  other: Portál EHRI
+
+digital_tools_guide:
+  other: Průvodce digitálními nástroji
+
+podcast:
+  other: Podcast
+
+learn_more:
+  other: Více
+
+latest:
+  other: Novinky
+
+ehri_services:
+  other: Služby EHRI
+
+below_are_some:
+  other: Níže jsou uvedeny některé z inovativních služeb vytvořených EHRI.
+
+more_about_mission:
+  other: Více o poslání a vizi EHRI
+
+go_to:
+  other:  Navštívit {{ .Name }}
+
+# Contact page
+contact_send_message:
+  other: Pošlete nám zprávu
+
+contact_form_name:
+  other: Jméno
+
+contact_form_email:
+  other: Emailová adresa
+
+contact_form_subject:
+  other: Předmět
+
+contact_form_message:
+  other: Tělo zprávy
+
+contact_form_send:
+  other: Odeslat
+
+contact_coordinators:
+  other: Koordinátoři {{ .Title }}
+
+contact_social: # NB: need to quote this value due to the `{{`
+  other: "{{ .Title }} na sociálních sítích"
+
+contact_thanks:
+  other: Děkujeme za odeslání zprávy. Budeme vás kontaktovat.
+
+contact_back:
+  other: Vrátit se zpět

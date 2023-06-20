@@ -1,0 +1,39 @@
+<header class="main">
+    <div class="header">
+        <div class="logo">
+            <a href="{{ relLangURL "" }}"><img src=" {{ "images/ehri-logo.svg" | relURL }}" alt="EHRI Logo"/></a>
+        </div>
+        <a href="{{ relLangURL "" }}" class="title">{{ .Site.Title }}</a>
+    </div>
+    {{ if (gt (len $.Site.Home.AllTranslations) 0) }}
+    <ul class="language-switcher">
+        {{ range $.Site.Home.AllTranslations }}
+            {{ if eq .Language $.Site.Language }}
+                <li><a title="{{ .Language.LanguageName }}" href="{{ .Permalink }}">{{ .Language }}</a></li>
+            {{ else }}
+                <li class="active"><a title="{{ .Language.LanguageName }}" href="{{ .Permalink }}">{{ .Language }}</a></li>
+            {{ end }}
+        {{ end }}
+    </ul>
+    {{ end }}
+    <nav class="nav main-navbar">
+        <label for="hb-toggle">Show menu</label>
+        <input id="hb-toggle" type="checkbox"/>
+        <span class="hb"></span>
+        <span class="hb"></span>
+        <span class="hb"></span>
+
+        <div class="navbar">
+            <ul class="text-items">
+                {{ range site.Menus.main }}
+                    {{ $page := site.GetPage .PageRef }}
+                    <li><a href="{{ .PageRef | relLangURL }}">{{ or (T .Identifier) .Name | safeHTML }}</a></li>
+                {{ end }}
+            </ul>
+            <div class="social">
+                {{ partial "social.html" }}
+            </div>
+        </div>
+    </nav>
+</header>
+
