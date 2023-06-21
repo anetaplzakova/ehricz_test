@@ -1,49 +1,51 @@
 ---
+- id: memogis
+  name: MemoGIS
+  url: https://ehri.cz/memogis/praha/
+  icon: article
+  image: memogis.PNG
+  about: |
+    Historický geografický informační systém promítá na mapu Prahy data o obětech holokaustu a interakci s obyvateli města ve zužujícím se veřejném prostoru.
 
+- id: holocaustcz
+  name: Portál holocaust.cz
+  url: https://www.holocaust.cz/
+  icon: meeting_room
+  image: holocaustcz.PNG
+  about: |
+    Portál zpřístupňuje informace o historii genocidy Židů a Romů a databáze obětí holokaustu na území České republiky a digitalizovaných dokumentů.
+    
 - id: portal
-  name: The EHRI Portal
+  name: Portál EHRI
   url: https://portal.ehri-project.eu/
   icon: meeting_room
   image: cards-still-1.png
   about: |
-    The EHRI portal offers access to information on Holocaust-related archival material held in institutions across Europe and beyond.
+    Portál EHRI zpřístupňuje informace o materiálech týkajících se holokaustu v archivech v Evropě i globálně.
 
 - id: blog
-  name: Document Blog
+  name: Dokumentový blog
   url: https://blog.ehri-project.eu/
   icon: article
   image: names-2.png
   about: |
-    The EHRI document blog is a space to share ideas about Holocaust-related archival documents, and their presentation and interpretation using digital tools.
+    EHRI Document Blog (Dokumentový blog) je prostor pro sdílení nových pohledů na dokumenty týkající se holokaustu, jejich prezentaci a interpretaci.
 
-- id: editions_dr
-  name: Diplomatic Reports
-  url: https://diplomatic-reports.ehri-project.eu/
+- id: terezin_research_guide
+  name: Terezín Research Guide
+  url: https://portal.ehri-project.eu/guides/terezin
+  icon: meeting_room
+  image: terezin_research_guide.png
+  about: |
+    Komplexní, inovativní a snadno použitelný průvodce rozptýleným a fragmentárním archivním materiálem k historii ghetta Terezín.
+
+- id: editions
+  name: EHRI online edice
+  url: https://www.ehri-project.eu/ehri-online-editions
   icon: lab_profile
   image: doklady-1.png
   about: |
-    The online edition "Diplomatic Reports" focuses on how diplomatic staff reported the persecution and murder of European Jews during World War II.
+    Komentovaných digitalizované dokumenty z různých zdrojů představují nový způsob prezentace digitálního archivního obsahu.
 
-- id: editions_dr
-  name: Diplomatic Reports
-  url: https://diplomatic-reports.ehri-project.eu/
-  icon: lab_profile
-  image: doklady-1.png
-  about: |
-    The online edition "Diplomatic Reports" focuses on how diplomatic staff reported the persecution and murder of European Jews during World War II.
 
-- id: editions_dr
-  name: Diplomatic Reports
-  url: https://diplomatic-reports.ehri-project.eu/
-  icon: lab_profile
-  image: doklady-1.png
-  about: |
-    The online edition "Diplomatic Reports" focuses on how diplomatic staff reported the persecution and murder of European Jews during World War II.
 
-- id: editions_dr
-  name: Diplomatic Reports
-  url: https://diplomatic-reports.ehri-project.eu/
-  icon: lab_profile
-  image: doklady-1.png
-  about: |
-    The online edition "Diplomatic Reports" focuses on how diplomatic staff reported the persecution and murder of European Jews during World War II.
