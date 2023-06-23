@@ -1,8 +1,8 @@
-baseURL: 'http://example.org/'
+baseURL: 'https://ehri.cz/'
 languageCode: cs
 title: Česká republika
 theme: ehri-nn
-copyright: '© 2010-{year} EHRI Consortium.'
+copyright: '© 2010-{year} EHRI, český uzel EHRI.'
 defaultContentLanguage: cs
 params:
   titleShort: EHRI-CZ
@@ -10,7 +10,7 @@ params:
   twitterUrl: 'https://twitter.com/EHRIproject'
   contactName: EHRI CZ
   contactEmail: feedback@ehri-uk.org
-  contactForm: true
+  contactForm: false
   contactFormUrl: dummy
 
 # Menu configuration. Labels are in the i18n folders:
@@ -48,9 +48,9 @@ menu:
     - identifier: document_blog
       pageRef: 'https://blog.ehri-project.eu/'
       weight: 20
-    - identifier: digital_tools_guide
-      pageRef: 'https://github.com/EHRI/ehri-data-analysis-tools'
-      weight: 30
+#    - identifier: digital_tools_guide
+#      pageRef: 'https://github.com/EHRI/ehri-data-analysis-tools'
+#      weight: 30
     - identifier: podcast
       pageRef: 'https://www.ehri-project.eu/ehri-podcast-for-the-living-and-the-dead'
       weight: 40
@@ -63,6 +63,6 @@ languages:
     title: Česká republika
     weight: 1
   en:
-    title: Czech republic
+    title: Czech Republic
     weight: 2
   

@@ -9,7 +9,7 @@ services:
   other: Služby
 
 partners_funders:
-  other: Partneři
+  other: EHRI-CZ podporují
 
 partners:
   other: Partneři
@@ -37,7 +37,7 @@ latest:
   other: Novinky
 
 ehri_services:
-  other: Služby EHRI
+  other: Vybrané služby EHRI
 
 below_are_some:
   other: Níže jsou uvedeny některé z inovativních služeb vytvořených EHRI.
