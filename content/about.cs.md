@@ -5,7 +5,9 @@ type: about
 ---
 
 {{< intro >}}
-Evropská infrastruktura pro výzkum holokaustu (EHRI) poskytuje online přístup k informacím o rozptýlených pramenech týkajících se holokaustu a přispívá k tomu, aby tyto dokumenty a zdroje byly lépe přístupné. EHRI je financována Evropskou komisí pod rámcovými programy FP7 a Horizont 2020.
+Evropská infrastruktura pro výzkum holokaustu (EHRI) poskytuje online přístup k informacím o rozptýlených pramenech týkajících se holokaustu. 
+
+EHRI je financována Evropskou komisí pod rámcovými programy FP7 a Horizont 2020.
 {{< /intro >}}
 
 Český uzel EHRI se v roce 2023 stal součástí výzkumné infrastruktury [LINDAT/CLARIAH-CZ](https://www.lindat.cz/). Partnerskými organizacemi českého EHRI jsou: [Masarykův ústav a Archiv AV ČR](https://www.mua.cas.cz/cs), [Národní archiv](https://www.nacr.cz/), [Památník Terezín](https://www.pamatnik-terezin.cz/) a [Institut Terezínské iniciativy](http://www.terezinstudies.cz/).
