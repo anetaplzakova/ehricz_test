@@ -5,7 +5,7 @@
   icon: article
   image: memogis.PNG
   about: |
-    Historický geografický informační systém promítá na mapu Prahy data o obětech holokaustu a jejich interakci s veřejným prostorem. [Více o projektu...](../services/memogis)
+    Historický geografický informační systém promítá na mapu Prahy data o obětech holokaustu a jejich interakci s veřejným prostorem. [Více o projektu...](../services/memogis.cs)
 
 - id: holocaustcz
   name: Portál holocaust.cz
