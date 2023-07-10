@@ -7,3 +7,4 @@ type: training
 {{< intro >}}
 Text
 {{< /intro >}}
+Text
