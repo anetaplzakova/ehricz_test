@@ -1,14 +1,13 @@
 ---
-title: O EHRI-CZ
+title: Český uzel EHRI
 layout: about
 type: about
 ---
 
 {{< intro >}}
-Špičkový výzkum o holokaustu je předpokladem pro diskusi o českých, evropských i světových moderních dějinách a pro pochopení rizik a mechanismů rasismu a genocidy v jejich různých formách. Evropská infrastruktura pro výzkum holokaustu (European Holocaust Research Infrastructure, EHRI) propojuje sbírky a prameny rozdělené hranicemi, jazyky a historií maskování genocidy, prosazuje výzkum za pomoci digitálních metod a podporuje badatele. Český uzel EHRI je bránou ke službám a komunitě EHRI zároveň rozcestníkem pro výzkum o holokaustu v České republice.
+Špičkový výzkum o holokaustu je předpokladem pro diskusi o českých, evropských i světových moderních dějinách a pro pochopení rizik a mechanismů rasismu a genocidy v jejich různých formách. [Evropská infrastruktura pro výzkum holokaustu](https://www.ehri-project.eu/) (European Holocaust Research Infrastructure, EHRI) propojuje sbírky a prameny rozdělené hranicemi, jazyky a historií maskování genocidy, prosazuje výzkum za pomoci digitálních metod a podporuje badatele. Český uzel EHRI je bránou ke službám a komunitě EHRI zároveň rozcestníkem pro výzkum o holokaustu v České republice.
 {{< /intro >}}
 
-- [Více o EHRI](https://www.ehri-project.eu/)
 <!--
 Evropská infrastruktura pro výzkum holokaustu (EHRI) poskytuje online přístup k informacím o rozptýlených pramenech týkajících se holokaustu. 
 
@@ -43,4 +42,7 @@ EHRI-CZ bude usilovat o zajištění dlouhodobé udržitelnosti výzkumu holocau
 * nabídky stipendií a vzdělávacích příležitostí pro badatele, archiváře a odborníky v oblasti památkové péče.
 
 Dopad EHRI je primárně vědecký, nicméně infrastruktura také podporuje širší sociální a politickou agendu. Nedávný vzestup ntisemitismu, xenofobie a agresivního nacionalismu v Evropě i mimo ni dokazuje, že výzkum holocaustu není nikdy čistě akademickým zájmem, ale předpokladem otevřených a nediskriminačních společností v Evropě i mimo ni.
+-->
+<!--
+TODO: remove contact info
 -->
