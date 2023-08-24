@@ -16,6 +16,7 @@ EHRI je financována Evropskou komisí pod rámcovými programy FP7 a Horizont 2
 
 Český uzel EHRI je od roku 2023 stal součástí výzkumné infrastruktury [LINDAT/CLARIAH-CZ](https://www.lindat.cz/) podporované Ministerstvem školství, mládeže a tělovýchovy. 
 
+<!--
 Partnerskými organizacemi českého EHRI jsou: 
 
 - [Masarykův ústav a Archiv AV ČR](https://www.mua.cas.cz/cs)
@@ -24,6 +25,7 @@ Partnerskými organizacemi českého EHRI jsou:
 - [Institut Terezínské iniciativy](http://www.terezinstudies.cz/).
 
 S EHRI-CZ dále spolupracuje [Židovské muzeum v Praze](https://www.jewishmuseum.cz/).
+-->
 
 EHRI-CZ poskytuje zejména tyto typy služeb:
 
