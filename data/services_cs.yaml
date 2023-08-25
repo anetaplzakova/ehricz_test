@@ -31,6 +31,14 @@
   about: |
     EHRI Document Blog (Dokumentový blog) je prostor pro sdílení nových pohledů na dokumenty týkající se holokaustu, jejich prezentaci a interpretaci.
 
+- id: geodata
+  name: Repozitoř geografických dat
+  url: https://geodata.ehri-project.eu/
+  icon: article
+  image: geodata.png
+  about: |
+    EHRI Geospatial Repository zpřístupňuje datové sady, jež umožňují vytvářet mapy k tématu holokaustu a analyzovat jej prostřednictvím prostorových přístupů.
+
 - id: terezin_research_guide
   name: Terezín Research Guide
   url: https://portal.ehri-project.eu/guides/terezin
