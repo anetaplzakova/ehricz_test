@@ -5,5 +5,5 @@ type: services
 ---
 
 {{< intro >}}
-Níže jsou uvedeny některé z inovativních služeb vytvořených EHRI:
+Vybrané služby EHRI:
 {{< /intro >}}
