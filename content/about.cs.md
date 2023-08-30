@@ -5,9 +5,9 @@ type: about
 ---
 
 {{< intro >}}
-Špičkový výzkum o holokaustu je předpokladem pro diskusi o českých, evropských i světových moderních dějinách a pro pochopení rizik a mechanismů rasismu a genocidy v jejich různých formách. [Evropská infrastruktura pro výzkum holokaustu](https://www.ehri-project.eu/) (European Holocaust Research Infrastructure, EHRI) propojuje sbírky a prameny rozdělené hranicemi, jazyky a historií maskování genocidy, prosazuje výzkum za pomoci digitálních metod a podporuje badatele. Český uzel EHRI je bránou ke službám a komunitě EHRI zároveň rozcestníkem pro výzkum o holokaustu v České republice.
+Špičkový výzkum o holokaustu je předpokladem pro diskusi o českých, evropských i světových moderních dějinách a pro pochopení rizik a mechanismů rasismu a genocidy v jejich různých formách. [Evropská infrastruktura pro výzkum holokaustu](https://www.ehri-project.eu/) (EHRI) propojuje sbírky a prameny rozdělené hranicemi a jazyky, prosazuje digitální metody a podporuje badatele. Český uzel EHRI je bránou ke službám a komunitě EHRI zároveň rozcestníkem pro výzkum o holokaustu v České republice.
 {{< /intro >}}
-
+<!--{{< figure src="../images/names-2.png" caption="Jména v památníku v Pinkasově synagoze" width="50%">}}-->
 <!--
 Evropská infrastruktura pro výzkum holokaustu (EHRI) poskytuje online přístup k informacím o rozptýlených pramenech týkajících se holokaustu. 
 
