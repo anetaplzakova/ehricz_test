@@ -6,7 +6,7 @@ type: training
 
 ## Stipendia Conny Kristel
 
-{{< figure src="https://www.ehri-project.eu/sites/default/files/styles/linkerkolom/public/EHRI%20Conference%2067%20low%20res_2.jpg?itok=AHYhNz-J" height="150px" >}}
+{{< figure src="../../images/EHRI_fellowships.jpg" width="100%" class="float-right" caption=`Caption goes here` >}}
 
 Prostřednictvím usnadnění mezinárodního přístupu ke klíčovým archivům a sbírkám týkajícím se holokaustu, jakož i přístupu k odborným znalostem v oblasti archivnictví a digitálních humanitních věd podporují a stimulují EHRI Conny Kristel stipendia výzkum prováděný výzkumníky, archiváři, knihovníky, kurátory a juniorskými akademickými pracovníky, zejména doktorandy s omezenými zdroji. Financované projekty se zabývají holokaustem v jeho širokém pojetí, včetně jeho prehistorie, následků a role antisemitismu před druhou světovou válkou, během ní a po ní.
 
