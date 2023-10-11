@@ -3,7 +3,7 @@ title: Český uzel EHRI
 layout: about
 type: about
 ---
-{{< figure src="../images/cards-still-1.png" width="50%" class="float-right" caption=`Caption goes here` >}}
+{{< figure src="../images/cards-still-1.png" width="100%" class="float-right" caption=`Caption goes here` >}}
 {{< intro >}}
 Špičkový výzkum o holokaustu je předpokladem pro diskusi o českých, evropských i světových moderních dějinách a pro pochopení rizik a mechanismů rasismu a genocidy v jejich různých formách. [Evropská infrastruktura pro výzkum holokaustu](https://www.ehri-project.eu/) (EHRI) propojuje sbírky a prameny rozdělené hranicemi a jazyky, prosazuje digitální metody a podporuje badatele. Český uzel EHRI je bránou ke službám a komunitě EHRI zároveň rozcestníkem pro výzkum o holokaustu v České republice.
 {{< /intro >}}
