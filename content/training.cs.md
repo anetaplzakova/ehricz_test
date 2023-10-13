@@ -6,15 +6,20 @@ type: training
 
 ## Stipendia Conny Kristel
 
-{{< figure src="../images/EHRI_fellowships.jpg" width="100%" class="float-right" caption=`Caption goes here` >}}
+{{< figure src="../images/EHRI_fellowships.jpg" class="float-right"  >}} <!-- FIXME: add caption -->
 
-Prostřednictvím usnadnění mezinárodního přístupu ke klíčovým archivům a sbírkám týkajícím se holokaustu, jakož i přístupu k odborným znalostem v oblasti archivnictví a digitálních humanitních věd podporují a stimulují EHRI Conny Kristel stipendia výzkum prováděný výzkumníky, archiváři, knihovníky, kurátory a juniorskými akademickými pracovníky, zejména doktorandy s omezenými zdroji. Financované projekty se zabývají holokaustem v jeho širokém pojetí, včetně jeho prehistorie, následků a role antisemitismu před druhou světovou válkou, během ní a po ní.
+Mezinárodní přístup k archivům a sbírkám, jakož i přístupu k odborným znalostem v oblasti archivnictví a digitálních humanitních věd, je zásadním předpokladem kvalitního výzkumu o holokaustu. EHRI Conny Kristel stipendia podporují a stimulují výzkum prováděný výzkumníky, archiváři, knihovníky, kurátory a juniorskými akademickými pracovníky, zejména doktorandy s omezenými zdroji. Financované projekty se zabývají holokaustem v jeho širokém pojetí, včetně jeho prehistorie, následků a role antisemitismu před druhou světovou válkou, během ní a po ní.
 
 Stipendia jsou financována Evropskou unií podle pravidel nadnárodního přístupu, a jsou tedy určena zejména pro uchazeče působící v institucích v členských státech (EU-27) a státech přidružených k programu Horizont 2020. Přihlášky uchazečů ze střední a východní Evropy jsou obzvláště vítány. Není možné se přihlásit pro bádání v instituci ve stejné zemi, kde člověk pracuje.
 
-Současný termín pro podání přilášek je 22. října 2023.
+Stipendia jsou pojmenována po předčasně zesnulé historičce a první ředitelce EHRI [Conny Kristel](https://www.ehri-project.eu/conny-kristel-26-february-1955-%E2%80%93-6-october-2018).
+
+Současný termín pro podání přihlášek je 22. října 2023.
 
 Více informací [zde](https://www.ehri-project.eu/Conny-Kristel-Fellowships_2023).
+
+<!-- stipendia v ŽMP? -->
+
 <!--
 {{< figure class="fig-side" src="../images/names-2.png" caption=`
 ##### Another Caption

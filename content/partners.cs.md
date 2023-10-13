@@ -1,14 +1,11 @@
 ---
-title: Partneři
+title: Partnerské organizace
 layout: partners
 type: partners
 ---
 
-{{< intro >}}
-4 partneři v rámci České republiky
-{{< /intro >}}
+Cílem EHRI není jen zpřístupňovat data a služby, ale také propojovat badatele a instituce. Na projektech EHRI se již podíleli 27 partnerských organizací, mezi něž patří archivy, knihovny, muzea a výzkumné organizace.
 
-Celosvětově má v současné době má EHRI 27 partnerů z řad archivů, knihoven, muzeí a výzkumných organizací.
-Projekt dále spoléhá na rozsáhlou síť spolupracujících partnerů a mnoha dalších jednotlivců a organizací v širokých oblastech studia holokaustu a digitálních humanitních věd.
+Na český uzlu EHRI-CZ v součastnosti spolupracují čtyři hlavní organizace.
 
-Český uzel infrastruktury, EHRI-CZ, má aktuálně 4 hlavní partnery:
+<!-- + kooperující organizace: ŽMP? Malach -->

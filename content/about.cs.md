@@ -3,30 +3,28 @@ title: Český uzel EHRI
 layout: about
 type: about
 ---
-{{< figure src="../images/cards-still-1.png" width="100%" class="float-right" caption=`Caption goes here` >}}
+
 
 {{< intro >}}
-Špičkový výzkum o holokaustu je předpokladem pro diskusi o českých, evropských i světových moderních dějinách a pro pochopení rizik a mechanismů rasismu a genocidy v jejich různých formách. [Evropská infrastruktura pro výzkum holokaustu](https://www.ehri-project.eu/) (EHRI) propojuje sbírky a prameny rozdělené hranicemi a jazyky, prosazuje digitální metody a podporuje badatele. Český uzel EHRI je bránou ke službám a komunitě EHRI zároveň rozcestníkem pro výzkum o holokaustu v České republice.
-{{< /intro >}}
-<!--{{< figure src="../images/names-2.png" caption="Jména v památníku v Pinkasově synagoze" width="50%">}}-->
-<!--
-Evropská infrastruktura pro výzkum holokaustu (EHRI) poskytuje online přístup k informacím o rozptýlených pramenech týkajících se holokaustu. 
 
-EHRI je financována Evropskou komisí pod rámcovými programy FP7 a Horizont 2020.
--->
+Špičkový výzkum o holokaustu je předpokladem pro informovanou diskusi o českých, evropských i světových moderních dějinách a pro pochopení rizik a mechanismů rasismu a genocidy v jejich různých formách. [Evropská infrastruktura pro výzkum holokaustu](https://www.ehri-project.eu/) (EHRI) propojuje sbírky a prameny rozdělené hranicemi a jazyky, prosazuje digitální metody a podporuje badatele. Český uzel EHRI je bránou ke službám a komunitě EHRI zároveň rozcestníkem pro výzkum o holokaustu v České republice.
+
+{{< /intro >}}
+
+{{< figure src="../images/terezin_research_guide.png" width="50%" class="float-right" caption=`Příklad dokumentu z Terezínského archivního průvodce` >}}
+
+
+## Výzkumná infrastruktura
+
 
 Český uzel EHRI je od roku 2023 stal součástí výzkumné infrastruktury [LINDAT/CLARIAH-CZ](https://www.lindat.cz/) podporované Ministerstvem školství, mládeže a tělovýchovy. 
 
-<!--
-Partnerskými organizacemi českého EHRI jsou: 
+EHRI je financována Evropskou komisí pod rámcovými programy FP7, Horizont 2020 a Horizont Evropa.
 
-- [Masarykův ústav a Archiv AV ČR](https://www.mua.cas.cz/cs)
-- [Národní archiv](https://www.nacr.cz/)
-- [Památník Terezín](https://www.pamatnik-terezin.cz/)
-- [Institut Terezínské iniciativy](http://www.terezinstudies.cz/).
+<!-- FIXME: utváření ERICu -->
+Od roku 2018 je EHRI na cestovní mapě evropských výzkumných infrastruktur a v současnosti se EHRI transformuje do podoby permanentní organizace - [European Research Infrastructure Consortium](https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/european-research-infrastructures/eric_en) (ERIC). Česká republika tento proces prostřednictvím Ministerstva školství, mládeže a tělovýchovy podporuje a je zastoupena v EHRI interim General Assembly.
 
-S EHRI-CZ dále spolupracuje [Židovské muzeum v Praze](https://www.jewishmuseum.cz/).
--->
+## Hlavní cíle a služby
 
 EHRI-CZ poskytuje zejména tyto typy služeb:
 
