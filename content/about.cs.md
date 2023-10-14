@@ -1,7 +1,6 @@
 ---
 title: Český uzel EHRI
 layout: about
-type: about
 ---
 
 
