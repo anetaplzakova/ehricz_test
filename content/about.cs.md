@@ -11,7 +11,7 @@ layout: about
 {{< /intro >}}
 
 {{< figure src="../images/terezin_research_guide.png" width="50%" class="float-right" caption=`Příklad dokumentu z Terezínského archivního průvodce` >}}
-
+{{< figure src="../images/terezin_research_guide.png" class="fig-float fig-right" caption="Příklad dokumentu z Terezínského archivního průvodce" >}}
 
 ## Výzkumná infrastruktura
 
