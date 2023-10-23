@@ -20,13 +20,13 @@ MemoGIS uses Geographic Information System methods, technology that was develope
 
 The various types of data are split into so-called layers, which users of the app can easily switch between or create their own combinations:
 
-### Number of Jews in Prague’s districts:
+### Number of Jews in Prague’s districts
 
 This layer displays summary information about the number of Jews residing in the various Prague districts based on the number of Jews registered as living in Prague as of October 1941. Since its display is tied to the map’s scale, it can go up to 1:15,001 magnification.
 
 Information from the Database of Victims maintained by the Terezín Initiative Institute was used in this level.
 
-### Incidents Within the City of Prague:
+### Incidents Within the City of Prague
 
 This layer shows incidents of violations of anti-Jewish regulations and ordinances.
 
@@ -34,19 +34,19 @@ Immediately after the Protectorate was established, people who were thought to b
 
 The MemoGIS Prague project extracted data from the digitized documents of the Prague Police. These include information on non-compliance with spatial prohibitions, identification papers not marked with the letter “J” (Jude), etc. The reports on individual “incidents” refer to the original documents accessible on www.holocaust.cz, where further details can be found.
 
-### Points of Interest in the City of Prague:
+### Points of Interest in the City of Prague
 
 This layer consists of information on more than 200 points of interest, i.e. places that were part of the everyday life of Jewish residents of Prague as well as sites associated with their persecution.
 
-### Jewish Homes in Prague During the Occupation:
+### Jewish Homes in Prague During the Occupation
 
 In this layer, you will find information about the number of Jewish inhabitants and their individual addresses. This information generally comes from the registration of Jews in the Protectorate, which began in the fall of 1941. In many cases, it acts as evidence that some Jewish residents had already been forcibly moved to another neighborhood or into shared apartments. This layer is displayed to the map’s scale and can go up to 1:15,001 magnification.
 
-### Holocaust victims from Prague:
+### Holocaust victims from Prague
 
 This layer without any graphics on the map offers textual information on the victims of the Holocaust living in individual apartment buildings, including links to the Database of Victims available on www.holocaust.cz.
 
-### Historical map of Prague:
+### Historical map of Prague
 
 In this specific layer, you can select a historic map of Prague as your display background.
 
