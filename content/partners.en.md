@@ -8,7 +8,6 @@ layout: partners
 27 Organisations in 17 Countries Worldwide
 {{< /intro >}}
 
-Currently, EHRI has 27 partners, representing archives, libraries, museums and research institutions.
-The project also relies on a large network of cooperating partners and many other individuals and organisations in the broad fields of Holocaust studies and digital humanities.
+EHRI aims not only to make data and services available, but also to connect researchers and institutions. EHRI projects have already involved 27 partner organisations, including archives, libraries, museums and research organisations.
 
 The Czech node of the infrastructure, EHRI-CZ, currently has 4 main partners:
