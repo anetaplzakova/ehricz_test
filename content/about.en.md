@@ -1,7 +1,6 @@
 ---
 title: EHRI Czech National Node
 layout: about
-type: about
 ---
 
 
