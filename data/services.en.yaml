@@ -13,7 +13,7 @@
   icon: meeting_room
   image: holocaustcz.PNG
   about: |
-    The portal makes contains information about the history of the genocide of Jews and Roma, and makes accessible a database of Holocaust victims in the Czech Republic and digitized documents.
+    The portal makes contains information about the history of the genocide of Jews and Roma, and makes accessible a database of Holocaust victims and digitized documents.
     
 - id: portal
   name: EHRI Portal
