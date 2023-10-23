@@ -1,24 +1,23 @@
 ---
 - id: memogis
-  name: MemoGIS
-  url: https://ehri.cz/memogis/praha/
+  name: MemoGIS Prague
+  url: https://ehri.cz/memogis/prague/
   icon: article
   image: memogis.PNG
   about: |
-    Historický geografický informační systém promítá na mapu Prahy data o obětech holokaustu a interakci s obyvateli města ve zužujícím se veřejném prostoru.
+    The Historical Geographical Information System projects data about the Holocaust victims and their interaction with public space onto a map of Prague. [More...](../services/memogis)
 
 - id: holocaustcz
-  name: Portál holocaust.cz
-  url: https://www.holocaust.cz/
+  name: Holocaust.cz Portal
+  url: https://www.holocaust.cz/en/main-2/
   icon: meeting_room
   image: holocaustcz.PNG
   about: |
-    Portál zpřístupňuje informace o historii genocidy Židů a Romů a databáze obětí holokaustu na území České republiky a digitalizovaných dokumentů.
+    The portal makes contains information about the history of the genocide of Jews and Roma, and makes accessible a database of Holocaust victims and digitized documents.
     
-- id: terezin_research_guide
-  name: Terezín Research Guide
+- name: Terezín Research Guide
   url: https://portal.ehri-project.eu/guides/terezin
   icon: meeting_room
   image: terezin_research_guide.png
   about: |
-    Komplexní, inovativní a snadno použitelný průvodce rozptýleným a fragmentárním archivním materiálem k historii ghetta Terezín.
+    A comprehensive, innovative and easy-to-use guide to the scattered and fragmentary archival material on the history of the Terezín ghetto.
