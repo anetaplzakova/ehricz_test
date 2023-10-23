@@ -6,5 +6,4 @@ description: European Holocaust Research Infrastructure - Czech node
 
 
 
-Czech EHRI node has become part of the LINDAT/CLARIAH-CZ infrastructure in 2023. The partners of the Czech EHRI consortium are: Masaryk Institute and Archives of the Czech Academy of Sciences, the National Archives, Terezín Memorial and the Terezín Initiative Institute.
-
+Research of the genocide of Jews and Roma during World War II provides key insights into modern Czech and European history. The EHRI Czech national node improves access to archival and other sources on the Holocaust, provides data on victims and supports the application of innovative digital methods.
