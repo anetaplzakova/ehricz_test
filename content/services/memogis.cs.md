@@ -8,7 +8,7 @@ type: training
 Historický geografický informační systém MemoGIS promítá na mapu Prahy data o více než 30 000 obětech holokaustu, místech pronásledování a interakci se zužujícím se veřejným prostorem i jeho ostatními obyvateli. MemoGIS je vytvořen jako mobilní webová aplikace, která uživatelům umožňuje téma zkoumat nejen z domácího či školního počítače, ale také přímo v prostoru města prostřednictvím mobilních zařízení.
 {{< /intro >}}
 
-{{< figure src="../images/memogis.png" class="fig-float fig-right" caption="Přejít do aplikace MemoGIS Praha" >}}
+{{< figure src="../images/memogis.PNG" class="fig-float fig-right" caption="Přejít do aplikace MemoGIS Praha" >}}
 
 ## Jaká data MemoGIS obsahuje?
 
