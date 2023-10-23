@@ -50,7 +50,7 @@ Specifická vrstva umožňující jako pozadí zobrazit dobovou mapu Prahy.
 
 Orientační plán hlavního města Prahy s okolím z roku 1938 zpracovala do digitální podoby Městská knihovna v Praze. Včetně rejstříků je zpřístupněn na http://web2.mlp.cz/mapa1938/klad.php. Mapa je použita se svolením Městské knihovny a byla v rámci přípravy MemoGISu georeferencována.
 
-Zobrazení historické mapy může aplikaci v některých zařízeních zpomalovat. Pokud máte se zobrazením problémy, můžete přepnout na verzi aplikace bez historické mapy.
+Zobrazení historické mapy může aplikaci v některých zařízeních zpomalovat. Pokud máte se zobrazením problémy, můžete přepnout na [verzi aplikace bez historické mapy](https://ehri.cz/memogis/praha_simple).
 
 ## Práce s aplikací MemoGIS
 
@@ -68,10 +68,10 @@ Zapnutí a vypnutí služby určování polohy je ovládáno pomocí tlačítka 
 
 ## Kredit
 
-Projekt Integrace a segregace v prostoru města: dějiny holokaustu v Praze prostřednictvím mobilní webové aplikace (idenifikátor TL01000366) byl podpořen Technologickou agenturou České republiky v rámci veřejné soutěže ÉTA 1.
+Projekt Integrace a segregace v prostoru města: dějiny holokaustu v Praze prostřednictvím mobilní webové aplikace (idenifikátor TL01000366) byl podpořen [Technologickou agenturou České republiky](https://www.tacr.cz/) v rámci veřejné soutěže ÉTA 1.
 
-Aplikaci MemoGIS vytvořil Masarykův ústav a archiv AV ČR ve spolupráci s Institutem Terezínské iniciativy a Multikulturním centrem Praha.
+Aplikaci MemoGIS vytvořil [Masarykův ústav a archiv AV ČR](https://www.mua.cas.cz/cs) ve spolupráci s [Institutem Terezínské iniciativy](http://www.terezinstudies.cz) a [Multikulturním centrem Praha](https://mkc.cz/).
 
 ## Našli jste chybu?
 
-Pokud jste při práci s aplikací narazili na technický problém či chybu v zobrazovaných datech, využijte prosím formulář pro hlášení chyb.
+Pokud jste při práci s aplikací narazili na technický problém či chybu v zobrazovaných datech, využijte prosím [formulář pro hlášení chyb](https://docs.google.com/forms/d/15jprT8Sbc-Llt1CfAPrIzU4S8YIDjREixRADGzbA62k).
