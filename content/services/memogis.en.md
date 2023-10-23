@@ -1,5 +1,5 @@
 ---
-title: MemoGIS Praha
+title: MemoGIS Prague
 layout: training
 type: training
 ---
@@ -52,7 +52,7 @@ In this specific layer, you can select a historic map of Prague as your display 
 
 This map of the capital city of Prague from 1938 was digitized by the Municipal Library in Prague. Together with its indexes, it’s available at http://web2.mlp.cz/mapa1938/klad.php. The map is used with the generous permission of the Municipal Library and was georeferenced by the Masaryk Institute and Archives of the Czech Academy of Sciences.
 
-Displaying the historical map may slow down the app on some devices. If you’re having trouble viewing it, you can switch to a version of the app without the historical map.
+Displaying the historical map may slow down the app on some devices. If you’re having trouble viewing it, you can switch to a [version of the app without the historical map](https://ehri.cz/memogis/prague_simple).
 
 ## Working with MemoGIS
 ### Viewing the layers of the map
@@ -66,9 +66,9 @@ You can turn the position determination service on and off using the button on t
 
 ## Acknowledgments
 
-The project “Integration and Segregation in the City Space: The History of the Holocaust in Prague Through a Mobile Web Application (identifier TL01000366) was supported by the Technology Agency of the Czech Republic as part of the public ÉTA 1 program.
+The project “Integration and Segregation in the City Space: The History of the Holocaust in Prague Through a Mobile Web Application (identifier TL01000366) was supported by the [Technology Agency of the Czech Republic](https://www.tacr.cz/en/) as part of the public ÉTA 1 program.
 
-The MemoGIS application was created by the Masaryk Institute and Archives of the Czech Academy of Sciences in cooperation with the Terezín Initiative Institute and the Multicultural Center in Prague.
+The MemoGIS application was created by the [Masaryk Institute and Archives of the Czech Academy of Sciences](https://www.mua.cas.cz/en) in cooperation with the [Terezín Initiative Institute](http://www.terezinstudies.cz/en/index.html) and the [Multicultural Center in Prague](https://mkc.cz/en/about).
 
 ## Have you found an error?
 
