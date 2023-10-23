@@ -58,11 +58,11 @@ Zobrazení historické mapy může aplikaci v některých zařízeních zpomalov
 
 Jednotlivé typy dat jsou soustředěny do tzv. vrstev, mezi nimiž může uživatel aplikace libovolně přepínat. Možnost zvolit zobrazené vrstvy se nachází v hlavním menu v pravém horním rohu obrazovky.
 
-###Přiblížení a oddálení mapy
+### Přiblížení a oddálení mapy
 
 Tlačítka přiblížení a oddálení mapy se nachází v pravém dolním rohu obrazovky. Přítomna jsou pouze při studiu aplikace na počítači – při práci s mobilními zařízeními je přiblížení a oddálení obrazovky ovládáno gesty.
 
-###Služba určování polohy
+### Služba určování polohy
 
 Zapnutí a vypnutí služby určování polohy je ovládáno pomocí tlačítka v pravém dolním rohu obrazovky. Aktivování tlačítka umožní na mapě zobrazit, kde se aktuálně nacházíte. Tlačítko určování polohy má tři režimy, které se přepínají jeho stisknutím: vypnuto, zapnuto – uživatel může dále libovolně procházet mapu, zapnuto a zacentrováno na polohu uživatele.
 
