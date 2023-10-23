@@ -37,10 +37,12 @@ Již od zřízení protektorátu byly osoby považované za Židy podrobeny mno�
 ### Body zájmu
 
 Vrstva zobrazuje informace o více než 200 bodů zájmu, tedy míst souvisejících s každodenním životem židovských obyvatel Prahy i místa přímo související s jejich perzekucí.
-Bydliště Židů v Praze v době okupace
+
+### Bydliště Židů v Praze v době okupace
 
 Vrstva zobrazuje informace o počtu židovských obyvatel v konkrétních domech. Informace o bydlišti zpravidla pochází z registrace Židů v protektorátu, která byla zahájena na podzim 1941. V mnoha případech proto zachycují židovské obyvatele již po nuceném přestěhování do jiné čtvrti nebo sestěhování do společných bytů. Zobrazení vrstvy je vázáno na měřítko mapy, zobrazuje se od hodnoty 1:15000 a níže.
-Oběti holokaustu z Prahy
+
+### Oběti holokaustu z Prahy
 
 Vrstva bez grafické reprezentace v mapě, přináší textovou informaci o obětech holokaustu žijících v jednotlivých domech, včetně odkazu do Databáze obětí na portálu holocaust.cz.
 
