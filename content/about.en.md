@@ -1,28 +1,38 @@
 ---
-title: About EHRI-CZ
+title: EHRI Czech National Node
 layout: about
 type: about
 ---
 
+
 {{< intro >}}
 
-
-The European Holocaust Research Infrastructure project (EHRI) provides online access to information about dispersed sources relating to the Holocaust and makes these documents and resources more accessible. EHRI is funded by the European Commission under the FP7 and Horizon 2020 programmes.
-
-Czech EHRI node has become part of the [LINDAT/CLARIAH-CZ](https://www.lindat.cz/) infrastructure in 2023. The partners of the Czech EHRI consortium are: [Masaryk Institute and Archives of the Czech Academy of Sciences](https://www.mua.cas.cz/en), the [National Archives](https://www.nacr.cz/en/), [Terezín Memorial](https://www.pamatnik-terezin.cz/?lang=en) and the [Terezín Initiative Institute](http://www.terezinstudies.cz/en/).
-
+Top-quality research on the Holocaust is a prerequisite for informed discussion about Czech, European and world modern history and for understanding the risks and mechanisms of racism and genocide in their various forms. The [European Holocaust Research Infrastructure](https://www.ehri-project.eu/) (EHRI) connects collections and sources divided by borders and languages, promotes digital methods and supports researchers. The Czech EHRI national node is a gateway to EHRI services and community and a signpost for Holocaust research in the Czech Republic.
 {{< /intro >}}
 
-### EHRI-CZ will seek to ensure the long-term sustainability of Holocaust research within the Czech republic and beyond by:
+{{< figure src="../images/terezin_research_guide.png" width="50%" class="float-right" caption=`Example of a document from the Terezín Research Guide` >}}
 
- * representing institutions within the Czech republic which contain materials related to Holocaust
-   Studies to create a strong research consortium;
- * connecting resources through a state-of-the-art digital infrastructure;
- * developing innovative digital research tools;
- * offering fellowships and training opportunities for researchers, archivists, and heritage professionals.
 
-EHRI's impact is primarily scientific, however, the infrastructure also advances a wider
-social and political agenda. The recent rise of antisemitism, xenophobia and aggressive
-nationalisms in Europe and beyond demonstrate that Holocaust research is never a purely
-academic concern, but a prerequisite for open and non-discriminatory societies across
-Europe and beyond.
+## Research infrastructure
+
+The EHRI Czech national node has been part of the research infrastructure [LINDAT/CLARIAH-CZ](https://www.lindat.cz/) supported by the Ministry of Education, Youth and Sports since 2023. 
+
+EHRI is funded by the European Commission under FP7, Horizon 2020 and Horizon Europe.
+
+<!-- FIXME: the formation of ERIC -->
+Since 2018, EHRI has been on the roadmap of European research infrastructures and is currently transforming into a permanent organisation - [European Research Infrastructure Consortium](https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/european-research-infrastructures/eric_en) (ERIC). The Czech Republic supports this process through the Ministry of Education, Youth and Sports and is represented in the EHRI Interim General Assembly.
+
+## Main goals and services
+
+ EHRI-CZ provides the following types of services:
+
+- Makes EHRI data and services available, including [EHRI Portal](https://portal.ehri-project.eu/), [EHRI Document Blog](https://blog.ehri-project.eu), [EHRI Editions](https://www.ehri-project.eu/ehri-online-editions), [EHRI Geospatial Repository](https://geodata.ehri-project.eu/), [Conny Kristel Scholarship](https://www.ehri-project.eu/Conny-Kristel-Fellowships_2023), and others.
+- Creates data on sources on the history of the Holocaust in the Czech lands and uploads them to the [EHRI Portal](https://portal.ehri-project.eu/).
+- Links and enhances the victim databases and methodologically supports their further development.
+- Applies digital methods to the digitised sources, including automatic text and speech recognition, identification of places, historical actors, keywords, etc.
+- Supports research using spatial methods and interactive maps, including the MemoMAP application.
+
+
+<!--
+TODO: remove contact info
+-->
