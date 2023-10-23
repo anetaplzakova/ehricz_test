@@ -1,43 +1,43 @@
 ---
 - id: memogis
-  name: MemoGIS Praha
-  url: https://ehri.cz/memogis/praha/
+  name: MemoGIS Prague
+  url: https://ehri.cz/memogis/prague/
   icon: article
   image: memogis.PNG
   about: |
-    Historický geografický informační systém promítá na mapu Prahy data o obětech holokaustu a jejich interakci s veřejným prostorem. [Více o projektu...](../services/memogis)
+    The Historical Geographical Information System projects data about the Holocaust victims and their interaction with public space onto a map of Prague. [More...](../services/memogis)
 
 - id: holocaustcz
-  name: Portál holocaust.cz
-  url: https://www.holocaust.cz/
+  name: Holocaust.cz Portal
+  url: https://www.holocaust.cz/en/main-2/
   icon: meeting_room
   image: holocaustcz.PNG
   about: |
-    Portál zpřístupňuje informace o historii genocidy Židů a Romů a databáze obětí holokaustu na území České republiky a digitalizovaných dokumentů.
+    The portal makes contains information about the history of the genocide of Jews and Roma, and makes accessible a database of Holocaust victims in the Czech Republic and digitized documents.
     
 - id: portal
-  name: Portál EHRI
+  name: EHRI Portal
   url: https://portal.ehri-project.eu/
   icon: meeting_room
   image: cards-still-1.png
   about: |
-    Portál EHRI zpřístupňuje informace o materiálech týkajících se holokaustu v archivech v Evropě i globálně.
+     The EHRI portal provides access to information on Holocaust-related material in archives in Europe and globally.
 
 - id: blog
-  name: Dokumentový blog
+  name: Document Blog
   url: https://blog.ehri-project.eu/
   icon: article
   image: names-2.png
   about: |
-    EHRI Document Blog (Dokumentový blog) je prostor pro sdílení nových pohledů na dokumenty týkající se holokaustu, jejich prezentaci a interpretaci.
+    The EHRI Document Blog is a space for sharing new perspectives on Holocaust-related documents, their presentation and interpretation.
 
 - id: geodata
-  name: Repozitoř geografických dat
+  name: Geospatial Repository
   url: https://geodata.ehri-project.eu/
   icon: article
   image: geodata.png
   about: |
-    EHRI Geospatial Repository zpřístupňuje datové sady, jež umožňují vytvářet mapy k tématu holokaustu a analyzovat jej prostřednictvím prostorových přístupů.
+    EHRI Geospatial Repository provides access to datasets that make it possible to create maps on the subject of the Holocaust and analyse it through spatial approaches.
 
 - id: terezin_research_guide
   name: Terezín Research Guide
@@ -45,12 +45,12 @@
   icon: meeting_room
   image: terezin_research_guide.png
   about: |
-    Komplexní, inovativní a snadno použitelný průvodce rozptýleným a fragmentárním archivním materiálem k historii ghetta Terezín.
+    A comprehensive, innovative and easy-to-use guide to the scattered and fragmentary archival material on the history of the Terezín ghetto.
 
 - id: editions
-  name: EHRI online edice
+  name: EHRI Online Editions
   url: https://www.ehri-project.eu/ehri-online-editions
   icon: lab_profile
   image: doklady-1.png
   about: |
-    Komentovaných digitalizované dokumenty z různých zdrojů představují nový způsob prezentace digitálního archivního obsahu.
+    Annotated digitized documents from various sources represent a new way of presenting digital archival content.
