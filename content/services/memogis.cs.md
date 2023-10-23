@@ -7,7 +7,7 @@ layout: training
 Historický geografický informační systém MemoGIS promítá na mapu Prahy data o více než 30 000 obětech holokaustu, místech pronásledování a interakci se zužujícím se veřejným prostorem i jeho ostatními obyvateli. MemoGIS je vytvořen jako mobilní webová aplikace, která uživatelům umožňuje téma zkoumat nejen z domácího či školního počítače, ale také přímo v prostoru města prostřednictvím mobilních zařízení.
 {{< /intro >}}
 
-##Jaká data MemoGIS obsahuje?
+## Jaká data MemoGIS obsahuje?
 
 Aplikace zobrazuje data více než 30 000 obětí holokaustu, 1 700 případů porušování protižidovských předpisů a nařízení a 200 bodů zájmu.
 
@@ -17,13 +17,13 @@ MemoGIS využívá metody geografického informačního systému, technologie vy
 
 Jednotlivé typy dat jsou soustředěny do tzv. vrstev, mezi nimiž může uživatel aplikace libovolně přepínat nebo vytvářet jejich kombinace:
 
-###Počet Židů v pražských čtvrtích
+### Počet Židů v pražských čtvrtích
 
 Vrstva zobrazuje souhrnnou informaci o počtu židovských obyvatel v jednotlivých pražských čtvrtích dle počtu Židů registrovaných k říjnu 1941 k pobytu v Praze. Zobrazení vrstvy je vázáno na měřítko mapy, zobrazuje se pouze do hodnoty 1:15001.
 
 Vrstva je zpracována na základě informací pocházejících z Databáze obětí spravované Institutem Terezínské iniciativy.
 
-###Incidenty v prostoru města Prahy:
+### Incidenty v prostoru města Prahy:
 
 Vrstva incidentů zobrazuje případy porušování protižidovských předpisů a nařízení.
 
@@ -31,7 +31,7 @@ Již od zřízení protektorátu byly osoby považované za Židy podrobeny mno�
 
 Údaje byly v rámci projektu MemoGIS Praha vyexcerpovány z digitalizovaných dokumentů pražské policie. Jde například o informace o nedodržování prostorových zákazů, o občanských průkazech neoznačených písmenem "J" (Jude), apod. Záznamy o jednotlivých “incidentech” odkazují na originální dokumenty přístupné na serveru www.holocaust.cz, kde lze najít další podrobnosti.
 
-###Body zájmu
+### Body zájmu
 
 Vrstva zobrazuje informace o více než 200 bodů zájmu, tedy míst souvisejících s každodenním životem židovských obyvatel Prahy i místa přímo související s jejich perzekucí.
 Bydliště Židů v Praze v době okupace
@@ -41,7 +41,7 @@ Oběti holokaustu z Prahy
 
 Vrstva bez grafické reprezentace v mapě, přináší textovou informaci o obětech holokaustu žijících v jednotlivých domech, včetně odkazu do Databáze obětí na portálu holocaust.cz.
 
-###Historická mapa Prahy
+### Historická mapa Prahy
 
 Specifická vrstva umožňující jako pozadí zobrazit dobovou mapu Prahy.
 
@@ -49,9 +49,9 @@ Orientační plán hlavního města Prahy s okolím z roku 1938 zpracovala do di
 
 Zobrazení historické mapy může aplikaci v některých zařízeních zpomalovat. Pokud máte se zobrazením problémy, můžete přepnout na verzi aplikace bez historické mapy.
 
-##Práce s aplikací MemoGIS
+## Práce s aplikací MemoGIS
 
-###Zobrazení vrstev mapy
+### Zobrazení vrstev mapy
 
 Jednotlivé typy dat jsou soustředěny do tzv. vrstev, mezi nimiž může uživatel aplikace libovolně přepínat. Možnost zvolit zobrazené vrstvy se nachází v hlavním menu v pravém horním rohu obrazovky.
 Přiblížení a oddálení mapy
@@ -60,11 +60,13 @@ Tlačítka přiblížení a oddálení mapy se nachází v pravém dolním rohu 
 Služba určování polohy
 
 Zapnutí a vypnutí služby určování polohy je ovládáno pomocí tlačítka v pravém dolním rohu obrazovky. Aktivování tlačítka umožní na mapě zobrazit, kde se aktuálně nacházíte. Tlačítko určování polohy má tři režimy, které se přepínají jeho stisknutím: vypnuto, zapnuto – uživatel může dále libovolně procházet mapu, zapnuto a zacentrováno na polohu uživatele.
-Kredit
+
+## Kredit
 
 Projekt Integrace a segregace v prostoru města: dějiny holokaustu v Praze prostřednictvím mobilní webové aplikace (idenifikátor TL01000366) byl podpořen Technologickou agenturou České republiky v rámci veřejné soutěže ÉTA 1.
 
 Aplikaci MemoGIS vytvořil Masarykův ústav a archiv AV ČR ve spolupráci s Institutem Terezínské iniciativy a Multikulturním centrem Praha.
-Našli jste chybu?
+
+## Našli jste chybu?
 
 Pokud jste při práci s aplikací narazili na technický problém či chybu v zobrazovaných datech, využijte prosím formulář pro hlášení chyb.
