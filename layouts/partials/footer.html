@@ -19,7 +19,7 @@
             <li>
                 <a href="{{ relLangURL "services" }}">{{ i18n "services" }}</a>
                 <ul>
-                    {{- range site.Menus.hlservices }}
+                    {{- range site.Menus.services }}
                     <li>
                         <a target="_blank" href="{{ .PageRef | relURL }}">{{ or (T .Identifier) .Name | safeHTML }}</a>
                     </li>
