@@ -9,7 +9,7 @@ params:
   facebookUrl: 'https://facebook.com/EHRIproject'
   twitterUrl: 'https://twitter.com/EHRIproject'
   contactName: EHRI CZ
-  contactEmail: feedback@ehri-uk.org
+  contactEmail: ehri@mua.cas.cz
   contactForm: false
   contactFormUrl: dummy
 
@@ -42,16 +42,16 @@ menu:
       pageRef: training
       weight: 40
   services:
-    - identifier: portal
-      pageRef: 'https://portal.ehri-project.eu/'
+    - identifier: memogis
+      pageRef: 'https://ehri.cz/memogis/praha/'
       weight: 10
-    - identifier: document_blog
-      pageRef: 'https://blog.ehri-project.eu/'
+    - identifier: holocaustcz
+      pageRef: url
       weight: 20
-#    - identifier: digital_tools_guide
-#      pageRef: 'https://github.com/EHRI/ehri-data-analysis-tools'
-#      weight: 30
-    - identifier: podcast
+    - identifier: terezin_research_guide
+      pageRef: 'https://github.com/EHRI/ehri-data-analysis-tools'
+      weight: 30
+    - identifier: geodata
       pageRef: 'https://www.ehri-project.eu/ehri-podcast-for-the-living-and-the-dead'
       weight: 40
 
