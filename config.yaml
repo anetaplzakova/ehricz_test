@@ -45,14 +45,14 @@ menu:
     - identifier: memogis
       pageRef: 'https://ehri.cz/memogis/praha/'
       weight: 10
-    - identifier: holocaustcz
+    - identifier: 'https://www.holocaust.cz/'
       pageRef: url
       weight: 20
     - identifier: terezin_research_guide
-      pageRef: 'https://github.com/EHRI/ehri-data-analysis-tools'
+      pageRef: 'https://portal.ehri-project.eu/guides/terezin'
       weight: 30
     - identifier: geodata
-      pageRef: 'https://www.ehri-project.eu/ehri-podcast-for-the-living-and-the-dead'
+      pageRef: 'https://geodata.ehri-project.eu/'
       weight: 40
 
 
