@@ -17,9 +17,9 @@
 
         <ul class="menu-2">
             <li>
-                <a href="{{ relLangURL "hlservices" }}">{{ i18n "services" }}</a>
+                <a href="{{ relLangURL "services" }}">{{ i18n "services" }}</a>
                 <ul>
-                    {{- range site.Menus.services }}
+                    {{- range site.Menus.hlservices }}
                     <li>
                         <a target="_blank" href="{{ .PageRef | relURL }}">{{ or (T .Identifier) .Name | safeHTML }}</a>
                     </li>
