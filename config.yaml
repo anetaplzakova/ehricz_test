@@ -45,8 +45,8 @@ menu:
     - identifier: memogis
       pageRef: 'https://ehri.cz/memogis/praha/'
       weight: 10
-    - identifier: 'https://www.holocaust.cz/'
-      pageRef: url
+    - identifier: holocaustcz
+      pageRef: 'https://www.holocaust.cz/'
       weight: 20
     - identifier: terezin_research_guide
       pageRef: 'https://portal.ehri-project.eu/guides/terezin'
