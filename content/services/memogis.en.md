@@ -72,4 +72,4 @@ The MemoGIS application was created by the [Masaryk Institute and Archives of th
 
 ## Have you found an error?
 
-If you’ve encountered a technical problem or error in the data displayed, please use the bug report form and let us know.
+If you’ve encountered a technical problem or error in the data displayed, please use the [bug report form](https://docs.google.com/forms/d/15jprT8Sbc-Llt1CfAPrIzU4S8YIDjREixRADGzbA62k) and let us know.
