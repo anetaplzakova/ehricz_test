@@ -3,6 +3,18 @@ about:
 
 partners:
   other: Consortium
+
+memogis:
+  other: MemoGIS Prague
+
+holocaustcz:
+  other: Holocaust.cz Portal
+
+terezin_research_guide:
+  other: Terezín Research Guide
+
+geodata:
+  other: Geospatial Repository
   
 footer_support:
   other: EHRI-CZ is part of the LINDAT/CLARIAH-CZ infrastructure, which is fully supported by the Ministry of Education, Youth and Sports of the Czech Republic as part of the "large infrastructures" program.
