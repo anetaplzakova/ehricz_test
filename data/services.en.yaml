@@ -1,56 +1,56 @@
 ---
 - id: memogis
-  name: MemoGIS Prague
+  title: MemoGIS Prague
   url: https://ehri.cz/memogis/prague/
   icon: article
   image: memogis.PNG
-  about: |
+  content: |
     The Historical Geographical Information System projects data about the Holocaust victims and their interaction with public space onto a map of Prague. [More...](../services/memogis)
 
 - id: holocaustcz
-  name: Holocaust.cz Portal
+  title: Holocaust.cz Portal
   url: https://www.holocaust.cz/en/main-2/
   icon: meeting_room
   image: holocaustcz.PNG
-  about: |
+  content: |
     The portal makes contains information about the history of the genocide of Jews and Roma, and makes accessible a database of Holocaust victims and digitized documents.
     
 - id: portal
-  name: EHRI Portal
+  title: EHRI Portal
   url: https://portal.ehri-project.eu/
   icon: meeting_room
   image: cards-still-1.png
-  about: |
+  content: |
      The EHRI portal provides access to information on Holocaust-related material in archives in Europe and globally.
 
 - id: blog
-  name: Document Blog
+  title: Document Blog
   url: https://blog.ehri-project.eu/
   icon: article
   image: names-2.png
-  about: |
+  content: |
     The EHRI Document Blog is a space for sharing new perspectives on Holocaust-related documents, their presentation and interpretation.
 
 - id: geodata
-  name: Geospatial Repository
+  title: Geospatial Repository
   url: https://geodata.ehri-project.eu/
   icon: article
   image: geodata.png
-  about: |
+  content: |
     EHRI Geospatial Repository provides access to datasets that make it possible to create maps on the subject of the Holocaust and analyse it through spatial approaches.
 
 - id: terezin_research_guide
-  name: Terezín Research Guide
+  title: Terezín Research Guide
   url: https://portal.ehri-project.eu/guides/terezin
   icon: meeting_room
   image: terezin_research_guide.png
-  about: |
+  content: |
     A comprehensive, innovative and easy-to-use guide to the scattered and fragmentary archival material on the history of the Terezín ghetto.
 
 - id: editions
-  name: EHRI Online Editions
+  title: EHRI Online Editions
   url: https://www.ehri-project.eu/ehri-online-editions
   icon: lab_profile
   image: doklady-1.png
-  about: |
+  content: |
     Annotated digitized documents from various sources represent a new way of presenting digital archival content.

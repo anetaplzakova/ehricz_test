@@ -1,19 +1,19 @@
 ---
 
-- name: Deadline for applications for Conny Kristel Fellowships 2023
+- title: Deadline for applications for Conny Kristel Fellowships 2023
   url: https://www.ehri-project.eu/Conny-Kristel-Fellowships_2023
   date: 22. 10. 2023
-  about: |
+  content: |
     Fellowships provide access to key Holocaust-related archives and collections, as well as expertise in archives and digital humanities.
     
-- name: "Wartime Paperwork: How Citizens Navigated Soviet Bureaucracy During and After World War II"
+- title: "Wartime Paperwork: How Citizens Navigated Soviet Bureaucracy During and After World War II"
   url: https://blog.ehri-project.eu/2023/08/18/wartime-paperwork-soviet-bureaucracy/
   date: 18. 8. 2023 EHRI Document Blog
-  about: |
+  content: |
    Tobias Walsh's article in a series on the Holocaust in Ukraine outlines how Soviet Jewish citizens exploited loopholes in the Soviet bureaucracy to negotiate their position in society.
 
-- name: EHRI launches Geospatial Repository
+- title: EHRI launches Geospatial Repository
   url: https://www.ehri-project.eu/ehri-launches-its-geospatial-repository
   date: 19. 6. 2023
-  about: |
+  content: |
     By providing access to data on Holocaust-related places and spaces, the EHRI Geospatial Repository facilitates research focused on spatial and geographical approaches.
