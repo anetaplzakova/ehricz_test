@@ -1,58 +1,58 @@
 ---
 - id: memogis
-  title: MemoGIS Praha
+  name: MemoGIS Praha
   url: https://ehri.cz/memogis/praha/
   icon: article
   image: memogis.PNG
-  content: |
+  about: |
     Historický geografický informační systém promítá na mapu Prahy data o obětech holokaustu a jejich interakci s veřejným prostorem. [Více o projektu...](../services/memogis)
 
 - id: holocaustcz
-  title: Portál holocaust.cz
+  name: Portál holocaust.cz
   url: https://www.holocaust.cz/
   icon: meeting_room
   image: holocaustcz.PNG
-  content: |
+  about: |
     Portál zpřístupňuje informace o historii genocidy Židů a Romů a databáze obětí holokaustu na území České republiky a digitalizovaných dokumentů.
     
 - id: portal
-  title: Portál EHRI
+  name: Portál EHRI
   url: https://portal.ehri-project.eu/
   icon: meeting_room
   image: cards-still-1.png
-  content: |
+  about: |
     Portál EHRI zpřístupňuje informace o materiálech týkajících se holokaustu v archivech v Evropě i globálně.
 
 - id: blog
-  title: Dokumentový blog
+  name: Dokumentový blog
   url: https://blog.ehri-project.eu/
   icon: article
   image: names-2.png
-  content: |
+  about: |
     EHRI Document Blog (Dokumentový blog) je prostor pro sdílení nových pohledů na dokumenty týkající se holokaustu, jejich prezentaci a interpretaci.
 
 - id: geodata
-  title: Repozitoř geografických dat
+  name: Repozitoř geografických dat
   url: https://geodata.ehri-project.eu/
   icon: article
   image: geodata.png
-  content: |
+  about: |
     EHRI Geospatial Repository zpřístupňuje datové sady, jež umožňují vytvářet mapy k tématu holokaustu a analyzovat jej prostřednictvím prostorových přístupů.
 
 - id: terezin_research_guide
-  title: Terezín Research Guide
+  name: Terezín Research Guide
   url: https://portal.ehri-project.eu/guides/terezin
   icon: meeting_room
   image: terezin_research_guide.png
-  content: |
+  about: |
     Komplexní, inovativní a snadno použitelný průvodce rozptýleným a fragmentárním archivním materiálem k historii ghetta Terezín.
 
 - id: editions
-  title: EHRI online edice
+  name: EHRI online edice
   url: https://www.ehri-project.eu/ehri-online-editions
   icon: lab_profile
   image: doklady-1.png
-  content: |
+  about: |
     Komentovaných digitalizované dokumenty z různých zdrojů představují nový způsob prezentace digitálního archivního obsahu.
 
 
