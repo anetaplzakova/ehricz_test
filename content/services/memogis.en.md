@@ -2,6 +2,7 @@
 title: MemoGIS Prague
 layout: training
 type: training
+date: 2023-12-01
 ---
 
 {{< intro >}}
