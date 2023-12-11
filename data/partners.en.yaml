@@ -1,19 +1,19 @@
 ---
 
 - id: mua
-  name: Masaryk Institute and Archives of the Czech Academy of Sciences
+  title: Masaryk Institute and Archives of the Czech Academy of Sciences
   url: https://www.nacr.cz/en/
   image: MUA_logo_ENG.png
-  about: |
+  content: |
    The institute, founded by the first Czechoslovak president Thomas G. Masaryk in 1932 and later joined the Archives of the Czechoslovak Academy of Sciences, is the leading Czech research organisation focusing on the history of the 19th and 20th centuries.
 
     It combines primary historical research with archival experience. In keeping with Masaryk's legacy, it aims to ask new questions about difficult topics in Czech and European modern history, including war, mass violence and genocide, migration and refugees, as well as nationalism and various forms of racism.
 
 - id: na
-  name: The National Archives
+  title: The National Archives
   url: https://www.nacr.cz/en/
   image: NA_logo_ENG.png
-  about: |
+  content: |
    The National Archives is an administrative authority and the central archive of the Czech Republic directly managed by the Ministry of the Interior.
 
     The archive was established in 1954 by incorporating the Archives of the Czech Lands and the Central Agricultural and Forestry Archives into the Central Archives of the Ministry of the Interior. However, the tradition of the institution can be traced back to the distant past. The newly established archive became a scientific research institute, which was entrusted with the professional care of the archival holdings (collections), especially of central authorities, bodies and institutions.
@@ -21,19 +21,19 @@
     Today, the main essence of the National Archives' research programme is a combination of basic and applied research. It carries out scientific and research activities in the field of archival science, auxiliary historical sciences, historiography and related scientific fields, and performs the tasks of a central scientific and research workplace in the field of preventive care of archival materials, preservation and restoration of archival materials, as well as in the field of preservation and access to new forms of information media, including documents in digital form.
 
 - id: pt
-  name: Terezín Memorial
+  title: Terezín Memorial
   url: https://www.pamatnik-terezin.cz/?lang=en
   image: PT_logo.png
-  about: |
+  content: |
     The Terezín Memorial is a national cultural monument, a contributory organization of the Ministry of Culture of the Czech Republic, which is tasked with preserving the memory of the victims of Nazi persecution during World War II. 
     
     The memorial was established by the then Czechoslovak government in 1947 under the name Memorial of National Suffering.
     
 - id: iti
-  name: Terezín Initiative Institute
+  title: Terezín Initiative Institute
   url: http://www.terezinstudies.cz/en
   image: ITI_logo_ENG.png
-  about: |
+  content: |
    The Terezín Initiative Institute, a non-profit organization, was created by transforming the Terezín Initiative Foundation, founded in 1993 by the Terezín Initiative, an international association of former prisoners of the Terezín ghetto.
 
     It supports scientific research on various aspects of modern history, especially the relations between the majority and minorities living in the area of the Czech Republic today. It operates the educational portal holocaust.cz, the Holocaust Victims Database and a public professional library. It publishes professional publications and organises educational seminars for teachers and pupils of Czech schools and the public. It organises an annual commemorative event, the Public Reading of the Names of Holocaust Victims - Yom HaShoah.

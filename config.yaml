@@ -4,6 +4,8 @@ title: Česká republika
 theme: ehri-nn
 copyright: '© 2010-{year} EHRI, český uzel EHRI.'
 defaultContentLanguage: cs
+dateFormat: '2 January 2006'
+summaryLength: 40
 params:
   titleShort: EHRI-CZ
   facebookUrl: 'https://facebook.com/EHRIproject'
