@@ -61,7 +61,7 @@ more_about_mission:
   other: Více o poslání a vizi EHRI
 
 go_to:
-  other:  Přejít na {{ .Title }}
+  other:  Přejít na {{ .Name }}
 
 # Contact page
 contact_send_message:
