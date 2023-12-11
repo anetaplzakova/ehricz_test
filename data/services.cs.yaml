@@ -1,10 +1,10 @@
 ---
 - id: memogis
-  name: MemoGIS Praha
+  title: MemoGIS Praha
   url: https://ehri.cz/memogis/praha/
   icon: article
   image: memogis.PNG
-  about: |
+  content: |
     Historický geografický informační systém promítá na mapu Prahy data o obětech holokaustu a jejich interakci s veřejným prostorem. [Více o projektu...](../services/memogis)
 
 - id: holocaustcz
