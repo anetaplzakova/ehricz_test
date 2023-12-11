@@ -1,6 +1,6 @@
 ---
 title: Services
-layout: services
+layout: single
 type: services
 ---
 
