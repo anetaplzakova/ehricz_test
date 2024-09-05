@@ -16,7 +16,7 @@
     Text
   contact: true
 
-  - id: bronec
+- id: bronec
   name: Mgr. Jakub Bronec, Ph.D.
   email: bronec@mua.cas.cz
   image: person-icon.png
