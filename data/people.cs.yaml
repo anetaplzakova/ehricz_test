@@ -15,3 +15,11 @@
   about: |
     Text
   contact: true
+
+  - id: bronec
+  name: Mgr. Jakub Bronec, Ph.D.
+  email: bronec@mua.cas.cz
+  image: person-icon.png
+  about: >
+   Text
+  contact: true
