@@ -1,35 +1,39 @@
 ---
-title: Databáze pronásledovaných: nové perspektivy výzkumu, vzdělávání a připomínky holokaustu
+title: Victim Databases: new perspectives on Holocaust research, education and remembrance
 layout: training
 type: training
 date: 2024-06-09
 ---
 
 {{< intro >}}
-Seminář českého uzlu Evropské infrastruktury pro výzkum holokaustu (EHRI)
+Victim Databases: new perspectives on Holocaust research, education and remembrance
 {{< /intro >}}
 
 {{< figure src="../../images/memogis.PNG" class="fig-float fig-right" 
 
-## Co je cílem semináře?
+## Seminar of the Czech node of the European Holocaust Research Infrastructure (EHRI)
 
-Cílem semináře je zhodnocení stavu a kritická reflexe dokumentace jmen a osudů lidí, kteří byli pronásledováni v době holokaustu v českých zemích a ve středovýchodní Evropě. Setkání je součástí dlouhodobé snahy českého uzlu EHRI o promýšlení priorit a nových přístupů k databázím historických aktérů.
+Prague, 4-5 December 2024
+Venue: National Archives of the Czech Republic
 
-Zachování identity a dokumentace osudů pronásledovaných bylo již od počátku jedním z pilířů připomínání a výzkumu o holokaustu. Sběr informací začal tajně během druhé světové války a pokračoval po osvobození, kdy se přeživší navraceli z koncentračních táborů nebo z emigrace. Výsledkem této dokumentace byl mj. také unikátní památník v Pinkasově synagoze (součást Židovského muzea v Praze). Od 90. let probíhaly intenzivní práce na přípravě Terezínských pamětních knih a na databázích pronásledovaných, z nichž některé byly zpřístupněny online. Vytváření těchto dat bylo a zůstává součástí transnacionální spolupráce. Výsledkem jsou rozsáhlé a unikátní datové sady týkající se historických aktérů.
+The aim of the seminar is to evaluate the state of the art and critically reflect on the documentation of the names and fates of people who were persecuted during the Holocaust in the Czech lands and in Central and Eastern Europe. The meeting is part of a long-term effort of the Czech node of EHRI to discuss priorities and new approaches to databases of historical actors.
 
-Rozšiřování a doplňování těchto datových zdrojů je však zároveň podnětem pro kritickou diskusi o jejich dalším rozvoji a využití, a to v širším kontextu výzkumu o holokaustu, genocidách, nucené migraci a dalších tématech. Digitální obrat v historiografii, nové metody digitálních humanitních věd a revoluce spojená s umělou inteligencí přinášejí nové možnosti, jinou heuristiku a složitější etické otázky.
+Preserving the identity and documenting the fate of the persecuted has been one of the pillars of Holocaust commemoration and research since its beginning. The collection of information began in secret during World War II and continued after liberation, when survivors returned from concentration camps or emigration. The result of this documentation was, among other things, the unique memorial in the Pinkas Synagogue (part of the Jewish Museum in Prague). From the 1990s onwards, intensive work was carried out on the preparation of the Terezín Memorial Books and on databases of the persecuted, some of which were made available online. The creation of these data was and remains part of transnational cooperation. The result is extensive and unique datasets on historical actors.
 
-### V rámci semináře se budeme věnovat mj. následujícím tématům:
+The expansion and addition of these data sources, however, is also a stimulus for critical discussion about their further development and use in the broader context of research on the Holocaust, genocides, forced migration and other topics. The digital turn in historiography, new methods in the digital humanities, and the revolution associated with artificial intelligence bring new possibilities, different heuristics, and more complex ethical questions.
 
-<li>Nové prameny a reflexe mezer v dokumentaci.</li>
-<li>Transnacionální spolupráce a propojování pramenů (mj. Arolsen Archives, spolupráce národních uzlů EHRI).</li>
-<li>Nové výzkumné otázky umožněné rozsáhlými datovými sadami.</li>
-<li>Digitální přístupy a nástroje, kvantitativní analýza, umělá intelligence.</li>
-<li>Etické aspekty sběru a zpřístupňování historických osobních dat v praxi.</li>
-<li>Standardizace, unikátní identifátory, propojování a zpřístupňování.</li>
+### The seminar will cover the following topics:
 
-Součástí semináře bude také představení služeb EHRI na evropské i české úrovni a seznámení s databází Arolsen Archives, včetně možnosti praktického vyzkoušení. Přihlášky k účasti (s příspěvkem I bez něj) lze posílat na ehri@mua.cas.cz <b>do 15. října 2024.</b>
+<li>New sources and reflection on gaps in documentation.</li>
+<li>Transnational cooperation and linking of sources (e.g. Arolsen Archives, cooperation of national EHRI nodes).</li>
+<li>New research questions enabled by large datasets.</li>
+<li>Digital approaches and tools, quantitative analysis, artificial intelligence.</li>
+<li>Ethical aspects of collection and disclosure of historical personal data in practice.</li>
+<li>Standardisation, unique identifiers, linking and accessibility.</li>
+<li>The use of data of the persecuted in Holocaust education and commemoration.</li>
+
+The seminar will also include a presentation of EHRI services at European and Czech level and hands-on presentation of the database of the Arolsen Archives which is now accessible in the National Archives in Prague. Applications for participation (with or without contribution) can be sent to ehri@mua.cas.cz <b>until 15 October 2024.</b>
 
 www.ehri.cz
 
-Český uzel EHRI je součástí velké výzkumné infrastruktury LINDAT/CLARIAH-CZ, která je podporována Ministerstvem školství, mládeže a tělovýchovy České republiky.
+The Czech node of EHRI is part of the large LINDAT/CLARIAH-CZ research infrastructure supported by the Ministry of Education, Youth and Sports of the Czech Republic.
