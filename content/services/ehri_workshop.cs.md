@@ -30,6 +30,4 @@ Rozšiřování a doplňování těchto datových zdrojů je však zároveň pod
 
 Součástí semináře bude také představení služeb EHRI na evropské i české úrovni a seznámení s databází Arolsen Archives, včetně možnosti praktického vyzkoušení. Přihlášky k účasti (s příspěvkem I bez něj) lze posílat na ehri@mua.cas.cz <b>do 15. října 2024.</b>
 
-www.ehri.cz
-
 Český uzel EHRI je součástí velké výzkumné infrastruktury LINDAT/CLARIAH-CZ, která je podporována Ministerstvem školství, mládeže a tělovýchovy České republiky.
