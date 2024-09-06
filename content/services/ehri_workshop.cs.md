@@ -1,80 +1,35 @@
 ---
-title: MemoGIS Praha
+title: Databáze pronásledovaných: nové perspektivy výzkumu, vzdělávání a připomínky holokaustu
 layout: training
 type: training
-date: 2023-12-01
+date: 2024-06-09
 ---
 
 {{< intro >}}
-Historický geografický informační systém MemoGIS promítá na mapu Prahy data o více než 35 000 obětech holokaustu, místech pronásledování a interakci se zužujícím se veřejným prostorem i jeho ostatními obyvateli. MemoGIS je vytvořen jako mobilní webová aplikace, která uživatelům umožňuje téma zkoumat nejen z domácího či školního počítače, ale také přímo v prostoru města prostřednictvím mobilních zařízení.
+Seminář českého uzlu Evropské infrastruktury pro výzkum holokaustu (EHRI)
 {{< /intro >}}
 
-{{< figure src="../../images/memogis.PNG" class="fig-float fig-right" caption="Přejít do [aplikace MemoGIS Praha...](https://ehri.cz/memogis/praha)" >}}
+{{< figure src="../../images/memogis.PNG" class="fig-float fig-right" 
 
-## Jaká data MemoGIS obsahuje?
+## Co je cílem semináře?
 
-Aplikace zobrazuje data více než 30 000 obětí holokaustu, 1 700 případů porušování protižidovských předpisů a nařízení a 200 bodů zájmu.
+Cílem semináře je zhodnocení stavu a kritická reflexe dokumentace jmen a osudů lidí, kteří byli pronásledováni v době holokaustu v českých zemích a ve středovýchodní Evropě. Setkání je součástí dlouhodobé snahy českého uzlu EHRI o promýšlení priorit a nových přístupů k databázím historických aktérů.
 
-Data týkající se obětí holokaustu pocházejí z Databáze obětí spravované Institutem Terezínské iniciativy. Díky jeho rozsáhlému digitálnímu archivu, který obsahuje mimo jiné digitalizáty vybraných dokumentů z fondu Policejní ředitelství Praha, se dále podařilo zpracovat a v rámci MemoGIS zpřístupnit údaje o více než 1 700 konkrétních případů porušování protižidovských předpisů a nařízení. MemoGIS je dále obohacen o tzv. body zájmu, tj. místa související s každodenním životem židovských obyvatel Prahy a později také místa přímo související s jejich perzekucí.
+Zachování identity a dokumentace osudů pronásledovaných bylo již od počátku jedním z pilířů připomínání a výzkumu o holokaustu. Sběr informací začal tajně během druhé světové války a pokračoval po osvobození, kdy se přeživší navraceli z koncentračních táborů nebo z emigrace. Výsledkem této dokumentace byl mj. také unikátní památník v Pinkasově synagoze (součást Židovského muzea v Praze). Od 90. let probíhaly intenzivní práce na přípravě Terezínských pamětních knih a na databázích pronásledovaných, z nichž některé byly zpřístupněny online. Vytváření těchto dat bylo a zůstává součástí transnacionální spolupráce. Výsledkem jsou rozsáhlé a unikátní datové sady týkající se historických aktérů.
 
-MemoGIS využívá metody geografického informačního systému, technologie vyvinuté pro zobrazení informací přesně umístitelných na mapě prostřednictvím koordinátů. Badatelé věnující se GIS i ti, kteří zkoumají geografie holokaustu, poukazují na to, že tato původně vojenská technologie má svá omezení v tom, že komplexní skutečnost překládá do jednoduchých dat zobrazitelých na mapě. Nejistota či dvojznačnost nebo subjektivní vnímání místa a prostoru tak zůstávají stranou. MemoGIS proto nerezprezentuje celek zkušenosti židovských obětí holokaustu a dalších obyvatel Prahy. Je ale podnětem pro to, abychom nově promysleli prostor, v němž se běžně pohybujeme a v němž vylučování ze společnosti začínalo.
+Rozšiřování a doplňování těchto datových zdrojů je však zároveň podnětem pro kritickou diskusi o jejich dalším rozvoji a využití, a to v širším kontextu výzkumu o holokaustu, genocidách, nucené migraci a dalších tématech. Digitální obrat v historiografii, nové metody digitálních humanitních věd a revoluce spojená s umělou inteligencí přinášejí nové možnosti, jinou heuristiku a složitější etické otázky.
 
-Jednotlivé typy dat jsou soustředěny do tzv. vrstev, mezi nimiž může uživatel aplikace libovolně přepínat nebo vytvářet jejich kombinace:
+### V rámci semináře se budeme věnovat mj. následujícím tématům:
 
-### Počet Židů v pražských čtvrtích
+<li>Nové prameny a reflexe mezer v dokumentaci.</li>
+<li>Transnacionální spolupráce a propojování pramenů (mj. Arolsen Archives, spolupráce národních uzlů EHRI).</li>
+<li>Nové výzkumné otázky umožněné rozsáhlými datovými sadami.</li>
+<li>Digitální přístupy a nástroje, kvantitativní analýza, umělá intelligence.</li>
+<li>Etické aspekty sběru a zpřístupňování historických osobních dat v praxi.</li>
+<li>Standardizace, unikátní identifátory, propojování a zpřístupňování.</li>
 
-Vrstva zobrazuje souhrnnou informaci o počtu židovských obyvatel v jednotlivých pražských čtvrtích dle počtu Židů registrovaných k říjnu 1941 k pobytu v Praze. Zobrazení vrstvy je vázáno na měřítko mapy, zobrazuje se pouze do hodnoty 1:15001.
+Součástí semináře bude také představení služeb EHRI na evropské i české úrovni a seznámení s databází Arolsen Archives, včetně možnosti praktického vyzkoušení. Přihlášky k účasti (s příspěvkem I bez něj) lze posílat na ehri@mua.cas.cz <b>do 15. října 2024.</b>
 
-Vrstva je zpracována na základě informací pocházejících z Databáze obětí spravované Institutem Terezínské iniciativy.
+www.ehri.cz
 
-### Incidenty v prostoru města Prahy:
-
-Vrstva incidentů zobrazuje případy porušování protižidovských předpisů a nařízení.
-
-Již od zřízení protektorátu byly osoby považované za Židy podrobeny množství zákazů a nařízení, jejichž cílem bylo výrazné omezení jejich osobní svobody a izolace od nežidovského obyvatelstva, vedoucí k jejich postupné segregaci. Vyhlášky, nařízení a zákazy, které vstupovaly v platnost v letech 1939-1943, omezovaly jejich osobní a životní prostor, volný pohyb, a také jejich přístup ke zdrojům a k informacím. Židé nesměli bez povolení opouštět místa, kde byli přihlášeni k pobytu, stále více zakázaných zón se objevovalo ve veřejných prostorech měst - nesměli navštěvovat většinu parků, veřejných zahrad, lesů a relaxačních míst, byli omezeni v nákupních a úředních hodinách, nesměli procházet určitými ulicemi a zdržovat se v blízkosti některých budov, nesměli opouštět svá bydliště po osmé hodině večerní, bylo jim zapovězeno navštěvovat kavárny, restaurace, biografy, divadla, koncerty, knihovny, veřejné plovárny.
-
-Údaje byly v rámci projektu MemoGIS Praha vyexcerpovány z digitalizovaných dokumentů pražské policie. Jde například o informace o nedodržování prostorových zákazů, o občanských průkazech neoznačených písmenem "J" (Jude), apod. Záznamy o jednotlivých “incidentech” odkazují na originální dokumenty přístupné na serveru www.holocaust.cz, kde lze najít další podrobnosti.
-
-### Body zájmu
-
-Vrstva zobrazuje informace o více než 200 bodů zájmu, tedy míst souvisejících s každodenním životem židovských obyvatel Prahy i místa přímo související s jejich perzekucí.
-
-### Bydliště Židů v Praze v době okupace
-
-Vrstva zobrazuje informace o počtu židovských obyvatel v konkrétních domech. Informace o bydlišti zpravidla pochází z registrace Židů v protektorátu, která byla zahájena na podzim 1941. V mnoha případech proto zachycují židovské obyvatele již po nuceném přestěhování do jiné čtvrti nebo sestěhování do společných bytů. Zobrazení vrstvy je vázáno na měřítko mapy, zobrazuje se od hodnoty 1:15000 a níže.
-
-### Oběti holokaustu z Prahy
-
-Vrstva bez grafické reprezentace v mapě, přináší textovou informaci o obětech holokaustu žijících v jednotlivých domech, včetně odkazu do Databáze obětí na portálu holocaust.cz.
-
-### Historická mapa Prahy
-
-Specifická vrstva umožňující jako pozadí zobrazit dobovou mapu Prahy.
-
-Orientační plán hlavního města Prahy s okolím z roku 1938 zpracovala do digitální podoby Městská knihovna v Praze. Včetně rejstříků je zpřístupněn na http://web2.mlp.cz/mapa1938/klad.php. Mapa je použita se svolením Městské knihovny a byla v rámci přípravy MemoGISu georeferencována.
-
-Zobrazení historické mapy může aplikaci v některých zařízeních zpomalovat. Pokud máte se zobrazením problémy, můžete přepnout na [verzi aplikace bez historické mapy](https://ehri.cz/memogis/praha_simple).
-
-## Práce s aplikací MemoGIS
-
-### Zobrazení vrstev mapy
-
-Jednotlivé typy dat jsou soustředěny do tzv. vrstev, mezi nimiž může uživatel aplikace libovolně přepínat. Možnost zvolit zobrazené vrstvy se nachází v hlavním menu v pravém horním rohu obrazovky.
-
-### Přiblížení a oddálení mapy
-
-Tlačítka přiblížení a oddálení mapy se nachází v pravém dolním rohu obrazovky. Přítomna jsou pouze při studiu aplikace na počítači – při práci s mobilními zařízeními je přiblížení a oddálení obrazovky ovládáno gesty.
-
-### Služba určování polohy
-
-Zapnutí a vypnutí služby určování polohy je ovládáno pomocí tlačítka v pravém dolním rohu obrazovky. Aktivování tlačítka umožní na mapě zobrazit, kde se aktuálně nacházíte. Tlačítko určování polohy má tři režimy, které se přepínají jeho stisknutím: vypnuto, zapnuto – uživatel může dále libovolně procházet mapu, zapnuto a zacentrováno na polohu uživatele.
-
-## Kredit
-
-Projekt Integrace a segregace v prostoru města: dějiny holokaustu v Praze prostřednictvím mobilní webové aplikace (idenifikátor TL01000366) byl podpořen [Technologickou agenturou České republiky](https://www.tacr.cz/) v rámci veřejné soutěže ÉTA 1.
-
-Aplikaci MemoGIS vytvořil [Masarykův ústav a archiv AV ČR](https://www.mua.cas.cz/cs) ve spolupráci s [Institutem Terezínské iniciativy](http://www.terezinstudies.cz) a [Multikulturním centrem Praha](https://mkc.cz/).
-
-## Našli jste chybu?
-
-Pokud jste při práci s aplikací narazili na technický problém či chybu v zobrazovaných datech, využijte prosím [formulář pro hlášení chyb](https://docs.google.com/forms/d/15jprT8Sbc-Llt1CfAPrIzU4S8YIDjREixRADGzbA62k).
+Český uzel EHRI je součástí velké výzkumné infrastruktury LINDAT/CLARIAH-CZ, která je podporována Ministerstvem školství, mládeže a tělovýchovy České republiky.
