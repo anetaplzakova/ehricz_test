@@ -1,5 +1,5 @@
 ---
-title: Databáze pronásledovaných - nové perspektivy výzkumu, vzdělávání a připomínky holokaustu
+title: Workshop Databáze pronásledovaných
 layout: training
 type: training
 date: 2024-06-09
