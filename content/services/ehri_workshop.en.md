@@ -9,7 +9,7 @@ date: 2024-06-09
 Victim Databases: new perspectives on Holocaust research, education and remembrance
 {{< /intro >}}
 
-{{< figure src="../../images/memogis.PNG" class="fig-float fig-right" 
+{{< figure src="../../images/memogis.PNG" class="fig-float fig-right" >}}
 
 ## Seminar of the Czech node of the European Holocaust Research Infrastructure (EHRI)
 
