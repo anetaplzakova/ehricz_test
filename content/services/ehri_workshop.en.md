@@ -5,12 +5,6 @@ type: training
 date: 2024-06-09
 ---
 
-{{< intro >}}
-Victim Databases: new perspectives on Holocaust research, education and remembrance
-{{< /intro >}}
-
-{{< figure src="../../images/memogis.PNG" class="fig-float fig-right" >}}
-
 ## Seminar of the Czech node of the European Holocaust Research Infrastructure (EHRI)
 
 Prague, 4-5 December 2024
