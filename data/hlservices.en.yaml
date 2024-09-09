@@ -1,12 +1,4 @@
----
-- id: memomap
-  title: MemoMap Prague
-  url: https://ehri.cz/memogis/prague/
-  icon: article
-  image: MemoMap.PNG
-  content: |
-    The MemoMap Prague application projects information about the fate of Holocaust victims into the city space.
-    
+---    
 - id: memogis
   title: MemoGIS Prague
   url: https://ehri.cz/memogis/prague/
