@@ -9,7 +9,7 @@ date: 2024-06-09
 Seminář českého uzlu Evropské infrastruktury pro výzkum holokaustu (EHRI)
 {{< /intro >}}
 
-
+{{< figure src="../../images/memogis.PNG" class="fig-float fig-right" caption="Přejít do [aplikace MemoGIS Praha...](https://ehri.cz/memogis/praha)" >}}
 
 ## Co je cílem semináře?
 
