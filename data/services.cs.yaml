@@ -1,12 +1,4 @@
 ---
-- id: memomap
-  title: MemoMap Praha
-  url: https://ehri.cz/memogis/praha/
-  icon: article
-  image: MemoMap.png
-  content: |
-    Aplikace MemoMap Praha promítá do prostoru města informace o osudech obětí holokaustu.
-
 - id: holocaustcz
   title: Portál holocaust.cz
   url: https://www.holocaust.cz/
