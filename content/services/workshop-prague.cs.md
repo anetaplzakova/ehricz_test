@@ -1,17 +1,16 @@
 ---
-title: workshop Praha
+title: Databáze pronásledovaných: nové perspektivy výzkumu, vzdělávání a připomínky holokaustu
 layout: training
 type: training
 date: 2024-09-10
 ---
 
 {{< intro >}}
-Databáze pronásledovaných: nové perspektivy výzkumu, vzdělávání a připomínky holokaustu
+Seminář českého uzlu Evropské infrastruktury pro výzkum holokaustu (EHRI)
 {{< /intro >}}
 
 {{< figure src="../../images/memogis.PNG" class="fig-float fig-right" caption="Přejít do [aplikace MemoGIS Praha...](https://ehri.cz/memogis/praha)" >}}
 
-## Seminář českého uzlu Evropské infrastruktury pro výzkum holokaustu (EHRI)
 <li>Praha, 4.-5. 12. 2024 </li>
 <li> Národní archiv </li>
 
