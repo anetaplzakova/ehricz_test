@@ -11,8 +11,8 @@ Seminář českého uzlu Evropské infrastruktury pro výzkum holokaustu (EHRI)
 
 {{< figure src="../../images/EHRI-logo.png" class="fig-float fig-right" >}}
 
-<li>Praha, 4.-5. 12. 2024 </li>
-<li> Národní archiv </li>
+Praha, 4.-5. 12. 2024 </li>
+Národní archiv </li>
 
 ### Co je cílem semináře?
 Cílem semináře je zhodnocení stavu a kritická reflexe dokumentace jmen a osudů lidí, kteří byli pronásledováni v době holokaustu v českých zemích a ve středovýchodní Evropě. Setkání je součástí dlouhodobé snahy českého uzlu EHRI o promýšlení priorit a nových přístupů k databázím historických aktérů.
@@ -22,14 +22,14 @@ Zachování identity a dokumentace osudů pronásledovaných bylo již od počá
 Rozšiřování a doplňování těchto datových zdrojů je však zároveň podnětem pro kritickou diskusi o jejich dalším rozvoji a využití, a to v širším kontextu výzkumu o holokaustu, genocidách, nucené migraci a dalších tématech. Digitální obrat v historiografii, nové metody digitálních humanitních věd a revoluce spojená s umělou inteligencí přinášejí nové možnosti, jinou heuristiku a složitější etické otázky.
 
 ### V rámci semináře se budeme věnovat mj. následujícím tématům:
-<li>Nové prameny a reflexe mezer v dokumentaci. </li>
-<li> Transnacionální spolupráce a propojování pramenů (mj. Arolsen Archives, spolupráce národních uzlů EHRI).</li>
-<li> Nové výzkumné otázky umožněné rozsáhlými datovými sadami.</li>
-<li> Digitální přístupy a nástroje, kvantitativní analýza, umělá intelligence.</li>
-<li> Etické aspekty sběru a zpřístupňování historických osobních dat v praxi.</li>
-<li> Standardizace, unikátní identifátory, propojování a zpřístupňování.</li>
-<li> Využití dat pronásledovaných ve vzdělávání a připomínání holokaustu.</li>
-<p>Součástí semináře bude také představení služeb EHRI na evropské i české úrovni a seznámení s databází Arolsen Archives, včetně možnosti praktického vyzkoušení. Přihlášky k účasti (s příspěvkem I bez něj) lze posílat na ehri@mua.cas.cz do 15. října 2024.
+Nové prameny a reflexe mezer v dokumentaci.
+Transnacionální spolupráce a propojování pramenů (mj. Arolsen Archives, spolupráce národních uzlů EHRI).
+Nové výzkumné otázky umožněné rozsáhlými datovými sadami.
+Digitální přístupy a nástroje, kvantitativní analýza, umělá intelligence.
+Etické aspekty sběru a zpřístupňování historických osobních dat v praxi.
+Standardizace, unikátní identifátory, propojování a zpřístupňování.
+Využití dat pronásledovaných ve vzdělávání a připomínání holokaustu.
+Součástí semináře bude také představení služeb EHRI na evropské i české úrovni a seznámení s databází Arolsen Archives, včetně možnosti praktického vyzkoušení. Přihlášky k účasti (s příspěvkem I bez něj) lze posílat na ehri@mua.cas.cz do 15. října 2024.
 
 www.ehri.cz 
 
