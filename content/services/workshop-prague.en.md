@@ -6,9 +6,9 @@ date: 2024-10-09
 ---
 
 {{< intro >}}
-Seminar of the Czech node of the European Holocaust Research Infrastructure (EHRI)
-Prague, 4-5 December 2024
-Venue: National Archives of the Czech Republic
+#### Seminar of the Czech node of the European Holocaust Research Infrastructure (EHRI)
+#### Prague, 4-5 December 2024
+#### Venue: National Archives of the Czech Republic
 {{< /intro >}}
 
 {{< figure src="../../images/EHRI-logo.png" class="fig-float fig-right" >}}
@@ -22,12 +22,12 @@ The expansion and addition of these data sources, however, is also a stimulus fo
 
 ### The seminar will cover the following topics:
 
-New sources and reflection on gaps in documentation.
-Transnational cooperation and linking of sources (e.g. Arolsen Archives, cooperation of national EHRI nodes). 
-New research questions enabled by large datasets. 
-Digital approaches and tools, quantitative analysis, artificial intelligence. 
-Ethical aspects of collection and disclosure of historical personal data in practice. 
-Standardisation, unique identifiers, linking and accessibility. 
-The use of data of the persecuted in Holocaust education and commemoration.
+- New sources and reflection on gaps in documentation.
+- Transnational cooperation and linking of sources (e.g. Arolsen Archives, cooperation of national EHRI nodes). 
+- New research questions enabled by large datasets. 
+- Digital approaches and tools, quantitative analysis, artificial intelligence. 
+- Ethical aspects of collection and disclosure of historical personal data in practice. 
+- Standardisation, unique identifiers, linking and accessibility. 
+- The use of data of the persecuted in Holocaust education and commemoration.
 
 The seminar will also include a presentation of EHRI services at European and Czech level and hands-on presentation of the database of the Arolsen Archives which is now accessible in the National Archives in Prague. Applications for participation (with or without contribution) can be sent to **ehri@mua.cas.cz until 15 October 2024.**
