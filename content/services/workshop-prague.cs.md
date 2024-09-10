@@ -9,7 +9,7 @@ date: 2024-09-10
 Seminář českého uzlu Evropské infrastruktury pro výzkum holokaustu (EHRI)
 {{< /intro >}}
 
-{{< figure src="../../images/memogis.PNG" class="fig-float fig-right" caption="Přejít do [aplikace MemoGIS Praha...](https://ehri.cz/memogis/praha)" >}}
+{{< figure src="../../images/EHRI-logo.png" class="fig-float fig-right" >}}
 
 <li>Praha, 4.-5. 12. 2024 </li>
 <li> Národní archiv </li>
