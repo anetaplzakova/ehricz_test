@@ -9,7 +9,7 @@ date: 2024-10-09
 Seminar of the Czech node of the European Holocaust Research Infrastructure (EHRI)
 {{< /intro >}}
 
-{{< figure src="../../images/memogis.PNG" class="fig-float fig-right" caption="Přejít do [aplikace MemoGIS Praha...](https://ehri.cz/memogis/praha)" >}}
+{{< figure src="../../images/EHRI-logo.png" class="fig-float fig-right" >}}
 
 Prague, 4-5 December 2024
 Venue: National Archives of the Czech Republic
