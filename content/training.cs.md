@@ -6,7 +6,7 @@ type: training
 
 ## Stipendia Conny Kristel
 
-{{< figure src="../images/EHRI_fellowships.jpg" width="100px" class="fig-float fig-right" caption=`
+{{< figure src="../images/EHRI_fellowships.jpg" width="50%" class="fig-float fig-right" caption=`
 Stipendia Conny Kristel
 ` >}}
 
