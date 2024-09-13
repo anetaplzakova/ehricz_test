@@ -13,7 +13,7 @@ Projekt MemoMap umožňuje studovat historii holokaustu skrze prostor města a m
 V současnosti nabízíme MemoMapu pro město Praha a připravujeme k publikaci obdobnou aplikaci pro město Pacov. Doufáme, že v dalších letech přidáme další místa a nové funkce. 
 {{< /intro >}}
 
-{{< figure src="../../images/memogis.PNG" class="fig-float fig-right" caption="Přejít do [aplikace MemoGIS Praha...](https://ehri.cz/memogis/praha)" >}}
+{{< figure src="../../images/memomap.png" class="fig-float fig-right" caption="Přejít do [aplikace MemoGIS Praha...](https://memomap.cz/)" >}}
 
 ### MemoMapy a konstrukce prostoru
 
