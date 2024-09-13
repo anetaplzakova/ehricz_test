@@ -11,8 +11,8 @@ Seminář českého uzlu Evropské infrastruktury pro výzkum holokaustu (EHRI)
 
 {{< figure src="../../images/EHRI-logo.png" class="fig-float fig-right" >}}
 
-##### Datum: Praha, 4.-5. 12. 2024
-##### Místo: Národní archiv
+##### Datum: 4.-5. 12. 2024
+##### Místo: Národní archiv, Praha
 
 ### Co je cílem semináře?
 Cílem semináře je zhodnocení stavu a kritická reflexe dokumentace jmen a osudů lidí, kteří byli pronásledováni v době holokaustu v českých zemích a ve středovýchodní Evropě. Setkání je součástí dlouhodobé snahy českého uzlu EHRI o promýšlení priorit a nových přístupů k databázím historických aktérů.
