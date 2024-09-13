@@ -6,12 +6,13 @@ date: 2024-10-09
 ---
 
 {{< intro >}}
-#### Seminar of the Czech node of the European Holocaust Research Infrastructure (EHRI)
-#### Prague, 4-5 December 2024
-#### Venue: National Archives of the Czech Republic
+Workshop of the Czech node of the European Holocaust Research Infrastructure (EHRI)
 {{< /intro >}}
 
 {{< figure src="../../images/EHRI-logo.png" class="fig-float fig-right" >}}
+
+##### Date: Prague, 4-5 December 2024
+##### Venue: National Archives of the Czech Republic
 
 ### What is the aim of the seminar?
 The aim of the seminar is to evaluate the state of the art and critically reflect on the documentation of the names and fates of people who were persecuted during the Holocaust in the Czech lands and in Central and Eastern Europe. The meeting is part of a long-term effort of the Czech node of EHRI to discuss priorities and new approaches to databases of historical actors.
