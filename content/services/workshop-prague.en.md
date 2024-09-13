@@ -2,7 +2,7 @@
 title: Victim Databases new perspectives on Holocaust research, education and remembrance
 layout: training
 type: training
-date: 2024-10-09
+date: 2024-09-10
 ---
 
 {{< intro >}}
