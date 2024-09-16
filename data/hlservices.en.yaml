@@ -1,9 +1,9 @@
 ---    
-- id: memogis
-  title: MemoGIS Prague
-  url: https://ehri.cz/memogis/prague/
+- id: memomap
+  title: MemoMap Praha
+  url: https://memomap.cz/
   icon: article
-  image: memogis.PNG
+  image: memomap.png
   content: |
     The Historical Geographical Information System projects data about the Holocaust victims and their interaction with public space onto a map of Prague. [More...](../services/memogis)
 
