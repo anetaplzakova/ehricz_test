@@ -5,8 +5,7 @@
   icon: article
   image: memomap.png
   content: |
-    The Historical Geographical Information System projects data about the Holocaust victims and their interaction with public space onto a map of Prague. [More...](../services/memogis)
-
+    The Historical Geographical Information System projects data about the Holocaust victims and their interaction with public space onto a map of Prague.
 - id: holocaustcz
   title: Holocaust.cz Portal
   url: https://www.holocaust.cz/en/main-2/
