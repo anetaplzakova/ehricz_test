@@ -1,4 +1,12 @@
 ---
+- id: memomap
+  title: MemoMap
+  url: https://www.memomap.cz/
+  icon: meeting_room
+  image: memomap.png
+  content: |
+    Aplikace zpřístupňuje informace o historii genocidy Židů.
+    
 - id: holocaustcz
   title: Portál holocaust.cz
   url: https://www.holocaust.cz/
