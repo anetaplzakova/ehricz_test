@@ -1,4 +1,12 @@
 ---
+- id: memomap
+  title: MemoMap
+  url: https://www.memomap.cz/
+  icon: meeting_room
+  image: holocaustcz.PNG
+  content: |
+    The portal makes contains information about the history of the genocide of Jews and Roma, and makes accessible a database of Holocaust victims and digitized documents.
+    
 - id: holocaustcz
   title: Holocaust.cz Portal
   url: https://www.holocaust.cz/en/main-2/
