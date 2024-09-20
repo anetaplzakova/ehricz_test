@@ -5,7 +5,7 @@
   icon: meeting_room
   image: memomap.png
   content: |
-    Aplikace zpřístupňuje informace o historii genocidy Židů.
+    Historický geografický informační systém promítá na mapu Prahy data o obětech holokaustu a interakci s obyvateli města ve zužujícím se veřejném prostoru.
     
 - id: holocaustcz
   title: Portál holocaust.cz
