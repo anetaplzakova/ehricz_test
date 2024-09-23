@@ -2,7 +2,7 @@
 title: MemoMapa  zkoumejte dějiny holokaustu v prostoru 
 layout: training
 type: training
-date: 2024-09-10
+date: 2024-09-09
 ---
 
 {{< intro >}}
