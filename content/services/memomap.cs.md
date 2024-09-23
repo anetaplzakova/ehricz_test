@@ -1,16 +1,12 @@
 ---
-title: MemoMapa  zkoumejte dějiny holokaustu v prostoru 
+title: MemoMapa | zkoumejte dějiny holokaustu v prostoru 
 layout: training
 type: training
 date: 2024-09-09
 ---
 
 {{< intro >}}
-Projekt MemoMap umožňuje studovat historii holokaustu skrze prostor města a míst pronásledování. Název je odvozen z anglického memory map, tedy paměťová mapa, která propojuje informace o lidech, tedy historických aktérech, a místech, v nichž se pronásledování odehrávalo. 
-
-Řadí se k dalším projektům, jež vkládají informace o historii holokaustu do mapy. MemoMapy usilují o využití velmi rozsáhlých souborů dat, mezi něž patří databáze obětí, digitalizovaných dokumentů z veřejných i soukromých archivů, historických map a dalších kontextuálních informací.  
-
-V současnosti nabízíme MemoMapu pro město Praha a připravujeme k publikaci obdobnou aplikaci pro město Pacov. Doufáme, že v dalších letech přidáme další místa a nové funkce. 
+Projekt MemoMap umožňuje studovat historii holokaustu skrze prostor města a míst pronásledování. Název je odvozen z anglického memory map, tedy paměťová mapa, která propojuje informace o lidech, tedy historických aktérech, a místech, v nichž se pronásledování odehrávalo. Řadí se k dalším projektům, jež vkládají informace o historii holokaustu do mapy. MemoMapy usilují o využití velmi rozsáhlých souborů dat, mezi něž patří databáze obětí, digitalizovaných dokumentů z veřejných i soukromých archivů, historických map a dalších kontextuálních informací. V současnosti nabízíme MemoMapu pro město Praha a připravujeme k publikaci obdobnou aplikaci pro město Pacov. Doufáme, že v dalších letech přidáme další místa a nové funkce. 
 {{< /intro >}}
 
 {{< figure src="../../images/memomap.png" class="fig-float fig-right" >}}
