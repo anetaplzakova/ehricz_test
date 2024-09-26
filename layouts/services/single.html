@@ -1,0 +1,11 @@
+{{/* This partial is overridden to remove the 'services' class from the
+section element, which causes a list style to apply to the services boxes. */}}
+{{ define "main" }}
+    <section class="page-content">
+
+        <h1>{{ .Title }}</h1>
+        {{ .Content }}
+
+        {{ partial "services" . }}
+    </section>
+{{ end }}

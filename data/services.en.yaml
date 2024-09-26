@@ -1,7 +1,9 @@
 ---
 - id: memomap
   title: MemoMap
-  url: https://www.memomap.cz/
+  links:
+    - title: Go to MemoMap
+      url: https://www.memomap.cz/
   icon: meeting_room
   image: memomap.png
   content: |
