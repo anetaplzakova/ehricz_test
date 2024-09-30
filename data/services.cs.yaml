@@ -2,9 +2,9 @@
 - id: memomap
   title: MemoMap
   links:
-    - title: Vstup do MemoMap
+    - title: Vstup do aplikace MemoMap 
       url: https://memomap.cz/
-    - title: Více o MemoMap
+    - title: Více o aplikaci
       url: https://ehri.cz/services/memomappraha/
   icon: meeting_room
   image: memomap.png
