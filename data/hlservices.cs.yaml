@@ -1,7 +1,13 @@
 ---
 - id: memomap
   title: MemoMap Praha
-  url: https://memomap.cz/
+  links:
+    - title: Vstup do aplikace MemoMap 
+      url: https://memomap.cz/
+    - title: Více o aplikaci
+      url: https://ehri.cz/services/memomap/
+    - title: Více o MemoMap Praha
+      url: https://ehri.cz/services/memomappraha/
   icon: article
   image: memomap.png
   content: |
