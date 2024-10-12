@@ -1,7 +1,11 @@
 ---    
 - id: memomap
-  title: MemoMap Praha
-  url: https://memomap.cz/
+  title: MemoMap Prague
+  links:
+    - title: Go to MemoMap Prague 
+      url: https://memomap.cz/
+    - title: More about the application
+      url: /services/memomap-general/
   icon: article
   image: memomap.png
   content: |

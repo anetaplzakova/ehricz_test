@@ -10,7 +10,7 @@ Pátráte, co se za druhé světové války stalo ve vašem domě, vaší ulici 
 
 [Vstup do aplikace naleznete zde.](https://memomap.cz/)
 
-[Více o MemoMapách naleznete zde.](/services/memomap/) 
+[Více o MemoMapách naleznete zde.](/services/memomap-general/) 
 
 {{< /intro >}}
 
