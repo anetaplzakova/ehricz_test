@@ -14,7 +14,7 @@ Our MemoMap of Prague is currently available and we’re working on a similar ap
 [More about MemoMap Prague](/services/memomap/memomap-praha)
 
 
-{{< figure src="../../images/memomap.png" class="fig-float fig-right" >}}
+{{< figure src="/images/memomap.png" class="fig-float fig-right" >}}
 
 
 ### MemoMaps and spatial arrangement
