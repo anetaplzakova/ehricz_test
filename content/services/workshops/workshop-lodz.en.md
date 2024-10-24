@@ -24,7 +24,7 @@ With the growing interest in Holocaust geographies, researchers, projects and/or
 
 Izabela Terela/Konrad Niciński/Agnieszka Zalotyńska (Institute of Litterature Studies PAN/Lodz University); Work-in-progress presentation: Atlas of Holocaust Literature. Warszawa/Łódź (DH Project)
 
-Abigail Zola: Uncovering Emotional Contamination: Redefining the Process of SiteSpecific Architecture
+Abigail Zola: Uncovering Emotional Contamination: Redefining the Process of Site Specific Architecture
 
 Tadeusz Pupar (Lodz University): Morphological Transformations of Former Ghetto Area in Lodz
 
