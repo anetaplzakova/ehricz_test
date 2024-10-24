@@ -32,7 +32,7 @@ S rostoucím zájmem o geografii holokaustu se stále častěji objevují výzku
 - 16.00-16.30: coffee break (Sklodowskiej 11)
 - 16.30-18.00: Michal Frankl (Masaryk Institute and Archives of the Czech Academy of Sciences), Impossible Geography. Mapping the No Man’s Land and the Limits of Coordinates (keynote) 
 
-#### Tuesday 29/10/2024, Sklodowskiej 11
+#### Úterý 29/10/2024, Sklodowskiej 11
 
 - 9.00-11.00: II round of presentations Nadia Skokova (Center for Urban History, Lviv), Lviv Ghetto: Mapping the Erased Human Lives and Their Survival Strategies within the Extreme Violence System
 
@@ -51,7 +51,7 @@ Renata Masna/Michal Chojak (Yahad In-Unum), Turning a field investigation into a
 - 16.00-16.30: Coffee break
 - 18.30 – dinner 
 
-#### Wednesday 30/10/2024, Sklodowskiej 11
+#### Středa 30/10/2024, Sklodowskiej 11
 
 - 9.30-11.00: IV round of presentations
 
