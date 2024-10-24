@@ -56,10 +56,10 @@ S rostoucím zájmem o geografii holokaustu se stále častěji objevují výzku
 
 - 9.30-11.00: IV round of presentations
 
-Magdalena Saryusz-Wolska/Tomasz Panecki (German Historical Institute Warsaw/Institute of History PAN); Mapping Holocaust Mass Graves in the General 
-Government
+    Magdalena Saryusz-Wolska/Tomasz Panecki (German Historical Institute Warsaw/Institute of History PAN); Mapping Holocaust Mass Graves in the General 
+    Government
 
-Ildikó Barna/Eszter Katona (ELTE University); Visualizing Deportation: Interactive Maps of Hungarian Jewish Holocaust Survivors – Challenges and Proposed Solutions
+    Ildikó Barna/Eszter Katona (ELTE University); Visualizing Deportation: Interactive Maps of Hungarian Jewish Holocaust Survivors – Challenges and Proposed Solutions
 - 10.30-11.00: coffee break 
 - 11.00-13.00: Discussion: Mapping uncertainty. Trajectories and movement, relations and emotions as data
 - 13.00-13.30: final discussion
