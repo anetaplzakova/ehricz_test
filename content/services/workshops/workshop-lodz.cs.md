@@ -34,22 +34,23 @@ S rostoucím zájmem o geografii holokaustu se stále častěji objevují výzku
 
 #### Úterý 29/10/2024, Sklodowskiej 11
 
-- 9.00-11.00: II round of presentations Nadia Skokova (Center for Urban History, Lviv), Lviv Ghetto: Mapping the Erased Human Lives and Their Survival Strategies within the Extreme Violence System
+- 9.00-11.00: II round of presentations
+    Nadia Skokova (Center for Urban History, Lviv), Lviv Ghetto: Mapping the Erased Human Lives and Their Survival Strategies within the Extreme Violence System
 
-Wolfgang Schellenbacher (DÖW, Vienna), Mapping the Holocaust in Vienna: Using an Online Tool to Analyze Geo-Referenced Mass Data
+    Wolfgang Schellenbacher (DÖW, Vienna), Mapping the Holocaust in Vienna: Using an Online Tool to Analyze Geo-Referenced Mass Data
 
-Tim Buchen/Daniel Ljunggren (Univeristy of Gothenburg/ University of Wroclaw), Mapping Breslau’s Jewish Community: a Spatio-temporal Research Environment to Visualize and Analyse the Fate of 17 000 Community Members 1933-1950
-- 11.00-11.30 coffee break
-- 11.30-13.00 Discussion: What is in a Dataset? Challenges of Data, Standards and Tools
+    Tim Buchen/Daniel Ljunggren (Univeristy of Gothenburg/ University of Wroclaw), Mapping Breslau’s Jewish Community: a Spatio-temporal Research Environment to Visualize        and Analyse the Fate of 17 000 Community Members 1933-1950
+- 11.00-11.30: coffee break
+- 11.30-13.00: Discussion: What is in a Dataset? Challenges of Data, Standards and Tools
 - 13.00-14.00: lunch
 - 14.00-16.00: III round of presenations 
 
-Joanna Spyra (University of Huddersfield), Creating ‘Memory Maps’ in/of Trawniki
+    Joanna Spyra (University of Huddersfield), Creating ‘Memory Maps’ in/of Trawniki
 
-Renata Masna/Michal Chojak (Yahad In-Unum), Turning a field investigation into a digital map: challenges and practices
+    Renata Masna/Michal Chojak (Yahad In-Unum), Turning a field investigation into a digital map: challenges and practices
 
 - 16.00-16.30: Coffee break
-- 18.30 – dinner 
+- 18.30: dinner 
 
 #### Středa 30/10/2024, Sklodowskiej 11
 
