@@ -14,7 +14,7 @@ Are you wondering what happened in your house, in your apartment building, on yo
 
 {{< /intro >}}
 
-{{< figure src="../../images/memomap.png" class="fig-float fig-right" >}}
+{{< figure src="/images/memomap.png" class="fig-float fig-right" >}}
 
 ### What is MemoMap Prague and what can I find in it?
 MemoMap Prague is a historical-geographical information system that you can use both on your home or school computer, as well as on your modern mobile device as you walk around the city.
