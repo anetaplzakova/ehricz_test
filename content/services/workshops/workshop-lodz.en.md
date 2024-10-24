@@ -26,9 +26,9 @@ With the growing interest in Holocaust geographies, researchers, projects and/or
 
 -- Tadeusz Pupar (Lodz University): Morphological Transformations of Former Ghetto Area in Lodz
 
-- 13.30-14.30: lunch
+- 13.30-14.30: Lunch
 - 14.30-16.00: Guided tour around former ghetto area and Radegast station, part 2 (Adam Sitarek, Center for Jewish Research, Lodz)
-- 16.00-16.30: coffee break (Sklodowskiej 11)
+- 16.00-16.30: Coffee break (Sklodowskiej 11)
 - 16.30-18.00: Michal Frankl (Masaryk Institute and Archives of the Czech Academy of Sciences), Impossible Geography. Mapping the No Man’s Land and the Limits of Coordinates (keynote) 
 
 #### Tuesday 29/10/2024, Sklodowskiej 11
@@ -41,15 +41,15 @@ With the growing interest in Holocaust geographies, researchers, projects and/or
 
 -- Tim Buchen/Daniel Ljunggren (Univeristy of Gothenburg/ University of Wroclaw), Mapping Breslau’s Jewish Community: a Spatio-temporal Research Environment to Visualize and Analyse the Fate of 17 000 Community Members 1933-1950
 
-- 11.00-11.30 coffee break
-- 11.30-13.00 Discussion: What is in a Dataset? Challenges of Data, Standards and Tools
-- 13.00-14.00: lunch
+- 11.00-11.30: Coffee break
+- 11.30-13.00: Discussion: What is in a Dataset? Challenges of Data, Standards and Tools
+- 13.00-14.00: Lunch
 - 14.00-16.00: III round of presenations 
 
 -- Joanna Spyra (University of Huddersfield), Creating ‘Memory Maps’ in/of Trawniki
 -- Renata Masna/Michal Chojak (Yahad In-Unum), Turning a field investigation into a digital map: challenges and practices
 - 16.00-16.30: Coffee break
-- 18.30 – dinner 
+- 18.30 – Dinner 
 
 #### Wednesday 30/10/2024, Sklodowskiej 11
 
@@ -58,7 +58,7 @@ With the growing interest in Holocaust geographies, researchers, projects and/or
 
 -- Ildikó Barna/Eszter Katona (ELTE University); Visualizing Deportation: Interactive Maps of Hungarian Jewish Holocaust Survivors – Challenges and Proposed Solutions
 
-- 10.30-11.00: coffee break 
+- 10.30-11.00: Coffee break 
 - 11.00-13.00: Discussion: Mapping uncertainty. Trajectories and movement, relations and emotions as data
-- 13.00-13.30: final discussion
-- 13.30-14.00: lunch
+- 13.00-13.30: Final discussion
+- 13.30-14.00: Lunch
