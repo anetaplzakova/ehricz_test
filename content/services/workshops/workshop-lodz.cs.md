@@ -9,8 +9,6 @@ date: 2024-10-10
 S rostoucím zájmem o geografii holokaustu se stále častěji objevují výzkumní pracovníci, projekty a/nebo pedagogové, kteří pracují s daty reprezentujícími místa spojená s dějin holokaustu. Vyzýváme výzkumné pracovníky, kteří vytvářejí a využívají geoprostorová data v této oblasti, aby se přihlásili na mezinárodní workshop EHRI. Cílem workshopu je výměna zkušeností a diskuse o praktických problémech, s nimiž se setkává mnoho projektů pracujících s prostorovými daty. Zároveň se chceme zamyslet nad širšími heuristickými, epistemologickými a etickými otázkami.
 {{< /intro >}}
 
-{{< figure src="../../images/EHRI-logo.png" class="fig-float fig-right" >}}
-
 ##### Datum: 28.-30. 10. 2024
 ##### Místo: Oskar Ziegler Villa, University of Lodz, Marii Curie-Skłodowskiej 11
 
