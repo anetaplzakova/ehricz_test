@@ -15,7 +15,7 @@
   title: Holocaust.cz Portal
   url: https://www.holocaust.cz/en/main-2/
   icon: meeting_room
-  image: holocaustcz.PNG
+  image: holocaustcz2.PNG
   content: |
     The portal makes contains information about the history of the genocide of Jews and Roma, and makes accessible a database of Holocaust victims and digitized documents.
     
@@ -23,7 +23,7 @@
   title: EHRI Portal
   url: https://portal.ehri-project.eu/
   icon: meeting_room
-  image: cards-still-1.png
+  image: ehriportal.png
   content: |
      The EHRI portal provides access to information on Holocaust-related material in archives in Europe and globally.
 
@@ -39,7 +39,7 @@
   title: Geospatial Repository
   url: https://geodata.ehri-project.eu/
   icon: article
-  image: geodata.png
+  image: geodatarep.png
   content: |
     EHRI Geospatial Repository provides access to datasets that make it possible to create maps on the subject of the Holocaust and analyse it through spatial approaches.
 
@@ -47,7 +47,7 @@
   title: Terezín Research Guide
   url: https://portal.ehri-project.eu/guides/terezin
   icon: meeting_room
-  image: terezin_research_guide.png
+  image: terezin.png
   content: |
     A comprehensive, innovative and easy-to-use guide to the scattered and fragmentary archival material on the history of the Terezín ghetto.
 
@@ -55,6 +55,6 @@
   title: EHRI Online Editions
   url: https://www.ehri-project.eu/ehri-online-editions
   icon: lab_profile
-  image: doklady-1.png
+  image: campaign.png
   content: |
     Annotated digitized documents from various sources represent a new way of presenting digital archival content.

@@ -15,7 +15,7 @@
   title: Portál holocaust.cz
   url: https://www.holocaust.cz/
   icon: meeting_room
-  image: holocaustcz.PNG
+  image: holocaustcz2.PNG
   content: |
     Portál zpřístupňuje informace o historii genocidy Židů a Romů a databáze obětí holokaustu na území České republiky a digitalizovaných dokumentů.
     
@@ -23,7 +23,7 @@
   title: Portál EHRI
   url: https://portal.ehri-project.eu/
   icon: meeting_room
-  image: cards-still-1.png
+  image: ehriportal.png
   content: |
     Portál EHRI zpřístupňuje informace o materiálech týkajících se holokaustu v archivech v Evropě i globálně.
 
@@ -47,7 +47,7 @@
   title: Terezín Research Guide
   url: https://portal.ehri-project.eu/guides/terezin
   icon: meeting_room
-  image: terezin_research_guide.png
+  image: terezin.png
   content: |
     Komplexní, inovativní a snadno použitelný průvodce rozptýleným a fragmentárním archivním materiálem k historii ghetta Terezín.
 
@@ -55,7 +55,7 @@
   title: EHRI digitální edice
   url: https://www.ehri-project.eu/ehri-online-editions
   icon: lab_profile
-  image: doklady-1.png
+  image: campaign.png
   content: |
     Umožňují nový způsob prezentace digitálního archivního obsahu. Zaměřují se na anotované texty doplněné mimo jiné o skeny a interaktivní mapy.
 
