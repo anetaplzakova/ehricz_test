@@ -27,7 +27,9 @@ Spatial arrangement is a complex historical subject. MemoMaps intelligently inte
 ### Who can use MemoMaps? 
 Anybody. Our philosophy is that anyone can be a researcher. Academics as well as the public at large are free to use them. The MemoMaps application is adapted to mobile devices, allowing users to access them as they walk through urban spaces and stop by important sites of commemoration.
 
-They help researchers formulate new questions about the history of the Holocaust (for instance on the process of social exclusion, spatial segregation, or forms of resistance by the persecuted), use statistics, and work directly with most datasets stored in MemoMaps, primarily through the EHRI Geospatial Repository (see below). 
+They help researchers formulate new questions about the history of the Holocaust (for instance on the process of social exclusion, spatial segregation, or forms of resistance by the persecuted), use statistics, and work directly with most datasets stored in MemoMaps, primarily through the EHRI Geospatial Repository (see below).
+
+The maps help both students and residents to research the history of the Holocaust in the places where they live, work, or frequently spend their time. For victims' families, they can supplement the already known information published in Terezín memoirs and in the database of victims about where they were located in the city. 
 
 You can also use the application as an educational tool to teach about human rights, the Holocaust, or the history of racism and antisemitism. It supports modern approaches to teaching history and other subjects that encourage students to research independently and offers an interactive platform for work in the public space. 
 
