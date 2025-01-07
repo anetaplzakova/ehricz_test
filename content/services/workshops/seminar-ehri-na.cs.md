@@ -1,65 +1,67 @@
 ---
-title: EHRI Workshop | Holocaust Places and Spaces as Data | Challenges and Best Practices
+title: Seminář EHRI-CZ | Databáze perzekuovaných | Nové perspektivy výzkumu, vzdělávání a připomínání holokaustu
 layout: training
 type: training
 date: 2024-10-10
 ---
 
 {{< intro >}}
-S rostoucím zájmem o geografii holokaustu se stále častěji objevují výzkumní pracovníci, projekty a/nebo pedagogové, kteří pracují s daty reprezentujícími místa spojená s dějin holokaustu. Vyzýváme výzkumné pracovníky, kteří vytvářejí a využívají geoprostorová data v této oblasti, aby se přihlásili na mezinárodní workshop EHRI. Cílem workshopu je výměna zkušeností a diskuse o praktických problémech, s nimiž se setkává mnoho projektů pracujících s prostorovými daty. Zároveň se chceme zamyslet nad širšími heuristickými, epistemologickými a etickými otázkami.
+Dvoudenní seminář EHRI-CZ se zaměřil na zhodnocení stavu a kritickou reflexi dokumentace jmen a osudů lidí, kteří byli pronásledováni v době holokaustu v českých zemích a ve středovýchodní Evropě.
 {{< /intro >}}
 
-##### Datum: 28.-30. 10. 2024
-##### Místo: Oskar Ziegler Villa, University of Lodz, Marii Curie-Skłodowskiej 11
+##### Datum: 4.–5. prosince 2024
+##### Místo konání: Národní archiv, Archivní 2257/4, Praha 4
+Dvoudenní seminář EHRI-CZ se zaměřil na zhodnocení stavu a kritickou reflexi dokumentace jmen a osudů lidí, kteří byli pronásledováni v době holokaustu v českých zemích a ve středovýchodní Evropě. Setkání se uskutečnilo v kontextu dlouhodobé snahy českého uzlu EHRI o promýšlení priorit a nových přístupů k databázím historických aktérů. Jedním z hlavních témat workshopu bylo představení databáze Arolsen Archives, která já nově přístupná z Národního archivu. Během tzv. “hands on session” seznámili pracovníci archivu účastníky workshopu s možnostmi vyhledávání a praktickým využitím digitalizovaných sbírek. 
+Akci organizoval Masarykův ústav a Archiv AV ČR ve spolupráci s Národním archivem. Účastníci workshopu si vyslechli prezentace věnované mimo jiné novým digitálním přístupům, regionálním výzkumným perspektivám či transnacionálním databázím obětí. Příspěvky byly doplněné diskuzí nad dalším rozvojem a využitím dat, a to v širším kontextu výzkumu holokaustu, genocid či nucené migrace.
 
-### Program:
+### Program semináře:
 
-#### Pondělí 28/09/2023
+#### Středa 4. 12.:
 
-- 9.00-9.30: Welcome (Hotel lobby, Kościuszki 16)
-- 10.00-12.00: Guided tour around former ghetto area and Radegast station, part 1 (Adam Sitarek, Center for Jewish Research, Lodz)
+- 9:30 - 10:00 Registrace účastníků
+- 10:00 - 10:15 Úvodní slovo
+  -- Milan Vojáček (Národní archiv)
+  -- Martin Klečacký (Masarykův ústav a Archiv Akademie věd ČR)
+   
+- 10:15 - 10:30 Cíle workshopu, Evropská infrastruktura pro výzkum holokaustu, EHRI-CZ
+    -- Michal Frankl (Masarykův ústav a Archiv Akademie věd ČR)
+  
+- 10:30 – 12:30 Arolsen Archives poprvé v České republice – moderuje Martin Klečacký (Masarykův ústav a Archiv Akademie věd ČR)
+  -- Giora Zwilling (Arolsen Archives, Bad Arolsen) - úvod, historie, struktura databáze, sbírky a data k českým zemím
+  -- Aneta Plzáková (Masarykův ústav a Archiv Akademie věd ČR) - český kontext, porovnání dat z databází obětí
+  -- Jan Kouřimský, Monika Václavíková (Národní archiv) - perspektiva NA, ukázky z archivních sbírek zkopírovaných AA
+ 
+- 12:30 –13:15 Testování databáze Arolsen Archives (“Hands on session“) – 1. skupina (přednáškový sál NA) + 2. skupina (přednáškový sál SOA)
+- 13:15 – 14:00 Testování databáze Arolsen Archives (“Hands on session“) – 3. (přednáškový sál NA) + 4. skupina (přednáškový sál SOA
+  
+- 12:30 – 14:00 Oběd
+  
+- 14:00 – 15:30 Regionální perspektivy - moderuje Eva Janáčová (Ústav dějin umění Akademie věd ČR)
+  -- Táňa Klementová (Mehrin - Moravské židovské muzeum): Digitální archivy a databáze jako klíč k historii holokaustu na Moravě
+  -- Kateřina Portmann (Fakulta přírodovědně-humanitní a pedagogická Technické univerzity v Liberci): „Ztráta paměti“. Identita obětí holokaustu z Liberce
+  -- Ivana Cahová (Filozofická fakulta Univerzity Palackého v Olomouci): (Ne)viditelní Židé. Dokumentace a geoprostorová vizualizace dějin Židů v Olomouci
+  
+- 15:30 – 15:55 Coffee break
+  
+- 15:55 – 17:30 Nové digitální přístupy - moderuje Karin Roginer Hofmeister (Ústav formální a aplikované lingvistiky Matematicko-fyzikální fakulty Univerzity Karlovy)
+    -- Jan Hron, Aneta Plzáková (Masarykův ústav a Archiv Akademie věd ČR): Portál EHRI-CZ
+    -- Maria Dermentzi (Digital Humanities Consultant): From Records to Recognition: Entity Linking for Holocaust Victim Identification in Archival Records
+    -- Giora Zwilling (Arolsen Arichives, Bad Arolsen): Al indexing and its usage
 
-- 12.00-13.30: I round of presentations (Dialogue Center, Wojska Polskiego 83)
+#### Čtvrtek 5. 12.:
 
-    -- Izabela Terela/Konrad Niciński/Agnieszka Zalotyńska (Institute of Litterature Studies PAN/Lodz University); Work-in-progress presentation: Atlas of Holocaust       Literature. Warszawa/Łódź (DH Project)
-
-    -- Abigail Zola: Uncovering Emotional Contamination: Redefining the Process of Site Specific Architecture Tadeusz Pupar (Lodz University): Morphological Transformations of Former Ghetto Area in Lodz
-
-- 13.30-14.30: Lunch
-- 14.30-16.00: Guided tour around former ghetto area and Radegast station, part 2 (Adam Sitarek, Center for Jewish Research, Lodz)
-- 16.00-16.30: Coffee break (Sklodowskiej 11)
-- 16.30-18.00: Michal Frankl (Masaryk Institute and Archives of the Czech Academy of Sciences), Impossible Geography. Mapping the No Man’s Land and the Limits of Coordinates (keynote) 
-
-#### Úterý 29/10/2024, Sklodowskiej 11
-
-- 9.00-11.00: II round of presentations
-
-    -- Nadia Skokova (Center for Urban History, Lviv), Lviv Ghetto: Mapping the Erased Human Lives and Their Survival Strategies within the Extreme Violence System
-
-    -- Wolfgang Schellenbacher (DÖW, Vienna), Mapping the Holocaust in Vienna: Using an Online Tool to Analyze Geo-Referenced Mass Data
-
-    -- Tim Buchen/Daniel Ljunggren (Univeristy of Gothenburg/ University of Wroclaw), Mapping Breslau’s Jewish Community: a Spatio-temporal Research Environment to Visualize        and Analyse the Fate of 17 000 Community Members 1933-1950
-- 11.00-11.30: Coffee break
-- 11.30-13.00: Discussion: What is in a Dataset? Challenges of Data, Standards and Tools
-- 13.00-14.00: Lunch
-- 14.00-16.00: III round of presenations 
-
-    -- Joanna Spyra (University of Huddersfield), Creating ‘Memory Maps’ in/of Trawniki
-
-    -- Renata Masna/Michal Chojak (Yahad In-Unum), Turning a field investigation into a digital map: challenges and practices
-
-- 16.00-16.30: Coffee break
-- 18.30: Dinner 
-
-#### Středa 30/10/2024, Sklodowskiej 11
-
-- 9.30-11.00: IV round of presentations
-
-    -- Magdalena Saryusz-Wolska/Tomasz Panecki (German Historical Institute Warsaw/Institute of History PAN); Mapping Holocaust Mass Graves in the General 
-    Government
-
-    -- Ildikó Barna/Eszter Katona (ELTE University); Visualizing Deportation: Interactive Maps of Hungarian Jewish Holocaust Survivors – Challenges and Proposed Solutions
-- 10.30-11.00: Coffee break 
-- 11.00-13.00: Discussion: Mapping uncertainty. Trajectories and movement, relations and emotions as data
-- 13.00-13.30: Final discussion
-- 13.30-14.00: Lunch
+- 9:00 – 10:00 Databáze obětí transnacionálně - moderuje Michal Frankl (Masarykův ústav a Archiv Akademie věd ČR)
+    -- Wolfgang Schellenbacher (Dokumentationsarchiv des österreichischen Widerstandes, Vídeň)
+    -- Johannes Meerwald (Institut für Zeitgeschichte, Mnichov)
+    -- Tomáš Fedorovič (Památník Terezín)
+  
+- 10:25 – 11:55 Nové prameny - moderuje Magdalena Sedlická (Masarykův ústav a Archiv Akademie věd ČR)
+    -- Petr Matějček (Národní pedagogické muzeum a knihovna J. A. Komenského): Kartotéka dětí. Představení archiválií uložených v Archivu Přemysla Pittra a Olgy Fierzové jako pramene pro výzkum holokaustu
+    -- Branislav Dorko (Zemský archiv v Opavě): Prameny k poznání každodennosti Krnovska v období nacistického režimu
+    -- Zdeněk Kravar (Zemský archiv v Opavě): Archiválie postihující zabavování židovského majetku ve fondech Zemského archivu v Opavě
+    -- Martin Štindl (Moravský zemský archiv v Brně): Památník velkomeziříčských obětí holokaustu
+  
+- 11:55 - 12:40 EHRI-CZ v Národním archivu - moderuje Kateřina Portmann (Fakulta přírodovědně-humanitní a pedagogická Technické univerzity v Liberci)
+    -- Monika Václavíková (Národní archiv): Popisy archivních fondů v EHRI
+    -- Jan Kouřimský a Naděžda Kruglová (Národní archiv): Databáze přeživších deportovaných hromadnými transporty z Prahy
+    -- Zdeňka Kokošková (Národní archiv): Digitální edice periodických zpráv řídícího úseku SD v Praze
