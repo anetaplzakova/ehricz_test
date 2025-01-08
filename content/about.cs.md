@@ -6,7 +6,7 @@ layout: about
 
 {{< intro >}}
 
-Špičkový výzkum o holokaustu je předpokladem pro informovanou diskusi o českých, evropských i světových moderních dějinách a pro pochopení rizik a mechanismů rasismu a genocidy v jejich různých formách. [Evropská infrastruktura pro výzkum holokaustu](https://www.ehri-project.eu/) (EHRI) propojuje sbírky a prameny rozdělené hranicemi a jazyky, prosazuje digitální metody a podporuje badatele. Český uzel EHRI je bránou ke službám a komunitě EHRI zároveň rozcestníkem pro výzkum o holokaustu v České republice.
+Špičkový výzkum o holokaustu je předpokladem pro informovanou diskusi o českých, evropskýchi světových moderních dějinách a je nezbytným základem pro pochopení rizik a mechanismů rasismu a genocidy. [Evropská infrastruktura pro výzkum holokaustu](https://www.ehri-project.eu/) (EHRI) propojuje sbírky a prameny rozdělené státními hranicemi a jazykovou bariérou a zároveň podporuje využívání digitálních metod poskytuje pomoc badatelům. Český uzel EHRI slouží jako brána ke službám EHRI na celoevropské úrovni a zároveň je rozcestníkem pro výzkum o holokaustu v České republice.
 
 {{< /intro >}}
 
@@ -15,7 +15,7 @@ layout: about
 ## Výzkumná infrastruktura
 
 
-Český uzel EHRI je od roku 2023 stal součástí výzkumné infrastruktury [LINDAT/CLARIAH-CZ](https://www.lindat.cz/) podporované Ministerstvem školství, mládeže a tělovýchovy. 
+Český uzel EHRI se v roce 2023 stal součástí výzkumné infrastruktury [LINDAT/CLARIAH-CZ](https://www.lindat.cz/) podporované Ministerstvem školství, mládeže a tělovýchovy. 
 
 EHRI je financována Evropskou komisí pod rámcovými programy FP7, Horizont 2020 a Horizont Evropa.
 
@@ -27,7 +27,7 @@ Od roku 2018 je EHRI na cestovní mapě evropských výzkumných infrastruktur a
 EHRI-CZ poskytuje zejména tyto typy služeb:
 
 - Zpřístupňuje data a služby EHRI, mezi něž patří například [EHRI Portál](https://portal.ehri-project.eu/), [EHRI Dokumentový blog](https://blog.ehri-project.eu), [EHRI edice](https://www.ehri-project.eu/ehri-online-editions), [EHRI Geospatial Repository](https://geodata.ehri-project.eu/), [Stipendia Conny Kristel](https://www.ehri-project.eu/Conny-Kristel-Fellowships_2023) a další.
-- Vytváří data o pramenech k dějinám holokaustu v českých zemích a vkládá je do [EHRI Portálu](https://portal.ehri-project.eu/).
+- Vytváří a spravuje informace o pramenech k dějinám holokaustu v českých zemích a vkládá je do [EHRI Portálu](https://portal.ehri-project.eu/).
 - Propojuje a rozšiřuje databáze obětí a metodologicky podporuje jejich další rozvoj.
 - Na digitalizované prameny aplikuje digitální metody, mezi něž náleží například automatické rozpoznávání textu a řeči, identifikace míst, historických aktérů, klíčových slov a další.
 - Podporuje bádání za pomoci prostorových metod a interaktivních map, mj. skrze aplikaci MemoMAP.

@@ -30,9 +30,6 @@ digital_tools_guide:
 podcast:
   other: Podcast
 
-memogis:
-  other: MemoGIS Praha
-
 holocaustcz:
   other: Portál holocaust.cz
 
@@ -95,4 +92,28 @@ contact_back:
   other: Vrátit se zpět
 
 footer_support:
-  other: EHRI-CZ je součástí infrastruktury LINDAT/CLARIAH-CZ, která je je plně podporována Ministerstvem školství, mládeže a tělovýchovy České republiky v rámci programu "velkých infrastruktur".
+  other: EHRI-CZ je součástí infrastruktury LINDAT/CLARIAH-CZ, která je plně podporována Ministerstvem školství, mládeže a tělovýchovy České republiky v rámci programu  „velkých infrastruktur“.
+
+social_media:
+  other: Sociální média
+
+social_follow_us:
+  other: Sledujte nás na sociálních médiích
+
+social_facebook:
+  other: Facebook
+
+social_facebook_follow:
+  other: Sledujte nás na Facebooku
+
+social_x:
+  other: X (dříve Twitter)
+
+social_x_follow:
+  other: Sledujte nás na X (dříve Twitter)
+
+social_linkedin:
+  other: LinkedIn
+
+social_linkedin_follow:
+  other: Sledujte nás na LinkedIn
