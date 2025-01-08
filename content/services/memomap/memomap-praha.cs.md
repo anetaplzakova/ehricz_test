@@ -14,7 +14,7 @@ Pátráte, co se za druhé světové války stalo ve vašem domě, vaší ulici 
 
 {{< /intro >}}
 
-{{< figure src="../../images/memomap.png" class="fig-float fig-right" >}}
+{{< figure src="/images/memomap.png" class="fig-float fig-right" >}}
 
 ### Co je MemoMap Praha a co v ní najdu?
 MemoMap Praha je historický geografický informační systém, který můžete používat nejen z domácího či školního počítače, ale také přímo při procházce městem prostřednictvím moderních mobilních zařízení.

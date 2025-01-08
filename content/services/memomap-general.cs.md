@@ -13,7 +13,7 @@ Projekt MemoMap umožňuje studovat historii holokaustu skrze prostor města a m
 
 [Více o MemoMap Praha naleznete zde.](/services/memomap/memomap-praha)
 
-{{< figure src="../../images/memomap.png" class="fig-float fig-right" >}}
+{{< figure src="/images/memomap.png" class="fig-float fig-right" >}}
 
 ### MemoMapy a konstrukce prostoru
 
