@@ -98,7 +98,7 @@ Akci organizoval Masarykův ústav a Archiv AV ČR ve spolupráci s Národním a
 
    -- Zdeňka Kokošková (Národní archiv): Digitální edice periodických zpráv řídícího úseku SD v Praze
 
--  **11:55 - 12:40:** &nbsp;
+-  **12:40:** &nbsp; Oběd
 
 {{< gallery columns="4" >}}
 {{< image src="/images/druhy_den/IMG_0525_2.webp" caption="" >}}
