@@ -68,3 +68,7 @@ languages:
     title: Czech Republic
     weight: 2
   
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
