@@ -1,0 +1,7 @@
+<!-- image -->
+<figure>
+    <a href="{{ .Get "src" }}" title="{{ .Get "title" }}{{ .Get "caption" }}" data-fancybox="gallery" data-caption="{{ .Get "caption" }}">
+        <img src="{{ .Get "src" }}" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt"}}{{.}}{{else}}{{ .Get "caption" }}{{ end }}" {{ end }}{{ with .Get "width" }}width="{{.}}" {{ end }}{{ with .Get "height" }}height="{{.}}" {{ end }}/>
+    </a>
+</figure>
+<!-- image -->

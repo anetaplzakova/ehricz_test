@@ -1,0 +1,46 @@
+<div class="gallery clear">
+  {{ .Inner | markdownify }}
+</div>
+<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js"></script>
+<script>
+Fancybox.bind("[data-fancybox]", {
+  // Your custom options
+});
+</script>
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css"
+/>
+<style>
+.gallery {
+  display: grid;
+  grid-template-columns: repeat({{ .Get "columns" | default "2" }}, 1fr);
+  gap: 1rem;
+  margin: 2rem 0;
+}
+.gallery figure {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+.gallery figure a {
+  display: flex;
+  align-content: center;
+  align-items: center;
+  height: 100%;
+}
+.gallery figure img {
+  width: 100%;
+  object-fit: cover;
+  display: block;
+}
+.gallery figure:hover {
+  opacity: 0.85;
+}
+@media (max-width: 768px) {
+  .gallery {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+</style>
