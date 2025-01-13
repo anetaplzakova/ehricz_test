@@ -70,6 +70,8 @@ Akci organizoval Masarykův ústav a Archiv AV ČR ve spolupráci s Národním a
 {{< image src="/images/prvni_den/IMG_0169_1.webp" caption="" >}}
 {{< /gallery >}}
 
+Foto: NA
+
 #### Čtvrtek 5. 12.:
 
 -  **9:00 – 10:00:** &nbsp; Databáze obětí transnacionálně - moderuje Michal Frankl (Masarykův ústav a Archiv Akademie věd ČR)
@@ -109,3 +111,5 @@ Akci organizoval Masarykův ústav a Archiv AV ČR ve spolupráci s Národním a
 {{< image src="/images/druhy_den/IMG_0665_1.webp" caption="" >}}
 {{< image src="/images/druhy_den/IMG_0677_1.webp" caption="" >}}
 {{< /gallery >}}
+
+Foto: NA
