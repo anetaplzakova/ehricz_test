@@ -71,6 +71,8 @@ The event was organized by the Masaryk Institute and the Archives of the CAS in 
 {{< image src="/images/prvni_den/IMG_0169_1.webp" caption="" >}}
 {{< /gallery >}}
 
+Photos: NA
+
 #### Thursday, 5 December 2024:
 
 -  **9:00 – 10:00:** &nbsp; Databases of Victims Transnationally - Chair: Michal Frankl (Masaryk Institute and Archives of the Czech Academy of Sciences)
@@ -112,3 +114,5 @@ The event was organized by the Masaryk Institute and the Archives of the CAS in 
 {{< image src="/images/druhy_den/IMG_0665_1.webp" caption="" >}}
 {{< image src="/images/druhy_den/IMG_0677_1.webp" caption="" >}}
 {{< /gallery >}}
+
+Photos: NA
