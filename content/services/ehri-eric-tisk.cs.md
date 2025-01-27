@@ -10,8 +10,9 @@ Varšava, 26. ledna 2025: v předvečer připomínky 80. výročí osvobození k
 {{< /intro >}}
 ---
 
-{{< gallery columns="3" >}}
+{{< gallery columns="4" >}}
 {{< image src="/images/ehri-logo.png" caption="" >}}
+{{< image src="/images/eric_10.jpg" caption="" >}}
 {{< image src="/images/eric_1.jpg" caption="" >}}
 {{< image src="/images/eric_2.jpg" caption="" >}}
 {{< image src="/images/eric_3.jpg" caption="" >}}
