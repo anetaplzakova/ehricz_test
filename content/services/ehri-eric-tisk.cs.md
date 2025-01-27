@@ -11,16 +11,16 @@ Varšava, 26. ledna 2025: v předvečer připomínky 80. výročí osvobození k
 ---
 
 {{< gallery columns="3" >}}
-{{< image src="/images/ehri-logo.png." caption="" >}}
-{{< image src="/images/eric_1.jpg." caption="" >}}
-{{< image src="/images/eric_2.jpg." caption="" >}}
-{{< image src="/images/eric_3.jpg." caption="" >}}
-{{< image src="/images/eric_4.jpg." caption="" >}}
-{{< image src="/images/eric_5.jpg." caption="" >}}
-{{< image src="/images/eric_6.jpg." caption="" >}}
-{{< image src="/images/eric_7.jpg." caption="" >}}
-{{< image src="/images/eric_8.jpg." caption="" >}}
-{{< image src="/images/eric_9.jpg." caption="" >}}
+{{< image src="/images/ehri-logo.png" caption="" >}}
+{{< image src="/images/eric_1.jpg" caption="" >}}
+{{< image src="/images/eric_2.jpg" caption="" >}}
+{{< image src="/images/eric_3.jpg" caption="" >}}
+{{< image src="/images/eric_4.jpg" caption="" >}}
+{{< image src="/images/eric_5.jpg" caption="" >}}
+{{< image src="/images/eric_6.jpg" caption="" >}}
+{{< image src="/images/eric_7.jpg" caption="" >}}
+{{< image src="/images/eric_8.jpg" caption="" >}}
+{{< image src="/images/eric_9.jpg" caption="" >}}
 {{< /gallery >}}
 
 FOTO: Maciek Jazwiecki, EHRI
