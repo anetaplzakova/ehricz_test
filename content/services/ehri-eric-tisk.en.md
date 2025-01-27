@@ -23,6 +23,10 @@ Warsaw, 26 January 2025: On the eve of the commemoration of the 80th anniversary
 {{< image src="/images/eric_9.jpg." caption="" >}}
 {{< /gallery >}}
 
+
+PHOTO: Maciek Jazwiecki, EHRI
+
+
 This follows the decision of the [European Commission (EC)](https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-newseuropean-holocaust-research-infrastructure-becomes-30th-eu-recognised-research-consortium-major-2025-01-20_en) on 20 January 2025 to establish the European Holocaust Research Infrastructure as a [European Research Infrastructure Consortium (ERIC).](https://www.eric-forum.eu/) In doing so, the EC secures EHRI’s future and supports its vision to provide seamless access to all sources and expertise from across Europe and beyond that are relevant to the study of the Holocaust.
 
 The EHRI-ERIC is headquartered in the Netherlands, one of ten founding countries that further include the Czech Republic, Austria, Croatia, Germany, Israel, Poland, Romania, Slovakia, and the United Kingdom. Representatives of the individual states signed a symbolic declaration. The ceremonial event was opened by Hanna Wróblewska, Minister of Culture and National Heritage of Poland, and Władysław Teofil Bartoszewski, Secretary of State for Foreign Affairs of Poland, on behalf of the Polish Presidency of the Council of the European Union. Eppo Bruins, Dutch Minister of Education, Culture and Science, spoke on behalf of the hosting country of EHRI-ERIC, the Netherlands.
