@@ -10,8 +10,9 @@ Warsaw, 26 January 2025: On the eve of the commemoration of the 80th anniversary
 {{< /intro >}}
 ---
 
-{{< gallery columns="3" >}}
+{{< gallery columns="4" >}}
 {{< image src="/images/ehri-logo.png" caption="" >}}
+{{< image src="/images/eric_10.jpg" caption="" >}}
 {{< image src="/images/eric_1.jpg" caption="" >}}
 {{< image src="/images/eric_2.jpg" caption="" >}}
 {{< image src="/images/eric_3.jpg" caption="" >}}
