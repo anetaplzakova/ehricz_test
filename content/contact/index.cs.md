@@ -1,5 +1,5 @@
 ---
-title: Kontakty
+title: Kontakt
 type: contact
 ---
 
