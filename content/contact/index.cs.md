@@ -1,5 +1,5 @@
 ---
-title: Kontaktujte EHRI-CZ
+title: Kontakty
 type: contact
 ---
 

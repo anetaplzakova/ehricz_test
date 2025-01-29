@@ -79,9 +79,6 @@ contact_form_message:
 contact_form_send:
   other: Odeslat
 
-contact_coordinators:
-  other: Koordinátoři {{ .Title }}
-
 contact_social: # NB: need to quote this value due to the `{{`
   other: "{{ .Title }} na sociálních sítích"
 

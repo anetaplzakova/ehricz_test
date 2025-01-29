@@ -1,5 +1,5 @@
 ---
-title: Contact EHRI
+title: Contacts
 type: contact
 ---
 
