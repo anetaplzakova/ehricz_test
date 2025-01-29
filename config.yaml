@@ -10,6 +10,7 @@ params:
   titleShort: EHRI-CZ
   facebookUrl: 'https://www.facebook.com/profile.php?id=61565029209105'
   twitterUrl: 'https://x.com/Ehricz2024'
+  blueskyUrl: 'https://bsky.app/profile/ehri-cz.bsky.social'
   contactName: EHRI CZ
   contactEmail: ehri@mua.cas.cz
   contactForm: false
