@@ -9,7 +9,7 @@ date: 2025-02-05
 Pozvánka na cyklus přednášek EHRI-CZ a ŽMP „Nové poznatky a prameny k dějinám holokaustu“ 
 {{< /intro >}}
 
-{{< figure src="../../images/workshops/lecture-sedlicka/spolupracovnici_DA_1946_A.png" class="fig-float fig-right" caption="Pracovníci Dokumentační akce v Praze, 1946. Zleva: Zeev Schek, Edita Saxlová, Robert Weinberger, Harald Tressler (stojící), Berta Gerzonová, Ruth Bondy, Jiří Lauscher. Fotka byla uveřejněna se svolením Rachel Shek." >}}
+{{< figure src="../../../images/workshops/lecture-sedlicka/spolupracovnici_DA_1946_A.jpg" class="fig-float fig-right" caption="Pracovníci Dokumentační akce v Praze, 1946. Zleva: Zeev Schek, Edita Saxlová, Robert Weinberger, Harald Tressler (stojící), Berta Gerzonová, Ruth Bondy, Jiří Lauscher. Fotka byla uveřejněna se svolením Rachel Shek." >}}
 
 ##### Datum: 12. února 2025, 18h
 
