@@ -11,9 +11,10 @@ Pozvánka na cyklus přednášek EHRI-CZ a ŽMP „Nové poznatky a prameny k d�
 
 {{< figure src="../../images/EHRI-logo.png" class="fig-float fig-right" caption="" >}}
 
-##### 12. února 2025, 18h
+##### Datum: 12. února 2025, 18h
 
 ##### Místo konání: Auditorium OVK - 3. patro, Maiselova 15, Praha 1
 
 Při příležitosti připomínky 80. výročí konce druhé světové války připravilo Židovské muzeum v Praze ve spolupráci s Českým uzlem Evropské výzkumné infrastruktury pro výzkum holokaustu (EHRI-CZ) cyklus přednášek s názvem Nové poznatky a prameny k dějinám holokaustu. První příspěvek s názvem Dokumentační akce v Praze zahájí historička **Mgr. Magdalena Sedlická, Ph.D.** (Masarykův ústav a Archiv AV ČR, EHRI-CZ). 
+
 Prezentace se zaměří na digitální edici svědectví přeživších šoa, která byla shromážděna v rámci tzv. Dokumentační akce v Praze, jednoho z nejranějších projektů, jenž se zaměřoval na sběr autentických dokumentů a dokladů o šoa, primárně z území Protektorátu Čechy a Morava. Edice vznikla v rámci projektu Evropská infrastruktura pro výzkum holokaustu (EHRI), jehož platforma umožňuje nový způsob prezentace digitálního archivního obsahu. EHRI digitální edice se zaměřují na anotované texty doplněné mimo jiné o skeny dokumentů a interaktivní mapy.
