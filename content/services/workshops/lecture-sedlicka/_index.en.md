@@ -9,7 +9,7 @@ date: 2025-02-05
 Invitation to the lecture New Knowledge and Sources on the History of Holocaust part of the lecture series organized by EHRI-CZ and the Jewish Museum Prague. 
 {{< /intro >}}
 
-{{< figure src="../../../images/workshops/lecture-sedlicka/spolupracovnici_DA_1946_A.jpg" class="fig-float fig-right" caption="Workers of the Documentation Action in Prague, 1946. From left: Zeev Schek, Edita Saxlová, Robert Weinberger, Harald Tressler (standing), Berta Gerzonová, Ruth Bondy, Jiří Lauscher. Photo courtesy of Rachel Shek." >}}
+{{< figure src="../../../../images/workshops/lecture-sedlicka/spolupracovnici_DA_1946_A.jpg" class="fig-float fig-right" caption="Workers of the Documentation Action in Prague, 1946. From left: Zeev Schek, Edita Saxlová, Robert Weinberger, Harald Tressler (standing), Berta Gerzonová, Ruth Bondy, Jiří Lauscher. Photo courtesy of Rachel Shek." >}}
 
 ##### Date: 12th February 2025, 6pm
 
