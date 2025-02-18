@@ -103,13 +103,13 @@ Foto: NA
 -  **12:40:** &nbsp; Oběd
 
 {{< gallery columns="4" >}}
-{{< image src="/images/druhy_den/IMG_0525_2.webp" caption="" >}}
-{{< image src="/images/druhy_den/IMG_0529_2.webp" caption="" >}}
-{{< image src="/images/druhy_den/IMG_0542_1.webp" caption="" >}}
-{{< image src="/images/druhy_den/IMG_0569_1.webp" caption="" >}}
-{{< image src="/images/druhy_den/IMG_0617_1.webp" caption="" >}}
-{{< image src="/images/druhy_den/IMG_0665_1.webp" caption="" >}}
-{{< image src="/images/druhy_den/IMG_0677_1.webp" caption="" >}}
+{{< image src="/images/seminar-ehri-na/IMG_0525_2.webp" caption="" >}}
+{{< image src="/images/seminar-ehri-na/IMG_0529_2.webp" caption="" >}}
+{{< image src="/images/seminar-ehri-nan/IMG_0542_1.webp" caption="" >}}
+{{< image src="/images/seminar-ehri-na/IMG_0569_1.webp" caption="" >}}
+{{< image src="/images/seminar-ehri-na/IMG_0617_1.webp" caption="" >}}
+{{< image src="/images/seminar-ehri-na/IMG_0665_1.webp" caption="" >}}
+{{< image src="/images/seminar-ehri-na/IMG_0677_1.webp" caption="" >}}
 {{< /gallery >}}
 
 Foto: NA
