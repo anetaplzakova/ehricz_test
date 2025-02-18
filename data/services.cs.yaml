@@ -5,7 +5,7 @@
     - title: Přejít do aplikace MemoMap 
       url: https://memomap.cz/
     - title: Více o aplikaci
-      url: /services/memomap-general/
+      url: /services/memomap/
   icon: meeting_room
   image: memomap.png
   content: |
