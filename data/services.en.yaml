@@ -5,7 +5,7 @@
     - title: Go to MemoMap
       url: https://www.memomap.cz/
     - title: More about MemoMap
-      url: /services/memomap-general/
+      url: /services/memomap/
   icon: meeting_room
   image: memomap.png
   content: |
