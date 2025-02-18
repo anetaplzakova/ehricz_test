@@ -11,7 +11,7 @@ It’s one of several projects that load information about the Holocaust into a 
 Our MemoMap of Prague is currently available and we’re working on a similar application for the town of Pacov. We hope to add other locations and additional functions in the coming years.
 {{< /intro >}}
 
-[Enter the app.](www.memomap.cz)
+[Enter the app.](https://www.memomap.cz)
 [More about MemoMap Prague](/services/memomap/prague/)
 
 
