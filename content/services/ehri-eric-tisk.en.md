@@ -12,16 +12,16 @@ Warsaw, 26 January 2025: On the eve of the commemoration of the 80th anniversary
 
 {{< gallery columns="4" >}}
 {{< image src="/images/ehri-logo.png" caption="" >}}
-{{< image src="/images/eric_10.jpg" caption="" >}}
-{{< image src="/images/eric_1.jpg" caption="" >}}
-{{< image src="/images/eric_2.jpg" caption="" >}}
-{{< image src="/images/eric_3.jpg" caption="" >}}
-{{< image src="/images/eric_4.jpg" caption="" >}}
-{{< image src="/images/eric_5.jpg" caption="" >}}
-{{< image src="/images/eric_6.jpg" caption="" >}}
-{{< image src="/images/eric_7.jpg" caption="" >}}
-{{< image src="/images/eric_8.jpg" caption="" >}}
-{{< image src="/images/eric_9.jpg" caption="" >}}
+{{< image src="/images/news/ehri-eric/eric_10.jpg" caption="" >}}
+{{< image src="/images/news/ehri-eric/eric_1.jpg" caption="" >}}
+{{< image src="/images/news/ehri-eric/eric_2.jpg" caption="" >}}
+{{< image src="/images/news/ehri-eric/eric_3.jpg" caption="" >}}
+{{< image src="/images/news/ehri-eric/eric_4.jpg" caption="" >}}
+{{< image src="/images/news/ehri-eric/eric_5.jpg" caption="" >}}
+{{< image src="/images/news/ehri-eric/eric_6.jpg" caption="" >}}
+{{< image src="/images/news/ehri-eric/eric_7.jpg" caption="" >}}
+{{< image src="/images/news/ehri-eric/eric_8.jpg" caption="" >}}
+{{< image src="/images/news/ehri-eric/eric_9.jpg" caption="" >}}
 {{< /gallery >}}
 
 
