@@ -17,6 +17,8 @@ Projekt MemoMap umožňuje studovat historii holokaustu skrze prostor města a m
 
 {{< figure src="/images/memomap.png" class="fig-float fig-right" >}}
 
+<br/>
+
 ### MemoMapy a konstrukce prostoru
 
 Při práci na MemoMapách se inspirujeme výzkumem o geografických informačních systémech (GIS) a poznatky z různých oblastí geografie a kartografie. Mezi ty patří též kritické přístupy vycházející ze sociální konstrukce prostoru: dnes víme, že není daný jen koordináty a měřitelnými vzdálenostmi, ale je tvořen každodenním setkáváním lidí, jejich jednáním a představami. Mapy a další prostorové politiky jsou také nástroji moci a mohou vytvářet společenské hierarchie: v tomto případě vylučování a pronásledování skupiny lidí označených za rasově odlišné. 
