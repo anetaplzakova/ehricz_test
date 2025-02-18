@@ -13,12 +13,11 @@ Our MemoMap of Prague is currently available and we’re working on a similar ap
 
 <br/>
 
+{{< figure src="/images/memomap.png" class="fig-float fig-right" >}}
+
 [Enter the app.](http://www.memomap.cz)
 
 [More about MemoMap Prague](/services/memomap/prague/)
-
-
-{{< figure src="/images/memomap.png" class="fig-float fig-right" >}}
 
 <br/>
 
