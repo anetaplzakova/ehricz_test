@@ -20,6 +20,7 @@ Our MemoMap of Prague is currently available and we’re working on a similar ap
 
 {{< figure src="/images/memomap.png" class="fig-float fig-right" >}}
 
+<br/>
 
 ### MemoMaps and spatial arrangement
 The MemoMaps project was inspired by the research on geographic information systems (GIS) and the latest advances in geography and cartography, such as critical approaches in the social construction of spaces. We now know that space isn’t merely determined by coordinates and measurable distances, but it’s equally made up of people’s everyday encounters, actions, and ideas. Maps and spatial policies are instruments of power that can create social hierarchies, or, in this case, lead to the exclusion and persecution of a group of people labelled as racially “other.”
