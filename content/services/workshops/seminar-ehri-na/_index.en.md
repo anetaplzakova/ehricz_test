@@ -61,14 +61,14 @@ The event was organized by the Masaryk Institute and the Archives of the CAS in 
    -- Giora Zwilling (Arolsen Archives, Bad Arolsen): Al indexing and its usage
 
 {{< gallery columns="4" >}}
-{{< image src="/images/prvni_den/IMG_0001_1.webp" caption="" >}}
-{{< image src="/images/prvni_den/IMG_0023_1.webp" caption="" >}}
-{{< image src="/images/prvni_den/IMG_0031.webp" caption="" >}}
-{{< image src="/images/prvni_den/IMG_0053_1.webp" caption="" >}}
-{{< image src="/images/prvni_den/IMG_0125_1.webp" caption="" >}}
-{{< image src="/images/prvni_den/IMG_0135_1.webp" caption="" >}}
-{{< image src="/images/prvni_den/IMG_0153_1.webp" caption="" >}}
-{{< image src="/images/prvni_den/IMG_0169_1.webp" caption="" >}}
+{{< image src="/images/seminar-ehri-na/IMG_0001_1.webp" caption="" >}}
+{{< image src="/images/seminar-ehri-na/IMG_0023_1.webp" caption="" >}}
+{{< image src="/images/seminar-ehri-na/IMG_0031.webp" caption="" >}}
+{{< image src="/images/seminar-ehri-na/IMG_0053_1.webp" caption="" >}}
+{{< image src="/images/seminar-ehri-na/IMG_0125_1.webp" caption="" >}}
+{{< image src="/images/seminar-ehri-na/IMG_0135_1.webp" caption="" >}}
+{{< image src="/images/seminar-ehri-na/IMG_0153_1.webp" caption="" >}}
+{{< image src="/images/seminar-ehri-na/IMG_0169_1.webp" caption="" >}}
 {{< /gallery >}}
 
 Photos: NA
