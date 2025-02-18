@@ -106,13 +106,13 @@ Photos: NA
 -  **12:40:** &nbsp; Lunch
 
 {{< gallery columns="4" >}}
-{{< image src="/images/druhy_den/IMG_0525_2.webp" caption="" >}}
-{{< image src="/images/druhy_den/IMG_0529_2.webp" caption="" >}}
-{{< image src="/images/druhy_den/IMG_0542_1.webp" caption="" >}}
-{{< image src="/images/druhy_den/IMG_0569_1.webp" caption="" >}}
-{{< image src="/images/druhy_den/IMG_0617_1.webp" caption="" >}}
-{{< image src="/images/druhy_den/IMG_0665_1.webp" caption="" >}}
-{{< image src="/images/druhy_den/IMG_0677_1.webp" caption="" >}}
+{{< image src="/images/seminar-ehri-na/IMG_0525_2.webp" caption="" >}}
+{{< image src="/images/seminar-ehri-na/IMG_0529_2.webp" caption="" >}}
+{{< image src="/images/seminar-ehri-na/IMG_0542_1.webp" caption="" >}}
+{{< image src="/images/seminar-ehri-na/IMG_0569_1.webp" caption="" >}}
+{{< image src="/images/seminar-ehri-na/IMG_0617_1.webp" caption="" >}}
+{{< image src="/images/seminar-ehri-na/IMG_0665_1.webp" caption="" >}}
+{{< image src="/images/seminar-ehri-na/IMG_0677_1.webp" caption="" >}}
 {{< /gallery >}}
 
 Photos: NA
