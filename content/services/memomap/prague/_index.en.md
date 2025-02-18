@@ -7,14 +7,17 @@ date: 2024-09-10
 
 {{< intro >}}
 Are you wondering what happened in your house, in your apartment building, on your street, or in your neighborhood during the Second World War? Are you a researcher who is looking for data for an academic project? Do you want to explore the impact of the Holocaust on the Jewish people and on the city with your students? MemoMap Prague reveals, directly in the city space, information on the fates Holocaust victims—people who were persecuted and segregated, who were subsequently excluded from the public space and the city’s social life, until they were finally deported to ghettos and extermination camps. MemoMap Prague builds on what the application MemoGIS Prague started. Not only has it added more content, but it also significantly improved the app’s user-friendliness and design.
-
-[Start using the application.](https://memomap.cz/)
-
-[More about MemoMaps](/services/memomap-general/) 
-
 {{< /intro >}}
 
+</br>
+
 {{< figure src="/images/memomap.png" class="fig-float fig-right" >}}
+
+[Start using the application.](http://memomap.cz/)
+
+[More about MemoMaps](/services/memomap/)
+
+</br>
 
 ### What is MemoMap Prague and what can I find in it?
 MemoMap Prague is a historical-geographical information system that you can use both on your home or school computer, as well as on your modern mobile device as you walk around the city.
