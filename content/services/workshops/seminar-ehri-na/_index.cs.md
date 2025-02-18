@@ -60,14 +60,14 @@ Akci organizoval Masarykův ústav a Archiv AV ČR ve spolupráci s Národním a
    -- Giora Zwilling (Arolsen Arichives, Bad Arolsen): Al indexing and its usage
 
 {{< gallery columns="4" >}}
-{{< image src="/images/seminar-ehri-na/IMG_0001_1.webp" caption="" >}}
-{{< image src="/images/seminar-ehri-na/IMG_0023_1.webp" caption="" >}}
-{{< image src="/images/seminar-ehri-na/IMG_0031.webp" caption="" >}}
-{{< image src="/images/seminar-ehri-na/IMG_0053_1.webp" caption="" >}}
-{{< image src="/images/seminar-ehri-na/IMG_0125_1.webp" caption="" >}}
-{{< image src="/images/seminar-ehri-na/IMG_0135_1.webp" caption="" >}}
-{{< image src="/images/seminar-ehri-na/IMG_0153_1.webp" caption="" >}}
-{{< image src="/images/seminar-ehri-na/IMG_0169_1.webp" caption="" >}}
+{{< image src="/images/workshops/seminar-ehri-na/IMG_0001_1.webp" caption="" >}}
+{{< image src="/images/workshops/seminar-ehri-na/IMG_0023_1.webp" caption="" >}}
+{{< image src="/images/workshops/seminar-ehri-na/IMG_0031.webp" caption="" >}}
+{{< image src="/images/workshops/seminar-ehri-na/IMG_0053_1.webp" caption="" >}}
+{{< image src="/images/workshops/seminar-ehri-na/IMG_0125_1.webp" caption="" >}}
+{{< image src="/images/workshops/seminar-ehri-na/IMG_0135_1.webp" caption="" >}}
+{{< image src="/images/workshops/seminar-ehri-na/IMG_0153_1.webp" caption="" >}}
+{{< image src="/images/workshops/seminar-ehri-na/IMG_0169_1.webp" caption="" >}}
 {{< /gallery >}}
 
 Foto: NA
@@ -103,13 +103,13 @@ Foto: NA
 -  **12:40:** &nbsp; Oběd
 
 {{< gallery columns="4" >}}
-{{< image src="/images/seminar-ehri-na/IMG_0525_2.webp" caption="" >}}
-{{< image src="/images/seminar-ehri-na/IMG_0529_2.webp" caption="" >}}
-{{< image src="/images/seminar-ehri-nan/IMG_0542_1.webp" caption="" >}}
-{{< image src="/images/seminar-ehri-na/IMG_0569_1.webp" caption="" >}}
-{{< image src="/images/seminar-ehri-na/IMG_0617_1.webp" caption="" >}}
-{{< image src="/images/seminar-ehri-na/IMG_0665_1.webp" caption="" >}}
-{{< image src="/images/seminar-ehri-na/IMG_0677_1.webp" caption="" >}}
+{{< image src="/images/workshops/seminar-ehri-na/IMG_0525_2.webp" caption="" >}}
+{{< image src="/images/workshops/seminar-ehri-na/IMG_0529_2.webp" caption="" >}}
+{{< image src="/images/workshops/seminar-ehri-nan/IMG_0542_1.webp" caption="" >}}
+{{< image src="/images/workshops/seminar-ehri-na/IMG_0569_1.webp" caption="" >}}
+{{< image src="/images/workshops/seminar-ehri-na/IMG_0617_1.webp" caption="" >}}
+{{< image src="/images/workshops/seminar-ehri-na/IMG_0665_1.webp" caption="" >}}
+{{< image src="/images/workshops/seminar-ehri-na/IMG_0677_1.webp" caption="" >}}
 {{< /gallery >}}
 
 Foto: NA
