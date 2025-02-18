@@ -15,7 +15,7 @@ Our MemoMap of Prague is currently available and we’re working on a similar ap
 
 {{< figure src="/images/memomap.png" class="fig-float fig-right" >}}
 
-[Enter the app.](http://www.memomap.cz)
+[Start using the application.](http://www.memomap.cz)
 
 [More about MemoMap Prague](/services/memomap/prague/)
 
