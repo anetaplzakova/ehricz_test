@@ -7,14 +7,17 @@ date: 2024-09-10
 
 {{< intro >}}
 Pátráte, co se za druhé světové války stalo ve vašem domě, vaší ulici nebo čtvrti? Jste badatel, který hledá data pro svůj výzkumný projekt? Chcete se studenty zkoumat dopad holokaustu na židovské obyvatele a na město? MemoMap Praha promítá do prostoru města informace o osudech obětí holokaustu – lidech, kteří čelili pronásledování a segregaci z veřejného prostoru i společenského života a nakonec byli deportováni do ghett a vyhlazovacích táborů. MemoMap Praha navazuje na aplikaci MemoGIS Praha, kterou nejen obsahově doplňuje, ale jejíž funkcionalitu a design zásadně rozšiřuje.
-
-[Vstup do aplikace naleznete zde.](https://memomap.cz/)
-
-[Více o MemoMapách naleznete zde.](/services/memomap-general/) 
-
 {{< /intro >}}
 
+</br>
+
 {{< figure src="/images/memomap.png" class="fig-float fig-right" >}}
+
+[Vstup do aplikace naleznete zde.](http://memomap.cz/)
+
+[Více o MemoMapách naleznete zde.](/services/memomap/) 
+
+</br>
 
 ### Co je MemoMap Praha a co v ní najdu?
 MemoMap Praha je historický geografický informační systém, který můžete používat nejen z domácího či školního počítače, ale také přímo při procházce městem prostřednictvím moderních mobilních zařízení.
