@@ -15,6 +15,7 @@ params:
   contactEmail: ehri@mua.cas.cz
   contactForm: false
   contactFormUrl: dummy
+  env: production
 
 # Menu configuration. Labels are in the i18n folders:
 menu:
