@@ -1,12 +1,12 @@
 ---
-title: Přednáška Evy Janáčové „Lázeňský antisemitismus“ ꟾ Z cyklu Židovského muzea v Praze a EHRI-CZ „Nové poznatky a prameny k dějinám holokaustu“
+title: Přednáška Evy Janáčové ꟾ Lázeňský antisemitismus
 layout: training
 type: training
 date: 2025-03-05
 ---
 
 {{< intro >}}
-Pozvánka na druhou přednášku z cyklu EHRI-CZ a ŽMP „Nové poznatky a prameny k dějinám holokaustu“.
+Pozvánka na druhou přednášku z cyklu Židovského muzea v Praze a EHRI-CZ „Nové poznatky a prameny k dějinám holokaustu".
 {{< /intro >}}
 
 ##### Datum: 25. března 2025, 18h
