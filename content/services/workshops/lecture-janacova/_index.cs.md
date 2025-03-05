@@ -1,20 +1,16 @@
 ---
-title: Přednáška EHRI-CZ ꟾ Dokumentační akce v Praze (EHRI online edice)
+title: Přednáška Evy Janáčové „Lázeňský antisemitismus“ ꟾ Z cyklu Židovského muzea v Praze a EHRI-CZ „Nové poznatky a prameny k dějinám holokaustu“
 layout: training
 type: training
-date: 2025-02-05
+date: 2025-03-05
 ---
 
 {{< intro >}}
-Pozvánka na cyklus přednášek EHRI-CZ a ŽMP „Nové poznatky a prameny k dějinám holokaustu“ 
+Pozvánka na druhou přednášku z cyklu EHRI-CZ a ŽMP „Nové poznatky a prameny k dějinám holokaustu“.
 {{< /intro >}}
 
-{{< figure src="../../../images/workshops/lecture-sedlicka/spolupracovnici_DA_1946_A.jpg" class="fig-float fig-right" caption="Pracovníci Dokumentační akce v Praze, 1946. Zleva: Zeev Schek, Edita Saxlová, Robert Weinberger, Harald Tressler (stojící), Berta Gerzonová, Ruth Bondy, Jiří Lauscher. Fotografie byla uveřejněna se svolením Rachel Shek." >}}
-
-##### Datum: 12. února 2025, 18h
+##### Datum: 25. března 2025, 18h
 
 ##### Místo konání: Auditorium OVK - 3. patro, Maiselova 15, Praha 1
 
-Při příležitosti připomínky 80. výročí konce druhé světové války připravilo Židovské muzeum v Praze ve spolupráci s Českým uzlem Evropské výzkumné infrastruktury pro výzkum holokaustu (EHRI-CZ) cyklus přednášek s názvem Nové poznatky a prameny k dějinám holokaustu. První příspěvek s názvem Dokumentační akce v Praze zahájí historička **Mgr. Magdalena Sedlická, Ph.D.** (Masarykův ústav a Archiv AV ČR, EHRI-CZ). 
-
-Prezentace se zaměří na digitální edici svědectví přeživších šoa, která byla shromážděna v rámci tzv. Dokumentační akce v Praze, jednoho z nejranějších projektů, jenž se zaměřoval na sběr autentických dokumentů a dokladů o šoa, primárně z území Protektorátu Čechy a Morava. Edice vznikla v rámci projektu Evropská infrastruktura pro výzkum holokaustu (EHRI), jehož platforma umožňuje nový způsob prezentace digitálního archivního obsahu. EHRI digitální edice se zaměřují na anotované texty doplněné mimo jiné o skeny dokumentů a interaktivní mapy.
+Slyšeli jste už někdy o lázeňském antisemitismu? Jde o fenomén, se kterým bylo možné se setkat v českých i moravských lázních od konce 19. století až do třicátých let 20. století. Objevoval se zejména na obrazových dopisnicích záměrně karikujících židovské hosty. Stranou nezůstaly ani antisemitské novinové karikatury a drobné sošky a sousoší stereotypně zobrazující Židy. S lázeňským antisemitismem i jeho konkrétními ukázkami vás během své přednášky seznámí historička umění Eva Janáčová. / Vstup volný.
