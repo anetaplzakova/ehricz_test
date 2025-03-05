@@ -1,20 +1,16 @@
 ---
-title: Lecture EHRI-CZ ꟾ Documentation Action in Prague (EHRI online edition)
+title: Eva Janáčová's lecture "Spa Antisemitism" ꟾ From the lecture series of the Jewish Museum in Prague and EHRI-CZ "New Views and Sources on the History of the Holocaust"
 layout: training
 type: training
-date: 2025-02-05
+date: 2025-03-05
 ---
 
 {{< intro >}}
-Invitation to the lecture New Views and Sources on History of Holocaust (part of the lecture series organized by EHRI-CZ and the Jewish Museum Prague). 
+Invitation to the second lecture of the lecture series organized by EHRI-CZ and the Jewish Museum Prague. 
 {{< /intro >}}
 
-{{< figure src="../../../../images/workshops/lecture-sedlicka/spolupracovnici_DA_1946_A.jpg" class="fig-float fig-right" caption="Workers of the Documentation Action in Prague, 1946. From left: Zeev Schek, Edita Saxlová, Robert Weinberger, Harald Tressler (standing), Berta Gerzonová, Ruth Bondy, Jiří Lauscher. Photo courtesy of Rachel Shek." >}}
+##### Date: 25th March 2025, 6 pm
 
-##### Date: 12th February 2025, 6pm
+##### Place: OVK Auditorium, Maiselova 15, Prague 1, 3rd floor
 
-##### Place: Auditorium OVK – 3rd floor, Maiselova 15, Prague 1
-
-On the occasion of the 80th anniversary of the end of World War II, the Jewish Museum in Prague, in cooperation with the Czech Node of the European Holocaust Research Infrastructure (EHRI-CZ), prepared a series of lectures entitled New Views and Sources on History of the Holocaust. The first presentation, entitled Documentation Action in Prague, will be opened by historian **Mgr. Magdalena Sedlická, Ph.D.** (Masaryk Institute and Archives of the CAS, EHRI-CZ). 
-
-The presentation will focus on the digital edition of Shoah survivors' testimonies collected as part of the so-called “Documentation Action in Prague”, one of the earliest projects that focused on collecting authentic documents and evidence of the Shoah, primarily from the territory of the Protectorate of Bohemia and Moravia. The online edition was published within the framework of the European Holocaust Research Infrastructure (EHRI) project, whose platform enables a new way of presenting digital archival content. EHRI digital editions focus on annotated texts supplemented by, among other things, scans of documents and interactive maps.
+Have you ever heard about the spa antisemitism? It is a phenomenon that could be encountered in Czech and Moravian spa cities from the end of the 19th century until the 1930s. It appeared mainly on postcards deliberately caricaturing Jewish guests. Antisemitic newspaper cartoons and small statues and sculptures depicting Jews in a stereotypical way were not left out. During her lecture, the art historian **Eva Janáčová** will explain the spa antisemitism and its specific examples. / Free admission.
