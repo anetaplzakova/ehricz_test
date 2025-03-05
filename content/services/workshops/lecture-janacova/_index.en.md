@@ -6,7 +6,7 @@ date: 2025-03-05
 ---
 
 {{< intro >}}
-Invitation to the second lecture from the lecture series of the Jewish Museum in Prague and EHRI-CZ "New Views and Sources on the History of the Holocaust"organized by EHRI-CZ and the Jewish Museum Prague.
+Invitation to the second lecture from the lecture series of the Jewish Museum in Prague and EHRI-CZ "New Views and Sources on the History of the Holocaust".
 {{< /intro >}}
 
 ##### Date: 25th March 2025, 6 pm
