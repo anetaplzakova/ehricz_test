@@ -1,0 +1,25 @@
+<div class="social">
+    <div class="follow-buttons">
+        {{ if site.Params.facebookUrl }}
+        <a class="follow-button" href="{{ site.Params.facebookUrl }}" title="{{ i18n "social_facebook_follow" }}">
+            <i class="fa-brands fa-2x fa-facebook-f" aria-hidden="true"></i>
+            <span class="sr-only">{{ i18n "social_facebook" }}</span>
+        </a>
+        {{ end }}
+
+        {{ if site.Params.linkedinUrl }}
+        <a class="follow-button" href="{{ site.Params.linkedinUrl }}" title="{{ i18n "social_linkedin_follow" }}">
+            <i class="fa-brands fa-2x fa-linkedin" aria-hidden="true"></i>
+            <span class="sr-only">{{ i18n "social_linkedin" }}</span>
+        </a>
+        {{ end }}
+
+        {{ if site.Params.blueskyUrl }}
+        <a class="follow-button" href="{{ site.Params.blueskyUrl }}" title="{{ i18n "social_bluesky_follow" }}">
+            <i class="fa-brands fa-2x fa-bluesky" aria-hidden="true"></i>
+            <span class="sr-only">{{ i18n "social_bluesky" }}</span>
+        </a>
+        {{ end }}
+    </div>
+</div>
+
