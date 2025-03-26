@@ -1,0 +1,57 @@
+@import "../variables";
+@import "../mixins";
+
+// A grid of latest news cards cards
+.hl-latest-cards {
+  display: grid;
+  @include auto-grid(21rem, 3rem, 3);
+  margin: 0;
+  // FIXME: arbitrary hack to give more top padding
+  padding: 1rem 0 0;
+
+  li {
+    list-style: none;
+  }
+  li.twitter {
+    row-span: 1;
+    max-height: 300px;
+  }
+}
+
+// A single latest news card
+.hl-latest-card {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  .latest-card-header {
+    font-family: var(--font-family-headings);
+    font-size: $font-size-xl;
+    line-height: 2rem;
+    font-weight: var(--font-weight-bolder);
+    margin-bottom: .5rem;
+  }
+
+  .latest-card-content {
+    > p,
+    > .intro > p // for news items with an intro
+    {
+      font-size: var(--font-size-base);
+      font-weight: var(--font-weight-reg);
+      line-height: 1.5rem;
+      margin-bottom: $space-md;
+    }
+  }
+  .links {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: $space-md;
+    row-gap: $space-md;
+  }
+
+  .read-more {
+    @include content-nav-link();
+    color: var(--wine-red);
+    white-space: nowrap;
+  }
+}
+
