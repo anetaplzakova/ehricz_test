@@ -1,0 +1,10 @@
+<div class="hl-latest-card">
+    <header class="latest-card-header">
+        <a href="{{ .url }}">{{ or (T .id) .title }}</a>
+    </header>
+    <p>{{ .date }}</p>
+    <p class="latest-card-content">
+        {{ .content }}
+    </p>
+    <a class="button-primary" href="{{ .url }}">{{ i18n "learn_more" }}</a>
+</div>

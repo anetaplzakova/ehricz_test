@@ -1,0 +1,13 @@
+{{ $key := printf "hl-latest.%s" .Language }}
+{{ $data := index site.Data $key }}
+{{ if $data }}
+<ul class="hl-latest-cards">
+    {{ range $data }}
+        <li>
+            {{ partial "hl-latest-card" . }}
+        </li>
+    {{ end }}
+</ul>
+{{ else }}
+    {{ errorf "Cannot find latest news data for language '%s'" .Language }}
+{{ end }}
