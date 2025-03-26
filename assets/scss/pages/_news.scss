@@ -1,0 +1,27 @@
+@import "../variables";
+
+.news.page-content {
+  picture.featured-image img {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0 0 $space-md 0;
+
+    // Tablet and up
+    @media (min-width: $breakpoint-tablet) {
+      width: Max(400px, 33vw);
+      margin: 0 0 $space-md $space-md;
+      float: right;
+    }
+
+    // Laptop and up
+    @media (min-width: $breakpoint-laptop) {
+      margin: 0 calc((-1 * var(--padding-page-content-h)) + var(--margin-page-h)) $space-md $space-md;
+    }
+  }
+
+  a.permalink {
+    color: inherit;
+    text-decoration: none;
+  }
+}
