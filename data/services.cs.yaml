@@ -59,5 +59,11 @@
   content: |
     Umožňují nový způsob prezentace digitálního archivního obsahu. Zaměřují se na anotované texty doplněné mimo jiné o skeny a interaktivní mapy.
 
-
+- id: training
+  title: Stipendia Conny Kristel
+  url: /training/
+  icon: meeting_room
+  image: EHRI_fellowships.jpg
+  content: |
+    EHRI Conny Kristel stipendia podporují a stimulují výzkum prováděný výzkumníky, archiváři, knihovníky, kurátory a juniorskými akademickými pracovníky, zejména doktorandy s omezenými zdroji.
 
