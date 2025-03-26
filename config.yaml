@@ -26,8 +26,8 @@ menu:
     - identifier: partners
       pageRef: partners
       weight: 30
-    - identifier: fellowships_training
-      pageRef: training
+    - identifier: news
+      pageRef: news
       weight: 40
     - identifier: services
       pageRef: services
@@ -42,8 +42,8 @@ menu:
     - identifier: partners
       pageRef: partners
       weight: 30
-    - identifier: fellowships_training
-      pageRef: training
+    - identifier: news
+      pageRef: news
       weight: 40
   services:
     - identifier: memogis
