@@ -9,7 +9,7 @@ date: 2025-03-26
 Presentation of book by **Andrea Löw: „Always with one foot in the grave“ – Experiences of German Jews**. The presentation is part of a series organized by the Jewish Museum in Prague and the Czech Node of the European Holocaust Research Institute (EHRI) called “New Views and Sources on the History of Holocaust”. 
 {{< /intro >}}
 
-<img align="right" src="../../../images/workshops/lecture-loew/loew_book.jpg" height="400px" style="padding-left: 15px;">
+<img align="right" src="../../../../images/workshops/lecture-loew/loew_book.jpg" height="400px" style="padding-left: 15px;">
 
 ##### Date: 3rd April 2025, 7 pm
 
