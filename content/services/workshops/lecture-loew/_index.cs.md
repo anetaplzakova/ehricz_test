@@ -9,7 +9,7 @@ date: 2025-03-26
 Prezentace knihy **Andrey Löw: Deported. „Always with one foot in the grave“ – Experiences of German Jews**. Přednáška z cyklu ŽMP a EHRI-CZ „Nové poznatky a prameny k dějinám holokaustu“
 {{< /intro >}}
 
-<img align="right" src="../../../images/workshops/lecture-loew/loew_book.jpg">
+<img align="right" src="../../../images/workshops/lecture-loew/loew_book.jpg" height="400px" margin-lef="5px">
 
 ##### Datum: 3. dubna 2025, 19h
 
