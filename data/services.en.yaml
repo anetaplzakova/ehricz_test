@@ -58,3 +58,11 @@
   image: campaign.png
   content: |
     Annotated digitized documents from various sources represent a new way of presenting digital archival content.
+
+- id: training
+  title: Conny Kristel Fellowships
+  url: /en/training/
+  icon: meeting_room
+  image: EHRI_fellowships.jpg
+  content: |
+    EHRI Conny Kristel Fellowships support and stimulate research conducted by researchers, archivists, librarians, curators, and junior scholars, especially PhD students with limited resources. 
