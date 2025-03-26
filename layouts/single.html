@@ -1,0 +1,24 @@
+{{ define "main" }}
+ 
+    <section class="page-content latest-cards">
+    <h1>{{ .Title }}</h1>
+        {{ .Content }}
+		
+	{{ $key := printf "latest.%s" .Language }}
+	{{ $data := index site.Data $key }}
+	{{ if $data }}
+	
+	<ul class="latest-cards">
+		{{ range $data }}
+			<li>
+				{{ partial "latest-card" . }}
+			</li>
+		{{ end }}
+	</ul>
+
+{{ else }}
+    {{ errorf "Cannot find latest news data for language '%s'" .Language }}
+{{ end }}
+      
+    </section>
+{{ end }}
