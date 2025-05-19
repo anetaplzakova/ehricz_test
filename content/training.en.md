@@ -22,7 +22,7 @@ The fellowships are named after the late historian and first director of EHRI [C
 The current deadline for applications is 22 October 2023.
 
 
-More information [here](https://www.ehri-project.eu/Conny-Kristel-Fellowships_2023).
+More information [here](https://www.ehri-project.eu/conny-kristel-fellowships/).
 
 <!-- stipendia v ŽMP? -->
 
