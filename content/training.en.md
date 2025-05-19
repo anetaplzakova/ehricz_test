@@ -19,9 +19,6 @@ The Fellowships are funded by the European Union under the rules of the transnat
 The fellowships are named after the late historian and first director of EHRI [Conny Kristel](https://www.ehri-project.eu/conny-kristel-26-february-1955-%E2%80%93-6-october-2018).
 
 
-The current deadline for applications is 22 October 2023.
-
-
 More information [here](https://www.ehri-project.eu/conny-kristel-fellowships/).
 
 <!-- stipendia v ŽMP? -->
