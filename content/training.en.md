@@ -16,7 +16,7 @@ International access to archives and collections, as well as access to expertise
 The Fellowships are funded by the European Union under the rules of the transnational approach and are therefore particularly targeted at applicants working in institutions of the member states (EU-27) and Horizon 2020 associated states. Applications from applicants from Central and Eastern Europe are particularly welcome. It is not possible to apply for research at an institution in the same country where one works.
 
 
-The fellowships are named after the late historian and first director of EHRI [Conny Kristel](https://www.ehri-project.eu/conny-kristel-26-february-1955-%E2%80%93-6-october-2018).
+The fellowships are named after the late historian and first director of EHRI Conny Kristel.
 
 
 More information [here](https://www.ehri-project.eu/conny-kristel-fellowships/).
