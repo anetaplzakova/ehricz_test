@@ -12,7 +12,7 @@ Mezinárodní přístup k archivům a sbírkám, jakož i přístupu k odborným
 
 Stipendia jsou financována Evropskou unií podle pravidel nadnárodního přístupu, a jsou tedy určena zejména pro uchazeče působící v institucích v členských státech (EU-27) a státech přidružených k programu Horizont 2020. Přihlášky uchazečů ze střední a východní Evropy jsou obzvláště vítány. Není možné se přihlásit pro bádání v instituci ve stejné zemi, kde člověk pracuje.
 
-Stipendia jsou pojmenována po předčasně zesnulé historičce a první ředitelce EHRI [Conny Kristel](https://www.ehri-project.eu/conny-kristel-26-february-1955-%E2%80%93-6-october-2018).
+Stipendia jsou pojmenována po předčasně zesnulé historičce a první ředitelce EHRI Conny Kristel.
 
 Více informací [zde](https://www.ehri-project.eu/conny-kristel-fellowships/).
 
