@@ -14,8 +14,6 @@ Stipendia jsou financována Evropskou unií podle pravidel nadnárodního přís
 
 Stipendia jsou pojmenována po předčasně zesnulé historičce a první ředitelce EHRI [Conny Kristel](https://www.ehri-project.eu/conny-kristel-26-february-1955-%E2%80%93-6-october-2018).
 
-Současný termín pro podání přihlášek je 22. října 2023.
-
 Více informací [zde](https://www.ehri-project.eu/conny-kristel-fellowships/).
 
 <!-- stipendia v ŽMP? -->
