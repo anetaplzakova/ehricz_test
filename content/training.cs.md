@@ -16,7 +16,7 @@ Stipendia jsou pojmenována po předčasně zesnulé historičce a první ředit
 
 Současný termín pro podání přihlášek je 22. října 2023.
 
-Více informací [zde](https://www.ehri-project.eu/Conny-Kristel-Fellowships_2023).
+Více informací [zde](https://www.ehri-project.eu/conny-kristel-fellowships/).
 
 <!-- stipendia v ŽMP? -->
 
