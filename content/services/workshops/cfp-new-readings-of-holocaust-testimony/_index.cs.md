@@ -18,6 +18,7 @@ Svědectví pamětníků představují klíčový pramen pro studium holokaustu.
 Workshop se zaměří na otázku, jak nové (zejména jazykové) technologie mění způsob historického bádání, a na možnosti zapojení veřejnosti při tvorbě a anotaci korpusů svědectví (citizen science). Jedním z dalších cílů bude propojení předních evropských odborníků v oblasti jazykové lingvistiky a digitálních humanitních věd s těmi, kteří se svědectvími přeživších holokaustu pracují v rámci své každodenní odborné činnosti. Budeme se věnovat možnostem analýzy svědectví o holokaustu prostřednictvím inovativních digitálních metod a nástrojů – například automatického rozpoznávání a označování entit (osob, míst) v textech a jejich propojení s kontrolovanými slovníky. Součástí programu bude i praktické testování vybraných nástrojů a metod založených na technologiích, jako jsou neurální sítě a strojové učení (AI).
 Akce je určena širokému spektru zájemců – od zkušených badatelů až po studenty či začátečníky v oblasti digitálních metod. Společně budeme hledat průsečíky mezi technologickými nástroji a potřebami uživatelů s různou úrovní zkušeností. 
 <br/>
+<br/>
 **Příspěvky:**
 Pokud ve svém výzkumu pracujete s prameny, které lze označit za svědectví o holokaustu, a zajímá vás, jak je lze analyzovat pomocí digitálních nástrojů, zašlete nám do **30. června 2025**:
     • krátké CV (max. 200 slov)
