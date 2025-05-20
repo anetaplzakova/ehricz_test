@@ -26,6 +26,7 @@ Pokud ve svém výzkumu pracujete s prameny, které lze označit za svědectví 
 - krátké CV (max. 200 slov)
     
 - abstrakt (max. 250 slov), v němž představíte svůj dataset – jeho přednosti, limity, případně nástroje, které by vám pomohly ve výzkumu. Může se jednat o menší soubor svědectví nebo i o individuální text. Pro účely workshopu chápeme svědectví v širším smyslu – zahrnout lze např. raná poválečná svědectví či protokoly/výpovědi z procesů s válečnými zločinci. **Nutností je, aby byl pramen v textové podobě.**
+
 <br/>
 Vybraní účastníci budou vyzváni, aby přibližně měsíc před konáním akce zaslali vzorek svědectví pro praktickou část workshopu (hands-on session).
 
