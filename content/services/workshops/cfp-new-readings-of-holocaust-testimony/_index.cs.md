@@ -5,13 +5,13 @@ type: training
 date: 2025-05-20
 ---
 
-##### Datum konání: 20.–21. října 2025
+**Datum konání:** 20.–21. října 2025
 
-##### Místo: Ústav pro českou literaturu Akademie věd České republiky (Na Florenci 1420/3, Praha 1)
+**Místo konání:** Ústav pro českou literaturu Akademie věd České republiky (Na Florenci 1420/3, Praha 1)
 
-##### Termín zaslání příspěvku: do 30. června 2025 na adresu: sedlicka@mua.cas.cz. Možné zaslat v češtině či angličtině, akce bude tlumočena do obou jazyků.
+**Termín zaslání příspěvku:** do 30. června 2025 na adresu: sedlicka@mua.cas.cz. Možné zaslat v češtině či angličtině, akce bude tlumočena do obou jazyků.
 
-##### Vyrozumění autorům: do 31. července 2025
+**Vyrozumění autorům:** do 31. července 2025
 
 Svědectví pamětníků představují klíčový pramen pro studium holokaustu. Výpovědi svědků nabízejí perspektivu samotných aktérů, čímž vytvářejí plastičtější obraz minulosti a doplňují další díl do mozaiky dějin. Jedná se o zásadní a nedocenitelný pramen nejen u témat, ke kterým neexistuje dostatečné množství jiných zdrojů.
 Workshop se zaměří na otázku, jak nové (zejména jazykové) technologie mění způsob historického bádání, a na možnosti zapojení veřejnosti při tvorbě a anotaci korpusů svědectví (citizen science). Jedním z dalších cílů bude propojení předních evropských odborníků v oblasti jazykové lingvistiky a digitálních humanitních věd s těmi, kteří se svědectvími přeživších holokaustu pracují v rámci své každodenní odborné činnosti. Budeme se věnovat možnostem analýzy svědectví o holokaustu prostřednictvím inovativních digitálních metod a nástrojů – například automatického rozpoznávání a označování entit (osob, míst) v textech a jejich propojení s kontrolovanými slovníky. Součástí programu bude i praktické testování vybraných nástrojů a metod založených na technologiích, jako jsou neurální sítě a strojové učení (AI).
