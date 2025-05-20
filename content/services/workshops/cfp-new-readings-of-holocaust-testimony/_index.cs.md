@@ -29,4 +29,7 @@ Pokud ve svém výzkumu pracujete s prameny, které lze označit za svědectví 
 
 <br/>
 Vybraní účastníci budou vyzváni, aby přibližně měsíc před konáním akce zaslali vzorek svědectví pro praktickou část workshopu (hands-on session).
+<br/>
+<br/>
+<img align="left" src="../../../images/EHRI-logo.png" height="100px" style="padding-left: 15px;">
 
