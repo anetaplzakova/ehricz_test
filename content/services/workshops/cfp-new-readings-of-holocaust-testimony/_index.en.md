@@ -34,7 +34,7 @@ Selected participants will be asked to submit a sample from their dataset approx
 <br/>
 <br/>
 <br/>
-<p><img align="left" src="../../../images/EHRI-logo.png" height="150px" style="padding-left: 0px;"><img align="left" src="../../../images/workshops/cfp-new-readings-of-holocaust-testimony/gwzo.png" height="150px" style="padding-left: 20px;"><img align="left" src="../../../images/workshops/cfp-new-readings-of-holocaust-testimony/malach.png" height="150px" style="padding-left: 20px;"></p>
+<p><img align="left" src="../../../../images/EHRI-logo.png" height="150px" style="padding-left: 0px;"><img align="left" src="../../../../images/workshops/cfp-new-readings-of-holocaust-testimony/gwzo.png" height="150px" style="padding-left: 20px;"><img align="left" src="../../../../images/workshops/cfp-new-readings-of-holocaust-testimony/malach.png" height="150px" style="padding-left: 20px;"></p>
 
 
 
