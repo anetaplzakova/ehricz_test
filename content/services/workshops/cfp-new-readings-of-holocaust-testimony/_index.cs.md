@@ -31,6 +31,6 @@ Pokud ve svém výzkumu pracujete s prameny, které lze označit za svědectví 
 Vybraní účastníci budou vyzváni, aby přibližně měsíc před konáním akce zaslali vzorek svědectví pro praktickou část workshopu (hands-on session).
 <br/>
 <br/>
-<p><img align="left" src="../../../images/EHRI-logo.png" height="150px" style="padding-left: 15px;"><img align="left" src="../../../images/workshops/cfp-new-readings-of-holocaust-testimony/gwzo.png" height="150px" style="padding-left: 20px;"></p>
+<p><img align="left" src="../../../images/EHRI-logo.png" height="150px" style="padding-left: 5px;"><img align="left" src="../../../images/workshops/cfp-new-readings-of-holocaust-testimony/gwzo.png" height="150px" style="padding-left: 20px;"><img align="left" src="../../../images/workshops/cfp-new-readings-of-holocaust-testimony/malach.png" height="150px" style="padding-left: 20px;"></p>
 
 
