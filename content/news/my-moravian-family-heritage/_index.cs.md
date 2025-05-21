@@ -9,7 +9,7 @@ V týdnu od 19.-23. května organizuje Mehrin sérii diskusí pro veřejnost s D
 
 Program moderuje historička Táňa Klementová.
 <br/>
-<p><img align="left" src="../../../images/news/my-moravian-family-heritage/1-cs.png" style="padding-left: 0px;"><img align="left" src="../../../images/news/my-moravian-family-heritage/2-cs.png" style="padding-left: 20px;"></p>
+<p><img align="left" src="../../../../images/news/my-moravian-family-heritage/1-cs.png" style="padding-left: 0px;"><img align="left" src="../../../../images/news/my-moravian-family-heritage/2-cs.png" style="padding-left: 20px;"></p>
 
 
 
