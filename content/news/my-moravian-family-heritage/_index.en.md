@@ -9,7 +9,7 @@ During the week of May 19-23, Mehrin is organizing a series of public discussion
 
 The program will be moderated by the historian Táňa Klementová.
 <br/>
-<p><img align="left" src="../../../images/news/my-moravian-family-heritage/1-en.png" width="47%" style="padding-right: 10px;"><img align="left" src="../../../images/news/my-moravian-family-heritage/2-en.png" width="47%" style="padding-left: 10px;"></p>
+<p><img align="left" src="../../../images/news/my-moravian-family-heritage/1-en.png" width="48%" style="padding-right: 10px;"><img align="left" src="../../../images/news/my-moravian-family-heritage/2-en.png" width="48%" style="padding-left: 10px;"></p>
 
 
 
