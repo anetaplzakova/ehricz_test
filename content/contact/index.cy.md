@@ -1,5 +1,0 @@
----
-title: Contacts
-type: contact
----
-
