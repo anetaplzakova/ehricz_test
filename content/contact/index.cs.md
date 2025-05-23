@@ -1,5 +1,5 @@
 ---
 title: Kontakty
-type: contact
+type: contact_cs
 ---
 
