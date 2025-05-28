@@ -1,5 +1,5 @@
 ---
-title: Presentation of Book by Andrea Löw
+title: Lecture of Dirk Rupnow
 layout: training
 type: training
 date: 2025-03-26
