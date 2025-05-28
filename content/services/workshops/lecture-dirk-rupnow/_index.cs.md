@@ -2,7 +2,7 @@
 title: Přednáška Dirka Rupnowa
 layout: training
 type: training
-date: 2025-03-26
+date: 2025-05-28
 ---
 
 {{< intro >}}

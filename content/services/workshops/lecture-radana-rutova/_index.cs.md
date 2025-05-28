@@ -1,20 +1,20 @@
 ---
-title: Prezentace knihy Andrey Löw
+title: Přednáška „Osvobození Terezína“
 layout: training
 type: training
-date: 2025-03-26
+date: 2025-05-28
 ---
 
 {{< intro >}}
-Prezentace knihy **Andrey Löw: Deported. „Always with one foot in the grave“ – Experiences of German Jews**. Přednáška z cyklu ŽMP a EHRI-CZ „Nové poznatky a prameny k dějinám holokaustu“
+Přednáška Radany Rutové představí dění v židovském ghettu v Terezíně těsně po jeho osvobození a okolnosti epidemie skvrnitého tyfu.
 {{< /intro >}}
 
-<img align="right" src="../../../images/workshops/lecture-loew/loew_book.jpg" height="400px" style="padding-left: 15px;">
+<img src="../../../images/workshops/lecture-radana-rutova/foto1.jpg" height="400px">
 
-##### Datum: 3. dubna 2025, 19h
+<img src="../../../images/workshops/lecture-radana-rutova/foto2.jpg" height="400px">
 
-##### Místo konání: Maiselova synagoga, Maiselova 10, Praha 1
+##### Datum: 3. června 2025, 15.00
 
-Německá historička Andrea Löw představí svou knihu Deported. “Always with one foot in the grave” – Experiences of German Jews, která na základě stovek dopisů, deníků a dalších svědectví zachycuje osudy německých Židů deportovaných z Německé říše do okupované východní Evropy. Kniha přibližuje jejich naděje, obavy i každodenní boj o přežití. S autorkou bude hovořit historik Michal Frankl. Akce proběhne v anglickém jazyce.
+##### Místo konání: Přednáškový sál v Národním archivu ČR, Archivní 2257/4, Praha 4
 
-Vstup volný.
+Na jaře 1945 se existence židovského ghetta v Terezíně a policejní věznice v Malé pevnosti blížila svému konci. Tři týdny před skončením války se Terezín stal cílovou stanicí pro evakuační transporty a pochody smrti z likvidovaných koncentračních a pracovních táborů na území říše. Setkání terezínských vězňů s nově příchozími znamenalo nejen kruté seznámení s realitou konečného řešení židovské otázky, ale také oddálení dlouho očekávané svobody. Tisíce vyčerpaných a nemocných vězňů zavlekly do Terezína skvrnitý tyfus, který se rychle rozšířil i mezi původními vězni. Tyfová epidemie vedla k pozastavení repatriací bývalých vězňů a Terezín se stal místem, kde probíhaly těžké boje s touto smrtelnou nákazou.
