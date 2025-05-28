@@ -1,20 +1,20 @@
 ---
-title: Presentation of Book by Andrea Löw
+title: Přednáška „Osvobození Terezína“
 layout: training
 type: training
-date: 2025-03-26
+date: 2025-05-28
 ---
 
 {{< intro >}}
-Presentation of book by **Andrea Löw: „Always with one foot in the grave“ – Experiences of German Jews**. The presentation is part of a series organized by the Jewish Museum in Prague and the Czech Node of the European Holocaust Research Institute (EHRI) called “New Views and Sources on the History of Holocaust”. 
+Přednáška Radany Rutové představí dění v židovském ghettu v Terezíně těsně po jeho osvobození a okolnosti epidemie skvrnitého tyfu.
 {{< /intro >}}
 
-<img align="right" src="../../../../images/workshops/lecture-loew/loew_book.jpg" height="400px" style="padding-left: 15px;">
+##### Datum: 3. června 2025, 15.00
 
-##### Date: 3rd April 2025, 7 pm
+##### Místo konání: Přednáškový sál v Národním archivu ČR, Archivní 2257/4, Praha 4
 
-##### Place: Maisel Synagogue, Maiselova 10, Prague 1
+Na jaře 1945 se existence židovského ghetta v Terezíně a policejní věznice v Malé pevnosti blížila svému konci. Tři týdny před skončením války se Terezín stal cílovou stanicí pro evakuační transporty a pochody smrti z likvidovaných koncentračních a pracovních táborů na území říše. Setkání terezínských vězňů s nově příchozími znamenalo nejen kruté seznámení s realitou konečného řešení židovské otázky, ale také oddálení dlouho očekávané svobody. Tisíce vyčerpaných a nemocných vězňů zavlekly do Terezína skvrnitý tyfus, který se rychle rozšířil i mezi původními vězni. Tyfová epidemie vedla k pozastavení repatriací bývalých vězňů a Terezín se stal místem, kde probíhaly těžké boje s touto smrtelnou nákazou.
 
-Andrea Löw, a German historian, will present her book Deported. "Always with one foot in the grave" – Experiences of German Jews. Based on hundreds of letters, diaries and other testimonies, she reveals the fate of German Jews deported from the German Reich to occupied Eastern Europe. The book sheds light on their hopes, fears and daily struggle for survival. The author will be interviewed by the historian Michal Frankl. The event will be held in English.
 
-Free admission.
+<img src="../../../images/workshops/lecture-radana-rutova/foto1.jpg" style="display: inline-block;width: 47%;">
+<img src="../../../images/workshops/lecture-radana-rutova/foto2.jpg" style="display: inline-block;width: 47%;">
