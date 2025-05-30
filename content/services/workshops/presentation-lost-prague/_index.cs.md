@@ -17,4 +17,4 @@ Přednášku si pro vás připravily Aneta Plzáková a Daniela Bartáková z Ma
 
 Více na: https://www.veletrhvedy.cz/cs/program/Ztracena-Praha-Zidovska-komunita-pod-nacistickou-nadvladou/
 
-<img src="../../../images/workshops/presentation-lost-prague/MemoMap.jpg">
+<img src="../../../images/workshops/presentation-lost-prague/MemoMap.jpg" style="width:100%">

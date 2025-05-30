@@ -15,4 +15,4 @@ As part of the event’s special program, a presentation titled Lost Prague: The
 
 The session will be led by Aneta Plzáková and Daniela Bartáková from the Masaryk Institute and Archives of the Czech Academy of Sciences (EHRI-CZ).
 
-<img src="../../../images/workshops/presentation-lost-prague/MemoMap.jpg">
+<img src="../../../images/workshops/presentation-lost-prague/MemoMap.jpg" style="width:100%">
