@@ -5,7 +5,7 @@ type: training
 date: 2025-05-30
 ---
 
-##### Datum: 7. června 2025, od 13.45
+##### Datum: 7. června 2025, 13.45
 
 ##### Místo konání: Pražský veletržní areál Letňany, Keplerův sál
 
