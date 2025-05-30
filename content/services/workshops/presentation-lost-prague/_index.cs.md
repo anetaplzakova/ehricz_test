@@ -1,5 +1,5 @@
 ---
-title: Ztracená Praha: Židovská komunita pod nacistickou nadvládou
+title: Ztracená Praha. Židovská komunita pod nacistickou nadvládou
 layout: training
 type: training
 date: 2025-05-30

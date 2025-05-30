@@ -1,5 +1,5 @@
 ---
-title: Lost Prague: The Jewish Community Under Nazi Rule
+title: Lost Prague. The Jewish Community Under Nazi Rule
 layout: training
 type: training
 date: 2025-05-30
