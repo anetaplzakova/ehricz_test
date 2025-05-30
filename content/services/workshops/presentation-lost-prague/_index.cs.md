@@ -5,11 +5,6 @@ type: training
 date: 2025-05-30
 ---
 
-{{< intro >}}
-Přednáška německého historika **Dirka Rupnowa: Postnacismus – postkolonialismus – postmigrace: Současná debata o paměti holokaustu** z cyklu ŽMP a EHRI-CZ „Nové poznatky a prameny k dějinám holokaustu“. 
-{{< /intro >}}
-
-
 ##### Datum: 7. června 2025, od 13.45
 
 ##### Místo konání: Pražský veletržní areál Letňany, Keplerův sál
