@@ -8,7 +8,7 @@ date: 2025-06-12
 {{< intro >}}
 Lecture of the prof. of politology at the Loyola University Maryland **Dr. Janine P. Holc: The Weavers of Trautenau, Jewish Female Forced Labor in the Holocaust** will take place as part of the lecture series organised by the Jewish Museum Prague and EHRI-CZ “New Views and Sources on the History of Holocaust”. 
 {{< /intro >}}
-
+</br>
 **Date: 17th June 2025, 7 pm**
 
 **Place: Maisel Synagogue, Maiselova 10, Prague 1**
