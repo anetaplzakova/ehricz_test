@@ -5,7 +5,7 @@ type: training
 date: 2025-06-12
 ---
 
-{{< intro >}}Přednášku profesorky politologie na Loyola University Maryland **Dr. Janine P. Holc: Tkadleny z Trutnova: nucená práce židovských žen během holokaustu** pořádá Židovské muzeum v Praze a EHRI-CZ v rámci cyklu "Nové poznatky a prameny k dějinám holocaustu" u příležitosti 80. výročí konce druhé světové války.
+{{< intro >}} Přednášku profesorky politologie na Loyola University Maryland **Dr. Janine P. Holc: Tkadleny z Trutnova: nucená práce židovských žen během holokaustu** pořádá Židovské muzeum v Praze a EHRI-CZ v rámci cyklu "Nové poznatky a prameny k dějinám holocaustu" u příležitosti 80. výročí konce druhé světové války.
 {{< /intro >}}
 
 **Datum: 17. června 2025 v 19.00**
