@@ -1,5 +1,5 @@
 ---
-title: Daleko od Prahy: Holokaust na Moravě ꟾ Přednáška Benjamina Frommera
+title: Daleko od Prahy. Holokaust na Moravě ꟾ Přednáška Benjamina Frommera
 layout: training
 type: training
 date: 2025-09-01
