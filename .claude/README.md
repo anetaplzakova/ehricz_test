@@ -109,6 +109,44 @@ hugo
 git submodule update --remote --merge
 ```
 
+## Jak vytvořit novou stránku
+
+1. Vytvoř nový soubor v `/content/` s příponou `.md`
+2. Přidej front matter v YAML formátu:
+   ```yaml
+   ---
+   title: Název stránky
+   ---
+   ```
+3. Pokud je soubor pojmenován `nova-stranka.md`, bude dostupný na URL `/nova-stranka/`
+4. **Pro vícejazyčný web**: vytvoř také `.en.md` verzi s přeloženým obsahem
+
+### Vytvoření menu položky pro novou stránku
+
+1. V `config.yaml` přidej nový záznam do `menu.main`:
+   ```yaml
+   menu:
+     main:
+       - identifier: nova_stranka
+         pageRef: /nova-stranka/
+         weight: 80
+   ```
+2. V `i18n/cs.yaml` a `i18n/en.yaml` přidej překlad:
+   ```yaml
+   nova_stranka:
+     other: Nová stránka
+   ```
+3. Pro překlad EN menu přidej do `languages.en.menu.main`:
+   ```yaml
+   languages:
+     en:
+       menu:
+         main:
+           - identifier: nova_stranka
+             pageRef: en/nova-stranka/
+             weight: 80
+   ```
+
 ## Důležité konvence
 
 1. **Vždy vytvářej obsah v obou jazycích** (`.cs.md` + `.en.md`)
