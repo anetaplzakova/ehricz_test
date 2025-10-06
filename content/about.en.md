@@ -9,6 +9,7 @@ layout: about
 Top-quality research on the Holocaust is a prerequisite for informed discussion about Czech, European and world modern history and for understanding the risks and mechanisms of racism and genocide in their various forms. The [European Holocaust Research Infrastructure](https://www.ehri-project.eu/) (EHRI) connects collections and sources divided by borders and languages, promotes digital methods and supports researchers. The Czech EHRI national node is a gateway to EHRI services and community and a signpost for Holocaust research in the Czech Republic.
 {{< /intro >}}
 
+<br>
 
 {{< figure src="../../images/terezin_research_guide.png" class="fig-float fig-right" caption="Example of a document from the Terezín Research Guide" >}}
 
@@ -31,6 +32,15 @@ Since 2018, EHRI has been on the roadmap of European research infrastructures an
 - Applies digital methods to the digitised sources, including automatic text and speech recognition, identification of places, historical actors, keywords, etc.
 - Supports research using spatial methods and interactive maps, including the MemoMAP application.
 
+## More about EHRI's mission and vision
+
+<iframe
+     class="video-embed"
+     style="color:#46463D00"
+     src="https://www.youtube.com/embed/HR_R0SSMWz0" title="YouTube video player"
+     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+     allowfullscreen="">
+</iframe>
 
 <!--
 TODO: remove contact info

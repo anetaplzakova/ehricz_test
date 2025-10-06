@@ -10,6 +10,8 @@ layout: about
 
 {{< /intro >}}
 
+<br>
+
 {{< figure src="../images/terezin_research_guide.png" class="fig-float fig-right" caption="Příklad dokumentu z Terezínského archivního průvodce" >}}
 
 ## Výzkumná infrastruktura
@@ -31,6 +33,16 @@ EHRI-CZ poskytuje zejména tyto typy služeb:
 - Propojuje a rozšiřuje databáze obětí a metodologicky podporuje jejich další rozvoj.
 - Na digitalizované prameny aplikuje digitální metody, mezi něž náleží například automatické rozpoznávání textu a řeči, identifikace míst, historických aktérů, klíčových slov a další.
 - Podporuje bádání za pomoci prostorových metod a interaktivních map, mj. skrze aplikaci MemoMAP.
+
+## Více o poslání a vizi EHRI
+
+<iframe
+     class="video-embed"
+     style="color:#46463D00"
+     src="https://www.youtube.com/embed/HR_R0SSMWz0" title="YouTube video player"
+     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+     allowfullscreen="">
+</iframe>
 
 <!--
 EHRI-CZ bude usilovat o zajištění dlouhodobé udržitelnosti výzkumu holocaustu v rámci České republiky i mimo ni prostřednictvím:
