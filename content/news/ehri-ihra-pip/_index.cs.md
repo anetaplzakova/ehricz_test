@@ -1,5 +1,5 @@
 ---
-title: EHRI je stálým mezinárodním partnerem IHRA
+title: EHRI je nově stálým mezinárodním partnerem IHRA
 layout: training
 type: training
 date: 2025-10-06
