@@ -17,8 +17,11 @@ partners:
 fellowships_training:
   other: Kurzy a stipendia
 
-news: 
+news:
   other: Novinky
+
+newsletters:
+  other: Newslettery
 
 document_blog:
   other: Document Blog

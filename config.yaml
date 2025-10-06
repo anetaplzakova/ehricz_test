@@ -29,6 +29,9 @@ menu:
     - identifier: news
       pageRef: news
       weight: 40
+    - identifier: newsletters
+      pageRef: newsletters
+      weight: 45
     - identifier: services
       pageRef: services
       weight: 50
