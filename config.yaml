@@ -29,9 +29,6 @@ menu:
     - identifier: news
       pageRef: news
       weight: 40
-    - identifier: newsletters
-      pageRef: newsletters
-      weight: 45
     - identifier: services
       pageRef: services
       weight: 50
@@ -69,6 +66,26 @@ languages:
   cs:
     title: Česká republika
     weight: 1
+    menu:
+      main:
+        - identifier: about
+          pageRef: about
+          weight: 20
+        - identifier: partners
+          pageRef: partners
+          weight: 30
+        - identifier: news
+          pageRef: news
+          weight: 40
+        - identifier: newsletters
+          pageRef: newsletters
+          weight: 45
+        - identifier: services
+          pageRef: services
+          weight: 50
+        - identifier: contact
+          pageRef: contact
+          weight: 60
   en:
     title: Czech Republic
     weight: 2
