@@ -3,7 +3,7 @@
 - id: mua
   title: Masarykův ústav a archiv AV ČR
   url: https://www.mua.cas.cz/
-  image: MUA_logo_CZE.png
+  image: logos/MUA_logo_CZE.png
   content: |
     Ústav, který založil první československý prezident Tomáš G. Masaryk v roce 1932 je přední českou výzkumnou organizací se zaměřením na dějiny 19. a 20. století.
 
@@ -12,7 +12,7 @@
 - id: na
   title: Národní archiv
   url: https://www.nacr.cz
-  image: NA_logo_CZE.png
+  image: logos/NA_logo_CZE.png
   content: |
     Národní archiv je správním úřadem a ústředním archivem České republiky přímo řízeným Ministerstvem vnitra.
 
@@ -23,7 +23,7 @@
 - id: pt
   title: Památník Terezín
   url: https://www.pamatnik-terezin.cz/
-  image: PT_logo.png
+  image: logos/PT_logo.png
   content: |
     Památník Terezín je národní kulturní památka, která je příspěvkovou organizací Ministerstva kultury ČR. Jejím hlavním úkolem je uchovávat památku na oběti nacistické perzekuce během 2. světové války. 
     
@@ -32,7 +32,7 @@
 - id: iti
   title: Institut Terezínské iniciativy
   url: http://www.terezinstudies.cz
-  image: ITI_logo_CZE.png
+  image: logos/ITI_logo_CZE.png
   content: |
    Institut Terezínské iniciativy je obecně prospěšná společnost, která vznikla transformací z Nadace Terezínská iniciativa, založené v roce 1993 mezinárodním sdružením bývalých vězňů terezínského ghetta.
 
@@ -41,7 +41,7 @@
 - id: zmp
   title: Židovské muzeum v Praze
   url: https://www.jewishmuseum.cz/
-  image: zmp-logo.png
+  image: logos/zmp-logo.png
   content: |
    Židovské muzeum v Praze je evropským unikátem, nejkomplexnější institucí svého druhu: spravuje čtyři historické synagogy a Obřadní síň s jedinečnými expozicemi, světoznámý Starý židovský hřbitov, vlastní galerii, několik depozitářů, archiv, knihovnu s multimediálním centrem i restaurátorská pracoviště stejně jako vzdělávací a kulturní centrum. 
    

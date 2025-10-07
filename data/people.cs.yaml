@@ -3,7 +3,7 @@
 - id: sedlicka
   name: Mgr. Magdalena Sedlická, Ph.D. (národní koordinátorka)
   email: sedlicka@mua.cas.cz
-  image: Sedlicka.jpg
+  image: people/Sedlicka.jpg
   about: |
     Text
   contact: true
@@ -11,7 +11,7 @@
 - id: plzakova
   name: Mgr. Aneta Plzáková (datová kurátorka)
   email: plzakova@mua.cas.cz
-  image: person-icon.png
+  image: people/person-icon.png
   about: |
     Text
   contact: true

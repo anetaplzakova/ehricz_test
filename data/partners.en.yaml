@@ -3,7 +3,7 @@
 - id: mua
   title: Masaryk Institute and Archives of the Czech Academy of Sciences
   url: https://www.nacr.cz/en/
-  image: MUA_logo_ENG.png
+  image: logos/MUA_logo_ENG.png
   content: |
    The institute, founded by the first Czechoslovak president Thomas G. Masaryk in 1932 and later joined the Archives of the Czechoslovak Academy of Sciences, is the leading Czech research organisation focusing on the history of the 19th and 20th centuries.
 
@@ -12,7 +12,7 @@
 - id: na
   title: The National Archives
   url: https://www.nacr.cz/en/
-  image: NA_logo_ENG.png
+  image: logos/NA_logo_ENG.png
   content: |
    The National Archives is an administrative authority and the central archive of the Czech Republic directly managed by the Ministry of the Interior.
 
@@ -23,7 +23,7 @@
 - id: pt
   title: Terezín Memorial
   url: https://www.pamatnik-terezin.cz/?lang=en
-  image: PT_logo.png
+  image: logos/PT_logo.png
   content: |
     The Terezín Memorial is a national cultural monument, a contributory organization of the Ministry of Culture of the Czech Republic, which is tasked with preserving the memory of the victims of Nazi persecution during World War II. 
     
@@ -32,7 +32,7 @@
 - id: iti
   title: Terezín Initiative Institute
   url: http://www.terezinstudies.cz/en
-  image: ITI_logo_ENG.png
+  image: logos/ITI_logo_ENG.png
   content: |
    The Terezín Initiative Institute, a non-profit organization, was created by transforming the Terezín Initiative Foundation, founded in 1993 by the Terezín Initiative, an international association of former prisoners of the Terezín ghetto.
 
@@ -41,7 +41,7 @@
 - id: zmp
   title: Jewish Museum in Prague
   url: https://www.jewishmuseum.cz/en/info/visit/
-  image: zmp-logo.png
+  image: logos/zmp-logo.png
   content: |
    The Jewish Museum in Prague is a unique European institution, the most comprehensive of its kind: it manages four historic synagogues and a Ceremonial Hall with unique exhibitions, the world-famous Old Jewish Cemetery, several depositories, archives, a library with a multimedia centre and restoration workplaces, as well as an educational and cultural centre. 
    

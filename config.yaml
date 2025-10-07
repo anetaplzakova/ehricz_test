@@ -86,6 +86,30 @@ languages:
         - identifier: contact
           pageRef: contact
           weight: 60
+      footer:
+        - identifier: about
+          pageRef: about
+          weight: 20
+        - identifier: partners
+          pageRef: partners
+          weight: 30
+        - identifier: news
+          pageRef: news
+          weight: 40
+      services:
+        - identifier: memogis
+          pageRef: 'https://ehri.cz/memogis/praha/'
+          weight: 10
+        - identifier: holocaustcz
+          pageRef: 'https://www.holocaust.cz/'
+          weight: 20
+        - identifier: terezin_research_guide
+          pageRef: 'https://portal.ehri-project.eu/guides/terezin'
+          weight: 30
+        - identifier: geodata
+          pageRef: 'https://geodata.ehri-project.eu/'
+          weight: 40
+
   en:
     title: Czech Republic
     weight: 2

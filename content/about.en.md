@@ -32,7 +32,7 @@ Since 2018, EHRI has been on the roadmap of European research infrastructures an
 - Applies digital methods to the digitised sources, including automatic text and speech recognition, identification of places, historical actors, keywords, etc.
 - Supports research using spatial methods and interactive maps, including the MemoMAP application.
 
-## More about EHRI's mission and vision
+<!--## More about EHRI's mission and vision
 
 <iframe
      class="video-embed"
@@ -40,7 +40,7 @@ Since 2018, EHRI has been on the roadmap of European research infrastructures an
      src="https://www.youtube.com/embed/HR_R0SSMWz0" title="YouTube video player"
      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
      allowfullscreen="">
-</iframe>
+</iframe>-->
 
 <!--
 TODO: remove contact info

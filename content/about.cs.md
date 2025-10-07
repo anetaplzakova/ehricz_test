@@ -34,6 +34,7 @@ EHRI-CZ poskytuje zejména tyto typy služeb:
 - Na digitalizované prameny aplikuje digitální metody, mezi něž náleží například automatické rozpoznávání textu a řeči, identifikace míst, historických aktérů, klíčových slov a další.
 - Podporuje bádání za pomoci prostorových metod a interaktivních map, mj. skrze aplikaci MemoMAP.
 
+<!--
 ## Více o poslání a vizi EHRI
 
 <iframe
@@ -44,7 +45,6 @@ EHRI-CZ poskytuje zejména tyto typy služeb:
      allowfullscreen="">
 </iframe>
 
-<!--
 EHRI-CZ bude usilovat o zajištění dlouhodobé udržitelnosti výzkumu holocaustu v rámci České republiky i mimo ni prostřednictvím:
 
 * zastupování českých institucí, které obsahují materiály související se studiemi holokaustu, za účelem vytvoření silného výzkumného konsorcia;
