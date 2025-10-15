@@ -156,6 +156,7 @@ git submodule update --remote --merge
 5. **Hugo shortcodes**: projekt používá např. `{{< intro >}}`, `{{< figure >}}`
 6. **Unsafe HTML povoleno** (v `config.yaml` je `markup.goldmark.renderer.unsafe: true`)
 
+
 ## Shortcodes použité v projektu
 - `{{< intro >}}...{{< /intro >}}` - intro sekce
 - `{{< figure src="..." caption="..." class="..." >}}` - obrázky s popiskem
