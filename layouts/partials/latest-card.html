@@ -4,7 +4,7 @@
     </header>
     <p>{{ .date }}</p>
     <p class="latest-card-content">
-        {{ .content }}
+        {{ .content | markdownify }}
     </p>
     <a class="button-primary" href="{{ .url }}">{{ i18n "learn_more" }}</a>
 </div>
