@@ -9,7 +9,7 @@ date: 2024-09-10
 Workshop of the Czech node of the European Holocaust Research Infrastructure (EHRI)
 {{< /intro >}}
 
-{{< figure src="../../images/EHRI-logo.png" class="fig-float fig-right" >}}
+{{< figure src="/images/logos/EHRI-logo.png" class="fig-float fig-right" >}}
 
 ##### Date: 4-5 December 2024
 ##### Venue: National Archives, Prague, Czech Republic

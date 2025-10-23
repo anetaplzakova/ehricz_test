@@ -157,12 +157,6 @@
   content: |
    V závěrečném díle třetí série podcastu EHRI se podíváme na mikroarchivy v obecnějším smyslu.
 
-- title: Nominační formulář pro knižní sérii Studie holokaustu v překladu 
-  url: https://www.surveymonkey.com/r/YYPW9B6
-  #date: 04. 11. 2024
-  content: |
-    Tato interdisciplinární série představí nejnovější vědecké poznatky z východní Evropy, které jsou nově přístupné anglicky mluvícímu publiku. Uzávěrka je 15. listopadu 2024.
-
 - title: MemoMap Praha | Zkoumejte dějiny holokaustu v prostoru města 
   url: https://memomap.cz/
   #date: 23. 09. 2024
@@ -170,7 +164,7 @@
    Historický geografický informační systém promítá na mapu Prahy data o obětech holokaustu a interakci s obyvateli města ve zužujícím se veřejném prostoru.
    
 - title: Databáze pronásledovaných | Nové perspektivy výzkumu, vzdělávání a připomínky holokaustu
-  url: https://www.ehri.cz/services/ehri_workshop
+  url: https://www.ehri.cz/services/workshops/workshop-prague/
   #date: 07. 09. 2024
   content: |
    Seminář českého uzlu Evropské infrastruktury pro výzkum holokaustu (EHRI)   

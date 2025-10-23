@@ -9,7 +9,7 @@ date: 2024-09-10
 Seminář českého uzlu Evropské infrastruktury pro výzkum holokaustu (EHRI)
 {{< /intro >}}
 
-{{< figure src="../../images/EHRI-logo.png" class="fig-float fig-right" >}}
+{{< figure src="/images/logos/EHRI-logo.png" class="fig-float fig-right" >}}
 
 ##### Datum: 4.-5. 12. 2024
 ##### Místo: Národní archiv, Praha
