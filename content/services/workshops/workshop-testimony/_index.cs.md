@@ -1,5 +1,5 @@
 ---
-title: "Workshop of EHRI-CZ, GWZO and the Malach Center for Visual History: New Readings of Holocaust Testimony"
+title: "Workshop EHRI-CZ, GWZO a Centra vizuální historie Malach: Nové čtení svědectví o holokaustu"
 ---
 
 Ve dnech 20.–21. října se uskutečnil mezinárodní workshop Nové čtení svědectví o holokaustu, pořádaný EHRI-CZ, GWZO a Centrem vizuální historie Malach. Workshop se zaměřil na otázku, jak nové technologie mění způsob historického bádání a jak lze zapojit veřejnost do procesu tvorby a anotace korpusů svědectví, jakožto jednoho z pramenů historického bádání (citizen science). Během workshopu se sešli přední evropští odborníci v oblasti jazykové lingvistiky a digitálních humanitních věd s těmi, kteří se svědectvími přeživších holokaustu pracují v rámci své každodenní odborné činnosti (historici, archiváři).
