@@ -1,0 +1,17 @@
+{{ define "main" }}
+    <section class="page-content">
+        <h1>{{ .Title }}</h1>
+
+        {{ if .Params.image }}
+        	<figure class="fig-float fig-right">
+                    <img src="{{ .Params.image }}" alt="{{ .Title }}" class="img-fluid rounded">
+                </figure>
+        {{ .Content }}
+	
+            </div>
+        {{ else }}
+            {{ .Content }}
+        {{ end }}
+
+    </section>
+{{ end }}

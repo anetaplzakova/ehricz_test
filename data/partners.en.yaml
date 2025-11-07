@@ -8,6 +8,17 @@
    The institute, founded by the first Czechoslovak president Thomas G. Masaryk in 1932 and later joined the Archives of the Czechoslovak Academy of Sciences, is the leading Czech research organisation focusing on the history of the 19th and 20th centuries.
 
     It combines primary historical research with archival experience. In keeping with Masaryk's legacy, it aims to ask new questions about difficult topics in Czech and European modern history, including war, mass violence and genocide, migration and refugees, as well as nationalism and various forms of racism.
+  people:
+    - name: Daniela Bartáková
+      url: /en/people/daniela-bartakova
+    - name: Jan Hron
+      url: /en/people/jan-hron
+    - name: Hana Nichtburgerová
+      url: /en/people/hana-nichtburgerova
+    - name: Aneta Plzáková
+      url: /en/people/aneta-plzakova
+    - name: Magdalena Sedlická
+      url: /en/people/magdalena-sedlicka
 
 - id: na
   title: The National Archives
@@ -19,6 +30,15 @@
     The archive was established in 1954 by incorporating the Archives of the Czech Lands and the Central Agricultural and Forestry Archives into the Central Archives of the Ministry of the Interior. However, the tradition of the institution can be traced back to the distant past. The newly established archive became a scientific research institute, which was entrusted with the professional care of the archival holdings (collections), especially of central authorities, bodies and institutions.
 
     Today, the main essence of the National Archives' research programme is a combination of basic and applied research. It carries out scientific and research activities in the field of archival science, auxiliary historical sciences, historiography and related scientific fields, and performs the tasks of a central scientific and research workplace in the field of preventive care of archival materials, preservation and restoration of archival materials, as well as in the field of preservation and access to new forms of information media, including documents in digital form.
+  people:
+    - name: Zdeňka Kokošková
+      url: /en/people/zdenka-kokoskova
+    - name: Jan Kouřimský
+      url: /en/people/jan-kourimsky
+    - name: Naděžda Kruglová
+      url: /en/people/nadezda-kruglova
+    - name: Monika Václavíková
+      url: /en/people/monika-vaclavikova
 
 - id: pt
   title: Terezín Memorial
@@ -28,6 +48,9 @@
     The Terezín Memorial is a national cultural monument, a contributory organization of the Ministry of Culture of the Czech Republic, which is tasked with preserving the memory of the victims of Nazi persecution during World War II. 
     
     The memorial was established by the then Czechoslovak government in 1947 under the name Memorial of National Suffering.
+  people:
+    - name: Tomáš Fedorovič
+      url: /en/people/tomas-fedorovic
     
 - id: iti
   title: Terezín Initiative Institute
@@ -37,6 +60,9 @@
    The Terezín Initiative Institute, a non-profit organization, was created by transforming the Terezín Initiative Foundation, founded in 1993 by the Terezín Initiative, an international association of former prisoners of the Terezín ghetto.
 
     It supports scientific research on various aspects of modern history, especially the relations between the majority and minorities living in the area of the Czech Republic today. It operates the educational portal holocaust.cz, the Holocaust Victims Database and a public professional library. It publishes professional publications and organises educational seminars for teachers and pupils of Czech schools and the public. It organises an annual commemorative event, the Public Reading of the Names of Holocaust Victims - Yom HaShoah.
+  people:
+    - name: Hana Čadová
+      url: /en/people/hana-cadova
 
 - id: zmp
   title: Jewish Museum in Prague

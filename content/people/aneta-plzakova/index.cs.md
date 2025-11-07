@@ -1,0 +1,4 @@
+---
+title: "Aneta Plzáková"
+---
+Aneta Plzáková (1986) vystudovala informační studia a knihovnictví na Filozofické fakultě Univerzity Karlovy. Od roku 2008 působila v Institutu Terezínské iniciativy, kde se věnovala správě a rozvoji Databáze obětí holokaustu a koordinaci digitalizačních a dokumentačních projektů. Podílela se mimo jiné na tvorbě vzdělávacího portálu holocaust.cz, projektu Terezínské album nebo dokumentaci romských obětí holokaustu. Od roku 2021 pracuje v Masarykově ústavu a Archivu Akademie věd ČR, kde se zaměřuje na správu a propojení historických dat, s důrazem na data o obětech holokaustu a geoprostorová data. Spolu s kolegy vyvíjí interaktivní mapové aplikace MemoMap a podílí se na přípravě portálu českého uzlu EHRI, který propojuje data o holokaustu z českých i zahraničních institucí.

@@ -1,0 +1,47 @@
+@import "../variables";
+@import "../mixins";
+
+// A grid of partner cards
+.partner-cards {
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-gap: $space-lg;
+  margin: 3rem 0;
+}
+
+
+.partner-card {
+  @include card();
+  padding: $space-xl;
+  grid-template-columns: 1fr min-content;
+  .logo {
+    width: 100%;
+    max-width: 100%;
+    margin: 0 0 $space-md 0;
+  }
+  .partner-card-header {
+    h3 {
+      margin-top: 0;
+      margin-bottom: 1rem;
+    }
+  }
+  .button-primary {
+    // Allow button text to wrap if necessary
+    white-space: unset;
+  }
+  .partner-card-info {
+    grid-area: info;
+  }
+  @media (min-width: $breakpoint-tablet) {
+    .logo {
+      max-width: 16rem;
+      height: auto;
+      margin: 0 0 $space-md $space-md;
+      float: right;
+    }
+  }
+}
+
+.partner-people {
+  margin-bottom: 1rem;
+}

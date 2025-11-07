@@ -1,0 +1,7 @@
+---
+title: "Mgr. Magdalena Sedlická, Ph.D."
+image: "/images/people/magdalena-sedlicka.jpg"
+---
+Mgr. Magdalena Sedlická, Ph.D., vystudovala obory historie-hebraistika a doktorský program moderní a soudobé dějiny na FF UK. V letech 2009-2017 pracovala jako vědecká pracovnice Oddělení pro dějiny šoa Židovského muzea v Praze, které v letech 2016-2017 vedla. V rámci Ústavu pro soudobé dějiny AV ČR spolupracovala na grantu „Začlenění židovského obyvatelstva do poválečného Československa a Polska" (GA ČR). Od roku 2018 působí v Masarykově ústavu a Archivu AV ČR, podílela se na výzkumném projektu „Integrace a segregace v prostoru města: dějiny holokaustu v Praze prostřednictvím mobilní webové aplikace" (TA ČR) a „European Holocaust Research Infrastructure, EHRI" (FP7, H2020). Od roku 2025 je národní koordinátorkou českého uzlu EHRI, který je součástí velké výzkumné infrastruktury LINDAT/CLARIAH-CZ (MŠMT).
+
+Badatelsky se zaměřuje na moderní židovské dějiny v českých zemích, holocaust, oral history a digitální edice. V roce 2021 publikovala knihu „Není přítel jako přítel." Židé v národním státě Čechů a Slováků 1945-1948. Je také jednou z hlavních editorů digitálních edic projektu EHRI [Early Holocaust Testimony](https://early-testimony.ehri-project.eu/) (2020) a [Documentation Campaign](https://documentation-campaign.ehri-project.eu/) (2023), které se věnují raným poválečným svědectvím o holokaustu.

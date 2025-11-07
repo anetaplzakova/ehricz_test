@@ -1,0 +1,9 @@
+---
+title: "PhDr. Zdeňka Kokošková"
+image: "/images/people/zdenka-kokoskova.jpg"
+---
+PhDr. Zdeňka Kokošková (*1963, born Dvořáková) is a professional archivist at the National Archives in Prague. In 1985 she graduated from the Department of Archival and Historical Auxiliary Sciences at the Faculty of Philosophy of Charles University in Prague and then joined the National Archives, where she currently heads the Department of Archival Collections 1918-1992. Her main interest is the history of the Czech lands during the Nazi occupation.
+
+In the past, she has participated in the National Archives, in cooperation with the Institute of Social Sciences of the CAS, in a project based on Government Resolution No. 1081/2005 _Documentation of the fates of active opponents of Nazism who were affected after the end of the Second World War in connection with the measures applied in Czechoslovakia against the so-called hostile population_. Then she has collaborated on the National Archives project, supported by the German EVZ Foundation, _Forced Labour of the Czech Population of the Protectorate of Bohemia and Moravia during the Nazi Occupation_, which resulted in a critical edition of documents on the labour deployment of Czechs in the Reich. She is currently working on the National Archives' internal project _The Nazi Occupation Administration in the Protectorate of Bohemia and Moravia and its Representatives_, which focuses on the highest officials of the Office of the Reich Protector in Bohemia and Moravia and the German State Ministry for Bohemia and Moravia, including individual Oberlandrats.
+
+Since 2023, when the National Archives became a partner institution of the Czech national node of the European Holocaust Research Infrastructure (EHRI), she has been involved in the tasks of the _LINDAT/CLARIAH-CZ project - Digital_ _Research Infrastructure for Language Technology, Arts and Humanities_, with a focus on EHRI.

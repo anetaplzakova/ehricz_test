@@ -1,0 +1,4 @@
+---
+title: "Mgr. Tomáš Fedorovič, Ph.D."
+---
+Mgr. Tomáš Fedorovič, Ph.D., is a historian at the Terezín Memorial. In his doctoral dissertation, he focused on the fate of Jewish psychiatric patients from the Czech lands and Slovakia during the "Final Solution of the Jewish Question." His research on the history of the Terezín ghetto concentrates not only on the activities of the SS office but also on the Jewish ghetto administration and the destinies of various groups of prisoners (such as the blind and war invalids). He has also contributed to research on survival statistics of Terezín inmates as part of the project Surviving Theresienstadt: The Social Structure of a Nazi Concentration Camp. He edited, introduced, and annotated the publication Willy Mahler, Terezín Diary 1942-1944, which brings new insights into many aspects of everyday life in Terezín.

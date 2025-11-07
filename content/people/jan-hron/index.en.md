@@ -1,0 +1,8 @@
+---
+title: "Jan Hron"
+---
+Jan Hron (born 1981) completed his master's degree in Czech Language and Literature and Comparative Literature at the Faculty of Arts, Charles University in Prague in 2008. From 2008 to 2015, he worked as an editor and archivist at the Václav Havel Library, where he gradually built a digital archive and, in the process, taught himself programming. In 2015, he joined the Institute for the Study of Totalitarian Regimes and the Security Services Archive as a programmer. At these institutions, he contributed, among other things, to the development of the ABS eBadatelna (electronic research tool), the web presentation of the Federal Ministry of the Interior's departments, a database of members of parliament, and a database of individuals executed in Dresden during the Nazi era.
+
+At the Institute, he also created the exhibition _Politics and Conscience_, which commemorated the life and work of Václav Havel, and he published the book _Czechs and Europe_, featuring texts by the philosopher Ladislav Hejdánek. Since 2012, he has been the chair of the volunteer association _The Ladislav Hejdánek Archive_, where he collaborates with others to digitize and publish the works of this Czech philosopher. In 2025, he published a book of Hejdánek's autobiographical writings titled _To Live Without Trouble Is to Live Without Truth_.
+
+Since 2023, he has been working at the Masaryk Institute. His projects there include the development of websites presenting the writings of Tomáš Garrigue Masaryk, the so-called _MemoMaps_-interactive maps of various cities during the Protectorate period-and a web portal for the Czech node of EHRI, which aims to integrate various Czech and international data sources related to the Holocaust.

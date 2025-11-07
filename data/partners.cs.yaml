@@ -8,6 +8,17 @@
     Ústav, který založil první československý prezident Tomáš G. Masaryk v roce 1932 je přední českou výzkumnou organizací se zaměřením na dějiny 19. a 20. století.
 
     Spojuje primární historický výzkum s archivní zkušeností. V souladu s Masarykovým odkazem si klade za cíl klást nové otázky na obtížná témata českých a evropských moderních dějin, včetně války, masového násilí a genocidy, migrace, uprchlictví ale i nacionalismu a různých forem rasismu.
+  people:
+    - name: Daniela Bartáková
+      url: /people/daniela-bartakova
+    - name: Jan Hron
+      url: /people/jan-hron
+    - name: Hana Nichtburgerová
+      url: /people/hana-nichtburgerova
+    - name: Aneta Plzáková
+      url: /people/aneta-plzakova
+    - name: Magdalena Sedlická
+      url: /people/magdalena-sedlicka
     
 - id: na
   title: Národní archiv
@@ -19,6 +30,15 @@
     Archiv byl založen v roce 1954 začleněním Archivu země České a Ústředního zemědělsko-lesnického archivu do Ústředního archivu ministerstva vnitra. Nicméně tradici instituce je možné vysledovat až do dávné minulosti. Nově založený archiv se stal vědecko-výzkumným ústavem, jemuž byly svěřeny do odborné péče archivní fondy (sbírky), zejména ústředních úřadů, orgánů a institucí.
 
     Dnešní hlavní podstatu výzkumného programu Národního archivu tvoří kombinace základního a aplikovaného výzkumu. Archiv provádí vědeckou a výzkumnou činnost v oblasti archivnictví, pomocných věd historických, historiografie a v příbuzných vědních oborech, plní úkoly ústředního vědecko-výzkumného pracoviště na úseku preventivní péče o archiválie, konzervace a restaurování archiválií, dále v oblasti uchovávání a zpřístupňování nových forem nosičů informací, včetně dokumentů v digitální podobě.
+  people:
+    - name: Zdeňka Kokošková
+      url: /people/zdenka-kokoskova
+    - name: Jan Kouřimský
+      url: /people/jan-kourimsky
+    - name: Naděžda Kruglová
+      url: /people/nadezda-kruglova
+    - name: Monika Václavíková
+      url: /people/monika-vaclavikova
     
 - id: pt
   title: Památník Terezín
@@ -28,6 +48,9 @@
     Památník Terezín je národní kulturní památka, která je příspěvkovou organizací Ministerstva kultury ČR. Jejím hlavním úkolem je uchovávat památku na oběti nacistické perzekuce během 2. světové války. 
     
     Památník byl založen tehdejší československou vládou v roce 1947 pod názvem Památník národního utrpení. 
+  people:
+    - name: Tomáš Fedorovič
+      url: /people/tomas-fedorovic
     
 - id: iti
   title: Institut Terezínské iniciativy
@@ -37,6 +60,9 @@
    Institut Terezínské iniciativy je obecně prospěšná společnost, která vznikla transformací z Nadace Terezínská iniciativa, založené v roce 1993 mezinárodním sdružením bývalých vězňů terezínského ghetta.
 
    Institut Terezínské iniciativy podporuje vědecký výzkum moderních dějin, zejména vztahy většiny obyvatelstva k minoritám žijících v prostoru dnešní České republiky. Institut provozuje vzdělávací portál holocaust.cz, databázi obětí holocaustu a odbornou knihovnu. Vydává odborné publikace a pořádá vzdělávací semináře pro učitele, žáky, studenty a širokou veřejnost. Organizuje každoroční připomínkovou akci veřejné čtení jmen obětí holocaustu - Jom ha-Šoa.
+  people:
+    - name: Hana Čadová
+      url: /people/hana-cadova
 
 - id: zmp
   title: Židovské muzeum v Praze
