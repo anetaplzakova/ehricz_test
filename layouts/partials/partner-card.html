@@ -8,10 +8,10 @@
         <img class="logo" src="{{ $url | relURL }}" alt="{{ .title }} image" />
     {{ end }}
     <header class="partner-card-header">
-        <h3><a href="{{ .url }}">{{ .title }}</a></h3>
+        <h3 property="name"><a href="{{ .url }}">{{ .title }}</a></h3>
     </header>
     <div class="partner-card-info">
-        {{ .content | page.RenderString (dict "display" "block")  }}
+        <div property="description">{{ .content | page.RenderString (dict "display" "block")  }}</div>
         {{ if .people }}
         <div class="partner-people">
 	    <div>{{ i18n "people_in_institution" }}:</div>
@@ -20,6 +20,6 @@
             {{- end }}
         </div>
         {{ end }}
-        <a class="button-primary" target="_blank" href="{{ .url }}">{{ i18n "go_to" (dict "Name" .title) }}</a>
+        <a class="button-primary" target="_blank" href="{{ .url }}" property="sameAs">{{ i18n "go_to" (dict "Name" .title) }}</a>
     </div>
 </div>
