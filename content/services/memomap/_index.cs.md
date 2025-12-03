@@ -1,6 +1,6 @@
 ---
 title: MemoMapa | zkoumejte dějiny holokaustu v prostoru 
-layout: training
+layout: single
 type: training
 date: 2024-09-09
 ---
