@@ -1,6 +1,6 @@
 ---
 title: MemoMap | Interactive Holocaust History 
-layout: training
+layout: single
 type: training
 date: 2024-09-09
 ---
