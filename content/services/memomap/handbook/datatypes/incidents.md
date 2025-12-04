@@ -34,7 +34,7 @@ Datová struktura incidentů je jednoduchá a soustředí se na to nejdůležit�
   - co se stalo,  
   - kdo byli aktéři incidentu,  
   - jaké měly události následky,  
-  - jak o nich víme (např. policejní spisy, pamětní výpovědi).  
+  - jak o nich víme (např. policejní spisy, výpovědi pamětníků).  
 
 Popis je určený pro zobrazení v mapě a měl by být co nejkonkrétnější, ale současně založený na ověřených zdrojích.
 
