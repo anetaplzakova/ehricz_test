@@ -149,3 +149,17 @@ Příručka je rozdělena do čtyř hlavních sekcí, které vám pomohou v růz
 		  </h4>
  		  
 </div>
+
+<div style="margin-top: 6rem; padding: 1.5rem; border-top: 1px solid #ddd; display: flex; align-items: center; gap: 1.5rem;">
+
+  <div style="max-width: 200px;">
+  <a href="https://fondholocaust.cz/">
+    {{< figure src="/images/nfoh_logo_cze_rgb_pozitiv-1-1600x572.jpg">}}
+  </a>
+  </div>
+
+  <div style="flex: 1; font-size: 0.95rem; line-height: 1.5;">
+    <b>Vznik této příručky podpořil Nadační fond obětem holocaustu.</b>
+  </div>
+
+</div>
