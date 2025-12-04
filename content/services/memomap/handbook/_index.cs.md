@@ -81,7 +81,7 @@ Vaším úkolem je shromáždit údaje, které chcete v MemoMapě zobrazit, a pe
 
 ## Kam dál?
 
-Příručka je rozdělena do čtyř hlavních sekcí, které vám pomohou v různých fázích vaší práce na MemoMapě.
+Příručka je rozdělena do sekcí, které vám pomohou v různých fázích vaší práce na MemoMapě.
 
   
    - <h3 style="margin-bottom: 0.3rem;">
