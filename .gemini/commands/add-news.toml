@@ -10,9 +10,10 @@ Zadání:
    * `data/hl-latest.en.yaml`
    * `data/latest.cs.yaml`
    * `data/latest.en.yaml`
-4. Pozor soubory `data/hl-latest.cs.yaml` a `data/hl-latest.en.yaml` můžou obsahovat maximálně 6 novinek; pokud jich je po přidání nové novinky víc, pak je potřeba ubrat poslední novinku v souboru
+4. Pozor, soubory `data/hl-latest.cs.yaml` a `data/hl-latest.en.yaml` můžou obsahovat maximálně 6 novinek; pokud jich je po přidání nové novinky víc, pak je potřeba ubrat poslední novinku v souboru
+5. Pozor, odkaz-url na anglickou verzi novinek musí vždy začínat /en/..., tedy například /en/news/novinka/; odkazy na českou verzi novinek nemusí obsahovat kód pro jazyk, stačí tedy /news/novinka/
 
-5. Obsah souboru pro novinku je:
+6. Obsah souboru pro novinku je:
 ---
 {{args}}
 ---

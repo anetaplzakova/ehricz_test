@@ -1,35 +1,25 @@
-ÈJ
+ÄŒJ
 
-**Pøednáška Renaty Berkyové| Transgeneraèní trauma a souèasné podobny romské a sintské identity**
+**NÃ¡rodnÃ­ koordinÃ¡toÅ™i EHRI se setkali v Institutu Parkes v Southamptonu**
 
-Letošní cyklus pøednáškového cyklu idovského muzea v Praze a EHRI-CZ „Nové poznatky a prameny k dìjinám holokaustu" uzavøe pøednáška romistky **Renaty Berkyové** _**Transgeneraèní trauma a souèasné podoby romské a sintské identity**_.
+ZaÄÃ¡tkem listopadu se setkali nÃ¡rodnÃ­ koordinÃ¡toÅ™i EHRI, spolupracovnÃ­ci a ÄlenovÃ© centrÃ¡lnÃ­ho hubu na zasedÃ¡nÃ­ [VÃ½boru nÃ¡rodnÃ­ch koordinÃ¡torÅ¯](https://www.ehri-project.eu/national-coordinators-committee/) v [Institutu Parkes](https://www.southampton.ac.uk/research/institutes-centres/the-parkes-institute) na UniverzitÄ› v Southamptonu ve VelkÃ© BritÃ¡nii.
 
-**Datum: 11. prosince 2025, 18.00**
+KaÅ¾dÃ¡ ÄlenskÃ¡ zemÄ› EHRI-ERIC mÃ¡ svÅ¯j nÃ¡rodnÃ­ uzel â€“ konsorcium vÃ½zkumnÃ½ch institucÃ­, archivÅ¯, muzeÃ­, knihoven a pamÄ›Å¥ovÃ½ch institucÃ­ s relevantnÃ­ odbornostÃ­, kterÃ© podporuje prÃ¡ci EHRI na nÃ¡rodnÃ­ i nadnÃ¡rodnÃ­ Ãºrovni. NÃ¡rodnÃ­ uzly majÃ­ svÃ© pevnÃ© mÃ­sto ve struktuÅ™e Å™Ã­zenÃ­ EHRI-ERIC, a to dÃ­ky zastoupenÃ­ ve VÃ½boru nÃ¡rodnÃ­ch koordinÃ¡torÅ¯, kterÃ½ se od svÃ©ho vzniku v bÅ™eznu 2025 schÃ¡zÃ­ alespoÅˆ jednou roÄnÄ›.
 
-**Místo konání: Auditorium OVK** – **3. patro, Maiselova 15, Praha 1**
+Na programu setkÃ¡nÃ­ byla diskuse o budoucÃ­ finanÄnÃ­ podpoÅ™e, o redesignu vizuÃ¡lnÃ­ identity EHRI-ERIC, o pokynech pro zapojenÃ­ do projektÅ¯, dÃ¡le plÃ¡n aktivit na rok 2026 a takÃ© nÃ¡vrh na vytvoÅ™enÃ­ novÃ½ch pracovnÃ­ch skupin.
 
-Berkyová pøiblíí témata druhé a tøetí generace rodin pøeivších Romù a Sintù, zkušenosti transgeneraèního traumatu, úsilí o odškodnìní èi navrácení zabaveného majetku a o plné spoleèenské a historické uznání genocidy Romù a Sintù. Nabídne také pohled na to, jak se tyto otázky promítají do souèasné identity, pamìti a obèanského aktivismu èlenù jednotlivıch rodin.
-
-**Renata Berkyová** je doktorandkou sociálních dìjin na Filozofická fakultì Karlovy Univerzity,zároveò pùsobí na Ústavu pro soudobé dìjiny AV ÈR. Vìnuje se váleènım a pováleènım dìjinám ve vztahu k Romùm a Sintùm, odškodòování, politice pamìti a reprezentacím.
-
-Vstupné: 60 Kè
-
-Vstupenku lze zakoupit [zde](https://online.colosseum.eu/zidovske_muzeum/standard/Hall/Index/3946754/vfIZqrdTSgJO_sla_IV3Q8AEQg_rov__rov__xcodex_AGA1gFbU4wjn-zrkc0YBmu1kOt9bXYA0wURGNQ__?).
+PodrobnÃ© informace: [ZDE](https://www.ehri-project.eu/ehris-national-coordinators-gather-at-the-parkes-institute-in-southampton/)
 
 AJ
 
-**Renata Berkyová’s lecture | Transgenerational Trauma and Current Forms of Roma and Sinti Identities**
+**EHRIâ€™s National Coordinators Gather at The Parkes Institute in Southampton**
 
-Invitation to the closing lecture this year from the lecture series of the Jewish Museumin Prague and EHRI-CZ “New Views and Sources on the History of the Holocaust”.
+In early November, EHRIâ€™s national coordinators, associates and the Central Hub members assembled for a [National Coordinators Committee](https://www.ehri-project.eu/national-coordinators-committee/) meeting at [The Parkes Institute](https://www.southampton.ac.uk/research/institutes-centres/the-parkes-institute) at the University of Southampton in the UK.
 
-**Date: 25th March 2025, 6 pm**
+Each member country of the EHRI-ERIC has a National Node â€“ a consortium of research institutions, archives, museums, libraries and memory institutions with relevant expertise that advances the work of EHRI at the national and transnational level.
 
-**Place: OVK Auditorium, Maiselova 15, Prague 1, 3rd floor**
+These National Nodes are anchored in EHRI-ERICâ€™s governance through their representation in the National Coordinators Committee which, since its formation in March 2025, meets at least once a year.
 
-Berkyová will address the experiences of Roma and Sinti survivor families across thesecond and third generations, focusing on their struggles withtransgenerational trauma, their efforts to obtain compensation or reclaimconfiscated property, and the pursuit of full societal and historicalrecognition of the genocide of Roma and Sinti. She will also explore how theseissues shape contemporary identity, collective memory, and civic activism amongindividual family members.
+On the agenda this time were future funding, the rebranding of the EHRI-ERIC design, guidelines for engaging in projects, 2026 activity plans and the foundation of new working groups.
 
-**Renata Berkyová** is a PhD candidate in Social History at the Faculty of Arts, Charles University,and a researcher at the Institute for Contemporary History of the Czech Academyof Sciences. Her work focuses on wartime and post-war history in relation toRoma and Sinti communities, with particular attention to issues ofcompensation, memory politics, and representation.
-
-Admission is 60 CZK.
-
-Tickets can be acquired [here](https://online.colosseum.eu/zidovske_muzeum/standard/Hall/Index/3946754/vfIZqrdTSgJO_sla_IV3Q8AEQg_rov__rov__xcodex_AGA1gFbU4wjn-zrkc0YBmu1kOt9bXYA0wURGNQ__?).
+More information: [HERE](https://www.ehri-project.eu/ehris-national-coordinators-gather-at-the-parkes-institute-in-southampton/)
