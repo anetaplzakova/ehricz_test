@@ -14,3 +14,5 @@ Každá členská země EHRI-ERIC má svůj národní uzel – konsorcium výzku
 Na programu setkání byla diskuse o budoucí finanční podpoře, o redesignu vizuální identity EHRI-ERIC, o pokynech pro zapojení do projektů, dále plán aktivit na rok 2026 a také návrh na vytvoření nových pracovních skupin.
 
 Podrobné informace: [ZDE](https://www.ehri-project.eu/ehris-national-coordinators-gather-at-the-parkes-institute-in-southampton/)
+
+<img src="../../../images/Group 4.jpg"/>

@@ -16,3 +16,5 @@ These National Nodes are anchored in EHRI-ERIC’s governance through their repr
 On the agenda this time were future funding, the rebranding of the EHRI-ERIC design, guidelines for engaging in projects, 2026 activity plans and the foundation of new working groups.
 
 More information: [HERE](https://www.ehri-project.eu/ehris-national-coordinators-gather-at-the-parkes-institute-in-southampton/)
+
+<img src="../../../images/Group 4.jpg"/>
