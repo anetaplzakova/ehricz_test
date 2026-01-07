@@ -1,20 +1,37 @@
-ÄŒJ
+ÈJ
 
-**EHRI-Document Blog | â€Boyhood Drawings Made in Deportationâ€œ**
+**Pøednáška Alexandry Szczepan| Kartografie pamìti: Mapy jako svìdectví o holokaustu**
 
-Na DokumentovÃ©m blogu EHRI vyÅ¡el novÃ½ ÄlÃ¡nek s nÃ¡zvem: *â€œBoyhood Drawings Made in Deportationâ€: A Discovery of Long-Lost Works Raises Questions About Identity and the Narration of the Self,* jehoÅ¾ autorkou je Olga Stefan.
+srdeènì vás zveme na pøednášku literární vìdkynì **Alexandry Szczepan** _Intimate Cartographies: Maps as Holocaust Testimonies._
 
-Autorka identifikovala doprovodnÃ© anonymnÃ­ ilustrace z knihy o JÃ¤gendorfovÄ› slÃ©vÃ¡rnÄ›. Autorem byl tehdy 14ti letÃ½ chlapec, kterÃ½ se v dospÄ›losti stal slavnÃ½m izraelsko-francouzskÃ½m malÃ­Å™em a kreslÃ­Å™em pod jmÃ©nem Avigdor Arikha.
+**Datum: 15. ledna 2026, 18h**
 
-[https://blog.ehri-project.eu/2025/12/17/boyhood-drawings-made-in-deportation/](https://blog.ehri-project.eu/2025/12/17/boyhood-drawings-made-in-deportation/)
+**Místo konání: Maiselova synagoga, Maiselova 10, Praha 1** 
 
-AJ
+A. Szczepan pøedstaví, jak pøeivší holokaustu vytváøeli a pouívali mapy jako prostøedek k zachycení svıch váleènıch zkušeností i pováleènıch vzpomínek. Zamìøí se zejména na ruènì kreslené plány ghett a koncentraèních táborù. Nìkteré z nich slouily jako dùkazní materiál pøi procesech s váleènımi zloèinci i jako zpùsob vyprávìní pro vyznaèení únikovıch tras, míst, kde èekala pomoc i nebezpeèí, pro pøipomínku zmizelıch krajin vıchodní Evropy a pro uchování osobní pamìti.
 
-**EHRI-Document Blog | â€œBoyhood Drawings Made in Deportationâ€**
+Prezentace je souèástí pøednáškového cyklu _Smìry souèasného vızkumu holokaustu_, kterı poøádá **EHRI-CZ** ve spolupráci s **idovskım muzeem v Praze**.
 
-New EHRI Document Blog has been published. The post *â€œBoyhood Drawings Made in Deportationâ€: A Discovery of Long-Lost Works Raises Questions About Identity and the Narration of the Self* was written by Olga Stefan.
+Akce bude simultánnì tlumoèena z angliètiny do èeštiny. 
 
-The post traces the identification of the anonymous drawings reproduced in JÃ¤gendorfâ€™s Foundry.
+Vstupenku moné zakoupit [ZDE](https://online.colosseum.eu/zidovske_muzeum/standard/Hall/Index/4017205/zSKM2fS79VFy2e6fF623VQ_rov__rov__xcodex_AGA1gFbU4wgbrxE7gfIgJ72EQzhlVPjOgL37mQ__? "https://online.colosseum.eu/zidovske_muzeum/standard/Hall/Index/4017205/zSKM2fS79VFy2e6fF623VQ_rov__rov__xcodex_AGA1gFbU4wgbrxE7gfIgJ72EQzhlVPjOgL37mQ__?").
 
- [https://blog.ehri-project.eu/2025/12/17/boyhood-drawings-made-in-deportation/](https://blog.ehri-project.eu/2025/12/17/boyhood-drawings-made-in-deportation/)
+Fotka zachycuje pøedváleènı Lvov, kde polskı svìdek ukazuje místa násilí na místních idech. Vyfotila: Aleksandra Szczepan
 
+ **AJ**
+
+**Lecture by Alexandra Sczepan| Intimate Cartographies: Maps as Holocaust Testimonies**
+
+We would like to invite you to the lecture by literary scholar **Alexandra Szczepan:** _Intimate Cartographies: Maps as Holocaust Testimonies_.
+
+**Date: 15 January 2026, 6pm**
+
+**Place: Maisel Synagogue, Maiselova 10, Prague 1** 
+
+A. Szczepan will show how Holocaust witnesses created and used maps as a means to capture their war experiences and post-war memories. The talk will take a closer look at how Holocaust survivors have created and used maps to give testimony about their experiences both during and after the war. It follows the attempts to document the topography of ghettos and camps by their inmates through handmade plans and models. It asks how maps were used not only as evidence during war crimes trials but also as hiding places, escape routes, points of betrayal or help; to mourn the loss of relatives and to preserve their own memory.
+
+The presentation is part of the lecture series _Current Approaches to Holocaust Research_ coorganized by **EHRI-CZ** and the **Jewish Museum Prague**.
+
+Caption for the photo: Prewar plan of Lviv, where a Polish witness shows the sites where he witnessed violence against local Jews. Taken by Aleksandra Szczepan.
+
+Tickets are available [HERE](https://online.colosseum.eu/zidovske_muzeum/standard/Hall/Index/4017205/zSKM2fS79VFy2e6fF623VQ_rov__rov__xcodex_AGA1gFbU4wgbrxE7gfIgJ72EQzhlVPjOgL37mQ__? "https://online.colosseum.eu/zidovske_muzeum/standard/Hall/Index/4017205/zSKM2fS79VFy2e6fF623VQ_rov__rov__xcodex_AGA1gFbU4wgbrxE7gfIgJ72EQzhlVPjOgL37mQ__?").
