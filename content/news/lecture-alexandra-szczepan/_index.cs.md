@@ -6,7 +6,7 @@ Srdečně vás zveme na přednášku literární vědkyně **Alexandry Szczepan*
 
 **Datum: 15. ledna 2026, 18h**
 
-**Místo konání: Maiselova synagoga, Maiselova 10, Praha 1**
+**Místo konání: Auditorium OVK – 3. patro, Maiselova 15, Praha 1**
 
 A. Szczepan představí, jak přeživší holokaustu vytvářeli a používali mapy jako prostředek k zachycení svých válečných zkušeností i poválečných vzpomínek. Zaměří se zejména na ručně kreslené plány ghett a koncentračních táborů. Některé z nich sloužily jako důkazní materiál při procesech s válečnými zločinci i jako způsob vyprávění pro vyznačení únikových tras, míst, kde čekala pomoc i nebezpečí, pro připomínku zmizelých krajin východní Evropy a pro uchování osobní paměti.
 
