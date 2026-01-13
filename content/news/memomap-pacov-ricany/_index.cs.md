@@ -9,3 +9,5 @@ U příležitosti Mezinárodního dne památky obětí holokaustu představuje �
 **MemoMap Říčany** představuje adresy a osudy židovských obyvatel města, místa spojená s jejich životy a příběh Říčanské tóry. Nově vytvořená datová vrstva s názvem _Připomínkové akce_ rovněž přináší informace o současných paměťových a pietních aktivitách. Mapa vznikla za účasti žáků místních základních škol, Městského úřadu Říčany a Říčanského muzea. Aplikace je dostupná prostřednictvím odkazu [MemoMap Říčany](https://memomap.cz/ricany).
 
 Obě aplikace jsou plně optimalizovány pro mobilní zařízení a lze je využívat přímo v terénu při objevování míst spojených s židovskou historií.
+
+<img src="../../../images/ricany-pacov.jpg"/>

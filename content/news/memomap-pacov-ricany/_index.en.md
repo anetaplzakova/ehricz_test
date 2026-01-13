@@ -9,3 +9,5 @@ On the occasion of the International Holocaust Remembrance Day, the Czech node o
 **MemoMap Říčany** presents the addresses and fates of the town’s Jewish inhabitants, places associated with their lives, and _The Story of the Říčany Torah_. A newly created data layer entitled _Remamberance events_ also provides information on contemporary memorial and remembrance activities. The map was created with the participation of pupils from local primary schools, the Town Hall of Říčany, and the Říčany Museum. The application is available via the [MemoMap Říčany](https://memomap.cz/ricany "https://memomap.cz/ricany") link.
 
 Both applications are fully optimised for mobile devices and can be used directly on site when exploring locations connected with Jewish history.
+
+<img src="../../../images/ricany-pacov.jpg"/>
