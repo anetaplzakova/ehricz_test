@@ -1,37 +1,23 @@
-ÈJ
+ï»¿AJ
 
-**Pøednáška Alexandry Szczepan| Kartografie pamìti: Mapy jako svìdectví o holokaustu**
+**SpuÅ¡tÄ›nÃ­ webovÃ½ch aplikacÃ­ MemoMap Pacov a MemoMap Å˜Ã­Äany**
 
-srdeènì vás zveme na pøednášku literární vìdkynì **Alexandry Szczepan** _Intimate Cartographies: Maps as Holocaust Testimonies._
+U pÅ™Ã­leÅ¾itosti MezinÃ¡rodnÃ­ho dne pamÃ¡tky obÄ›tÃ­ holokaustu pÅ™edstavuje ÄeskÃ½ uzel EvropskÃ© infrastruktury pro vÃ½zkum holokaustu (EHRI-CZ), na zÃ¡kladÄ› projektu MemoMap Praha, dvÄ› novÃ© interaktivnÃ­ mapy mapujÃ­cÃ­ osudy Å¾idovskÃ©ho obyvatelstva v obdobÃ­ ProtektorÃ¡tu ÄŒechy a Morava i po nÄ›m. Mapy nabÃ­zejÃ­ prostorovÃ½ pohled na procesy vyluÄovÃ¡nÃ­ Å½idÅ¯, omezovÃ¡nÃ­ jejich kaÅ¾dodennÃ­ch kontaktÅ¯ s okolnÃ­ spoleÄnostÃ­ i na souÄasnÃ¡ mÃ­sta pÅ™ipomÃ­nÃ¡nÃ­. UÅ¾ivatele mohou zkoumat rozsÃ¡hlÃ© datovÃ© soubory, vÄetnÄ› digitalizovanÃ½ch archivnÃ­ch dokumentÅ¯, fotografiÃ­, osobnÃ­ch pÅ™Ã­bÄ›hÅ¯, pietnÃ­ch a vzpomÃ­nkovÃ½ch akcÃ­ a konkrÃ©tnÃ­ch lokalit. VÃ½voj aplikacÃ­ byl podpoÅ™en takÃ© NadaÄnÃ­m fondem obÄ›tem holokaustu (NFOH).
 
-**Datum: 15. ledna 2026, 18h**
+**MemoMap Pacov** dokumentuje mÃ­sta spojenÃ¡ s Å¾idovskou historiÃ­ mÄ›sta v obdobÃ­ ProtektorÃ¡tu ÄŒechy a Morava. Novinkou jsou tzv. _PÅ™Ã­bÄ›hovÃ© mapy_, kterÃ© uÅ¾ivatelÅ¯m umoÅ¾ÅˆujÃ­ podrobnÄ›ji sledovat jednotlivÃ© Å¾ivotnÃ­ pÅ™Ã­bÄ›hy a jejich trajektorie. Projekt vznikl ve spoluprÃ¡ci se spolkem [Tikkun Pacov](https://tikkun.cz/cs/o-nas/). Aplikace je dostupnÃ¡ prostÅ™ednictvÃ­m odkazu [MemoMap Pacov](https://memomap.cz/pacov).
 
-**Místo konání: Maiselova synagoga, Maiselova 10, Praha 1** 
+**MemoMap Å˜Ã­Äany** pÅ™edstavuje adresy a osudy Å¾idovskÃ½ch obyvatel mÄ›sta, mÃ­sta spojenÃ¡ s jejich Å¾ivoty a pÅ™Ã­bÄ›h Å˜Ã­ÄanskÃ© tÃ³ry. NovÄ› vytvoÅ™enÃ¡ datovÃ¡ vrstva s nÃ¡zvem _PÅ™ipomÃ­nkovÃ© _akce__ rovnÄ›Å¾ pÅ™inÃ¡Å¡Ã­ informace o souÄasnÃ½ch pamÄ›Å¥ovÃ½ch a pietnÃ­ch aktivitÃ¡ch. Mapa vznikla za ÃºÄasti Å¾Ã¡kÅ¯ mÃ­stnÃ­ch zÃ¡kladnÃ­ch Å¡kol, MÄ›stskÃ©ho ÃºÅ™adu Å˜Ã­Äany a Å˜Ã­ÄanskÃ©ho muzea. Aplikace je dostupnÃ¡ prostÅ™ednictvÃ­m odkazu [MemoMap Å˜Ã­Äany](https://memomap.cz/ricany).
 
-A. Szczepan pøedstaví, jak pøeivší holokaustu vytváøeli a pouívali mapy jako prostøedek k zachycení svıch váleènıch zkušeností i pováleènıch vzpomínek. Zamìøí se zejména na ruènì kreslené plány ghett a koncentraèních táborù. Nìkteré z nich slouily jako dùkazní materiál pøi procesech s váleènımi zloèinci i jako zpùsob vyprávìní pro vyznaèení únikovıch tras, míst, kde èekala pomoc i nebezpeèí, pro pøipomínku zmizelıch krajin vıchodní Evropy a pro uchování osobní pamìti.
+ObÄ› aplikace jsou plnÄ› optimalizovÃ¡ny pro mobilnÃ­ zaÅ™Ã­zenÃ­ a lze je vyuÅ¾Ã­vat pÅ™Ã­mo v terÃ©nu pÅ™i objevovÃ¡nÃ­ mÃ­st spojenÃ½ch s Å¾idovskou historiÃ­.
 
-Prezentace je souèástí pøednáškového cyklu _Smìry souèasného vızkumu holokaustu_, kterı poøádá **EHRI-CZ** ve spolupráci s **idovskım muzeem v Praze**.
+ÄŒJ
 
-Akce bude simultánnì tlumoèena z angliètiny do èeštiny. 
+**Launch of the web applications MemoMap Pacov and MemoMap Å˜Ã­Äany**
 
-Vstupenku moné zakoupit [ZDE](https://online.colosseum.eu/zidovske_muzeum/standard/Hall/Index/4017205/zSKM2fS79VFy2e6fF623VQ_rov__rov__xcodex_AGA1gFbU4wgbrxE7gfIgJ72EQzhlVPjOgL37mQ__? "https://online.colosseum.eu/zidovske_muzeum/standard/Hall/Index/4017205/zSKM2fS79VFy2e6fF623VQ_rov__rov__xcodex_AGA1gFbU4wgbrxE7gfIgJ72EQzhlVPjOgL37mQ__?").
+On the occasion of the International Holocaust Remembrance Day, the Czech node of the European Holocaust Research Infrastructure (EHRI-CZ), building on the MemoMap Prague project, presents two new interactive maps exploring the fates of the Jewish population during the period of the Protectorate of Bohemia and Moravia and beyond. The maps offer a spatial perspective on the processes of exclusion of Jews, the restriction of their everyday contacts with the surrounding society, as well as on contemporary sites of remembrance. Users can explore extensive datasets, including digitised archival documents, photographs, personal stories, commemorative and remembrance events, and specific locations. The development of the applications was also supported by the Foundation for Holocaust Victims (NFOH).
 
-Fotka zachycuje pøedváleènı Lvov, kde polskı svìdek ukazuje místa násilí na místních idech. Vyfotila: Aleksandra Szczepan
+**MemoMap Pacov**Â documents places connected with the Jewish history of the town during the period of the Protectorate Bohemia and Moravia. A new feature is the so-calledÂ _Story maps_, which allow users to follow individual life stories and trajectories in greater detail. The project was developed in cooperation with theÂ [Tikkun Pacov](https://tikkun.cz/?lang=en "https://tikkun.cz/?lang=en")Â association. The application is available via theÂ [MemoMap Pacov](https://memomap.cz/pacov "https://memomap.cz/pacov")Â link.
 
- **AJ**
+**MemoMap Å˜Ã­Äany**Â presents the addresses and fates of the townâ€™s Jewish inhabitants, places associated with their lives, andÂ _The Story of the Å˜Ã­Äany Torah_. A newly created data layer entitledÂ _Remamberance events_Â also provides information on contemporary memorial and remembrance activities. The map was created with the participation of pupils from local primary schools, the Town Hall of Å˜Ã­Äany, and the Å˜Ã­Äany Museum. The application is available via theÂ [MemoMap Å˜Ã­Äany](https://memomap.cz/ricany "https://memomap.cz/ricany")Â link.
 
-**Lecture by Alexandra Sczepan| Intimate Cartographies: Maps as Holocaust Testimonies**
-
-We would like to invite you to the lecture by literary scholar **Alexandra Szczepan:** _Intimate Cartographies: Maps as Holocaust Testimonies_.
-
-**Date: 15 January 2026, 6pm**
-
-**Place: Maisel Synagogue, Maiselova 10, Prague 1** 
-
-A. Szczepan will show how Holocaust witnesses created and used maps as a means to capture their war experiences and post-war memories. The talk will take a closer look at how Holocaust survivors have created and used maps to give testimony about their experiences both during and after the war. It follows the attempts to document the topography of ghettos and camps by their inmates through handmade plans and models. It asks how maps were used not only as evidence during war crimes trials but also as hiding places, escape routes, points of betrayal or help; to mourn the loss of relatives and to preserve their own memory.
-
-The presentation is part of the lecture series _Current Approaches to Holocaust Research_ coorganized by **EHRI-CZ** and the **Jewish Museum Prague**.
-
-Caption for the photo: Prewar plan of Lviv, where a Polish witness shows the sites where he witnessed violence against local Jews. Taken by Aleksandra Szczepan.
-
-Tickets are available [HERE](https://online.colosseum.eu/zidovske_muzeum/standard/Hall/Index/4017205/zSKM2fS79VFy2e6fF623VQ_rov__rov__xcodex_AGA1gFbU4wgbrxE7gfIgJ72EQzhlVPjOgL37mQ__? "https://online.colosseum.eu/zidovske_muzeum/standard/Hall/Index/4017205/zSKM2fS79VFy2e6fF623VQ_rov__rov__xcodex_AGA1gFbU4wgbrxE7gfIgJ72EQzhlVPjOgL37mQ__?").
+Both applications are fully optimised for mobile devices and can be used directly on site when exploring locations connected with Jewish history.
