@@ -1,0 +1,5 @@
+---
+title: "Ivana Cahová"
+image: "/images/people/ivana-cahova.jpg"
+---
+**Ivana Cahová** je germanistka, bohemistka a judaistka, od roku 2010 působí jako vedoucí Centra židovských studií Kurta a Ursuly Schubertových na Filozofické fakultě Univerzity Palackého v Olomouci. Zabývá se dějinami Židů na Moravě, česky a německy psanou židovskou literaturou, německou literaturou a kulturou v Izraeli a šoa. Je mj. spoluautorkou odborné tištěné mapy _Vývoj židovského osídlení Olomouce: geografická a socioekonomická struktura židovského obyvatelstva v období 1180-2021_ (Olomouc: VUP 2022); autorkou monografie _Dramatik Max Zweig – prorok nového humanismu_ (Olomouc: VUP 2021) a spolueditorkou knihy _Tobě zahynouti nedám. Česká časopisecká šoa povídka 1945-1989_ (Praha: Akropolis 2017). Věnuje se také komunikaci mezi akademickým výzkumem a veřejností, včetně osmnácti ročníků multižánrového festivalu _Dny židovské kultury Olomouc_, a implementaci pokročilých technologií do výzkumu v rámci humanitních věd.

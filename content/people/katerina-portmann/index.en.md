@@ -1,0 +1,5 @@
+---
+title: "Kateřina Portmann"
+image: "/images/people/katerina-portmann.jpg"
+---
+**Kateřina Portmann** is a contemporary historian who works at the Department of History at the Technical University of Liberec. She has long been involved in researching the impact of wars and undemocratic systems (primarily) on civil society and their reflection and establishment of official narratives, "collective memory" in the past and present. In the context of Shoah research, the project "Return Home: In the Footsteps of Liberec Holocaust Victims" attracted significant attention, for which she received the 2025 Minister of Education, Youth, and Sports Award for outstanding educational activities at a university. In addition to research, the project's ambition was to apply it to teaching at various levels of education and in the public sphere. The collective monograph of the same name was shortlisted for the Magnesia Litera award for publishing, became the Book of the Liberec Region of 2025 (in the category of specialist and popular educational literature), and won the 2024 "Achievement in the City" award (both the book and the entire project).

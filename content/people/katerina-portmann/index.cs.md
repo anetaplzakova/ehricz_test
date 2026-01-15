@@ -1,0 +1,5 @@
+---
+title: "Kateřina Portmann"
+image: "/images/people/katerina-portmann.jpg"
+---
+**Kateřina Portmann** je historičkou soudobých dějin, která působí na liberecké katedře historie FP TUL. Dlouhodobě se věnuje výzkumu dopadů válek, nedemokratických systémů (především) na civilní společnost a jejich reflexi a etablování oficiálních narativů, „kolektivní paměti“ v minulosti i současnosti. V kontextu výzkumu šoa výraznou pozornost získal projekt „Návrat domů“ Po stopách libereckých obětí holocaustu, za nějž získala v roce 2025 cenu Ministra školství, mládeže a tělovýchovy za vynikající vzdělávací činnost na vysoké škole. Ambicí projektu byla vedle výzkumu i jeho aplikace do výuky škol nejrůznějších stupňů a veřejného prostoru. Stejnojmenná kolektivní monografie se dostala do užší nominace na Magnesiu Litera za nakladatelský počin, stala se knihou Libereckého kraje roku 2025 (kategorie Odborná a populárně naučná literatura) a získala cenu (kniha i celý projekt) „Počin na území města“ roku 2024.
