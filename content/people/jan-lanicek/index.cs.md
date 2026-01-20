@@ -1,0 +1,6 @@
+---
+title: "Jan Láníček"
+image: "/images/people/jan-lanicek.jpg"
+---
+
+**Jan Láníček** je docent moderních evropských a židovských dějin na Univerzitě Nového Jižního Walesu v Sydney. V roce 2011 získal doktorát na Univerzitě v Southamptonu. Vydal tři monografie, včetně: _Czechs, Slovaks and the Jews 1938-48: Beyond Idealisation and Condemnation_ (Palgrave, 2013; česky _Ve stínu šoa: Československá exilová vláda a Židé během druhé světové války a po ní_ (Academia, 2018)) a _The Jew in Czech and Slovak Imagination, 1938-89: Antisemitism, the Holocaust, and Zionism_ (spolu s Hanou Kubátovou). Je spolueditorem šesti knih, s Jan Lambertz, _More than Parcels: Wartime Aid for Jews in Nazi-Era Camps and Ghettos_ (2022), s Laurien Vastenhout _Jewish Councils in Nazi Europe, 1938–1945: A Pan European Perspective_ (2025) a s Avril Alba _The Palgrave Handbook of Australia and the Holocaust_ (Palgrave, 2026). V současné době pracuje na dvou projektech: jeden se zaměřuje na rodinné dějiny během holokaustu a druhý projekt analyzuje poválečné soudní procesy v Československu ve vztahu k holokaustu.

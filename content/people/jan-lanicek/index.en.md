@@ -1,0 +1,6 @@
+---
+title: "Jan Láníček"
+image: "/images/people/jan-lanicek.jpg"
+---
+
+**Jan Láníček** is Associate Professor in Modern European and Jewish History at the University of New South Wales, Sydney. He received a PhD from the University of Southampton in 2011. He has published three monographs, including: _Czechs, Slovaks and the Jews 1938-48: Beyond Idealisation and Condemnation_ (Palgrave, 2013) and _The Jew in Czech and Slovak Imagination, 1938-89: Antisemitism, the Holocaust, and Zionism_ (together with Hana Kubátová. He has co-edited six books. Most recently, he was co-editor, with Jan Lambertz, of More than Parcels: Wartime Aid for Jews in Nazi-Era Camps and Ghettos (2022), with Laurien Vastenhout of Jewish Councils in Nazi Europe, 1938–1945: A Pan European Perspective (2025), and with Avril Alba, _The Palgrave Handbook of Australia and the Holocaust_ (Palgrave, 2026). He is currently working on two projects: one focuses on family histories during the Holocaust and the second project analyses post-Holocaust trials in Czechoslovakia.
