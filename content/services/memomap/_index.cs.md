@@ -6,14 +6,16 @@ date: 2024-09-09
 ---
 
 {{< intro >}}
-Projekt MemoMap umožňuje studovat historii holokaustu skrze prostor města a míst pronásledování. Název je odvozen z anglického memory map, tedy paměťová mapa, která propojuje informace o lidech, tedy historických aktérech, a místech, v nichž se pronásledování odehrávalo. Řadí se k dalším projektům, jež vkládají informace o historii holokaustu do mapy. MemoMapy usilují o využití velmi rozsáhlých souborů dat, mezi něž patří databáze obětí, digitalizovaných dokumentů z veřejných i soukromých archivů, historických map a dalších kontextuálních informací. V současnosti nabízíme MemoMapu pro město Praha a připravujeme k publikaci obdobnou aplikaci pro město Pacov. Doufáme, že v dalších letech přidáme další místa a nové funkce. 
+Projekt MemoMap umožňuje studovat historii holokaustu skrze prostor města a míst pronásledování. Název je odvozen z anglického memory map, tedy paměťová mapa, která propojuje informace o lidech, tedy historických aktérech, a místech, v nichž se pronásledování odehrávalo. Řadí se k dalším projektům, jež vkládají informace o historii holokaustu do mapy. 
+MemoMapy usilují o využití velmi rozsáhlých souborů dat, mezi něž patří databáze obětí, digitalizovaných dokumentů z veřejných i soukromých archivů, historických map a dalších kontextuálních informací. 
+V současnosti nabízíme MemoMapu pro města Praha, Pacov a Říčany. Doufáme, že v dalších letech přidáme další místa a nové funkce. 
 {{< /intro >}}
 
 <br/>
 
 {{< figure src="/images/memomap.png" class="fig-float fig-right" >}}
 
-[Vstup do aplikace zde.](http://www.memomap.cz)
+[Vstup do aplikace zde.](https://memomap.cz)
 
 [Více o MemoMap Praha naleznete zde.](/services/memomap/prague/)
 
@@ -45,7 +47,7 @@ Implementace uživatelského rozhraní MemoMapy vychází ze zkušenosti získan
 
 Nová memomapa je od začátku přizpůsobena pro mobilní zobrazení. Její kód je založený na na opensource knihovnách a nástrojích (ASP.NET Core, Blazor WASM). Uživatelé mohou tuto responzivní webovou aplikaci spustit ve webových prohlížečích na počítači a na operačních systémech Android a iOS. Vzhledem k velkému počtu záznamů a dokumentů a jejich průběžné aktualizaci vyžaduje aplikace stálé připojení k internetu.  
 
-Projekt podporuje co největší otevřenost a duplikovatelnost. Kód aplikace je volně přístupný prostřednictvím sotwarové repozitoře Github a je možné jej dále rozvíjet v rámci dalších projektů. 
+Projekt podporuje co největší otevřenost a duplikovatelnost. Kód aplikace je volně přístupný prostřednictvím sotwarové repozitoře GitHub a je možné jej dále rozvíjet v rámci dalších projektů. 
 
 S výjimkou informací podléhajících ochraně osobních dat jsou data použítá v MemoMapách přístupná také prostřednictvím EHRI Repozitoře geoprostorových dat (EHRI Geospatial Repository). Je možné s nimi proto pracovat v libovolném GIS software a jiným způsobem.
 

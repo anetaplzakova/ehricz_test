@@ -8,14 +8,14 @@ date: 2024-09-09
 {{< intro >}}
 The MemoMap project allows you to study the history of the Holocaust through urban spaces and sites of persecution. The name is based on the term memory map, i.e. a map that connects myriad information about people in history and the places where persecutions took place.
 It’s one of several projects that load information about the Holocaust into a map. MemoMaps strive to use extremely vast datasets, including databases of victims, digitized documents from public and private archives, historic maps, and different contextual information. 
-Our MemoMap of Prague is currently available and we’re working on a similar application for the town of Pacov. We hope to add other locations and additional functions in the coming years.
+Currently, we offer MemoMaps for the cities of Prague, Pacov, and Říčany. We hope to add other locations and additional functions in the coming years.
 {{< /intro >}}
 
 <br/>
 
 {{< figure src="/images/memomap.png" class="fig-float fig-right" >}}
 
-[Start using the application.](http://www.memomap.cz)
+[Start using the application.](https://memomap.cz)
 
 [More about MemoMap Prague](/services/memomap/prague/)
 

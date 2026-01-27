@@ -9,7 +9,7 @@
   icon: article
   image: memomap.png
   content: |
-    Historický geografický informační systém promítá na mapu Prahy data o obětech holokaustu a interakci s obyvateli města ve zužujícím se veřejném prostoru. [Více o projektu](https://www.ehri.cz/services/memomap/)
+    Praha, Pacov, Říčany: historické mapy, příběhy obětí holokaustu. 
 
 - id: holocaustcz
   title: Portál holocaust.cz
@@ -17,7 +17,7 @@
   icon: meeting_room
   image: holocaustcz2.PNG
   content: |
-    Portál zpřístupňuje informace o historii genocidy Židů a Romů a databáze obětí holokaustu na území České republiky a digitalizovaných dokumentů.
+    Historie genocidy Židů a Romů, databáze obětí holokaustu na území ČR.
     
 - id: terezin_research_guide
   title: Terezín Research Guide
@@ -25,4 +25,4 @@
   icon: meeting_room
   image: terezin.png
   content: |
-    Komplexní, inovativní a snadno použitelný průvodce rozptýleným a fragmentárním archivním materiálem k historii ghetta Terezín.
+    Průvodce archivním materiálem k historii ghetta Terezín.

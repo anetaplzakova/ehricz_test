@@ -3,13 +3,13 @@
   title: MemoMap
   links:
     - title: Go to MemoMap
-      url: http://www.memomap.cz/
+      url: http://memomap.cz/
     - title: More about MemoMap
       url: /en/services/memomap/
   icon: meeting_room
   image: memomap.png
   content: |
-    The Historical Geographical Information System projects data about the Holocaust victims and their interaction with public space onto a map of Prague.
+    Prague, Pacov, Říčany: historical maps, stories of Holocaust victims. 
     
 - id: holocaustcz
   title: Holocaust.cz Portal
@@ -17,7 +17,7 @@
   icon: meeting_room
   image: holocaustcz2.PNG
   content: |
-    The portal makes contains information about the history of the genocide of Jews and Roma, and makes accessible a database of Holocaust victims and digitized documents.
+    The history of the genocide of Jews and Roma, a database of Holocaust victims.
     
 - id: portal
   title: EHRI Portal
@@ -25,7 +25,7 @@
   icon: meeting_room
   image: ehriportal.png
   content: |
-     The EHRI portal provides access to information on Holocaust-related material in archives in Europe and globally.
+     Information on Holocaust-related material in archives in Europe and globally.
 
 - id: blog
   title: Document Blog
@@ -33,7 +33,7 @@
   icon: article
   image: names-2.png
   content: |
-    The EHRI Document Blog is a space for sharing new perspectives on Holocaust-related documents, their presentation and interpretation.
+    A space for sharing new perspectives on Holocaust-related documents.
 
 - id: geodata
   title: Geospatial Repository
@@ -41,7 +41,7 @@
   icon: article
   image: geodatarep.png
   content: |
-    EHRI Geospatial Repository provides access to datasets that make it possible to create maps on the subject of the Holocaust and analyse it through spatial approaches.
+    Datasets that make it possible to create maps on the subject of the Holocaust.
 
 - id: terezin_research_guide
   title: Terezín Research Guide
@@ -49,7 +49,7 @@
   icon: meeting_room
   image: terezin.png
   content: |
-    A comprehensive, innovative and easy-to-use guide to the scattered and fragmentary archival material on the history of the Terezín ghetto.
+    A guide to the history of the Terezín ghetto.
 
 - id: editions
   title: EHRI Online Editions
@@ -57,7 +57,7 @@
   icon: lab_profile
   image: campaign.png
   content: |
-    Annotated digitized documents from various sources represent a new way of presenting digital archival content.
+    Annotated digitized documents - a new way of presenting digital archival content.
 
 - id: training
   title: Conny Kristel Fellowships
@@ -65,4 +65,4 @@
   icon: meeting_room
   image: EHRI_fellowships.jpg
   content: |
-    EHRI Conny Kristel Fellowships support and stimulate research conducted by researchers, archivists, librarians, curators, and junior scholars, especially PhD students with limited resources. 
+    Support for research for archivists, librarians, curators, and early-career academics.

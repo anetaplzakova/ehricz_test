@@ -9,7 +9,7 @@
   icon: article
   image: memomap.png
   content: |
-    The Historical Geographical Information System projects data about the Holocaust victims and their interaction with public space onto a map of Prague.
+    Prague, Pacov, Říčany: historical maps, stories of Holocaust victims. 
 
 - id: holocaustcz
   title: Holocaust.cz Portal
@@ -17,11 +17,11 @@
   icon: meeting_room
   image: holocaustcz2.PNG
   content: |
-    The portal makes contains information about the history of the genocide of Jews and Roma, and makes accessible a database of Holocaust victims and digitized documents.
+    The history of the genocide of Jews and Roma, a database of Holocaust victims.
     
 - title: Terezín Research Guide
   url: https://portal.ehri-project.eu/guides/terezin
   icon: meeting_room
   image: terezin.png
   content: |
-    A comprehensive, innovative and easy-to-use guide to the scattered and fragmentary archival material on the history of the Terezín ghetto.
+    A guide to the history of the Terezín ghetto.
