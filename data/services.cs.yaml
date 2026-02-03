@@ -3,7 +3,7 @@
   title: MemoMap
   links:
     - title: Přejít do aplikace MemoMap 
-      url: http://memomap.cz/
+      url: https://memomap.cz/
     - title: Více o aplikaci
       url: /services/memomap/
   icon: meeting_room
@@ -19,6 +19,18 @@
   content: |
     Historie genocidy Židů a Romů, databáze obětí holokaustu na území ČR.
     
+- id: pt_database
+  title: Databáze Památníku Terezín
+  links:
+    - title: Přejít na databázi osob
+      url: https://www.pamatnik-terezin.cz/databaze
+    - title: Přejít na sbírky
+      url: https://www.pamatnik-terezin.cz/sbirka
+  icon: meeting_room
+  image: pt-sbirky.jpg
+  content: |
+    Informace o židovských vězních z českých zemí a vězních ghetta Terezín.  
+
 - id: portal
   title: Portál EHRI
   url: https://portal.ehri-project.eu/
