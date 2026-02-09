@@ -14,9 +14,9 @@
         <div property="description">{{ .content | page.RenderString (dict "display" "block")  }}</div>
         {{ if .people }}
         <div class="partner-people">
-	    <div>{{ i18n "people_in_institution" }}:</div>
+            <span class="material-symbols-outlined">account_circle</span>
             {{ range $index, $person := .people -}}
-                <a href="{{ $person.url | relURL }}">{{ $person.name }}</a>{{- if ne $index (sub (len $.people) 1) }}, {{ end }}
+                <a href="{{ $person.url | relURL }}">{{ $person.name }}</a>{{- if ne $index (sub (len $.people) 1) }} <span>–</span> {{ end }}
             {{- end }}
         </div>
         {{ end }}

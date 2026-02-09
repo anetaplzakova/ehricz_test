@@ -12,6 +12,12 @@ terezin_research_guide:
 
 geodata:
   other: Geospatial Repository
+
+view:
+  other: View
+
+go_to:
+  other: Go to {{ .Name }}
   
 footer_support:
   other: EHRI-CZ is part of the LINDAT/CLARIAH-CZ infrastructure, which is fully supported by the Ministry of Education, Youth and Sports of the Czech Republic as part of the "large infrastructures" program.

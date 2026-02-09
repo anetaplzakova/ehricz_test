@@ -1,0 +1,98 @@
+@import "../variables";
+@import "../mixins";
+
+// Grid of resources...
+.resource-cards {
+  @include auto-grid(24rem, 4rem, $max-cols: 3);
+
+  margin: 3rem 0;
+  padding: 0;
+}
+
+// A single resource 'card'
+.resource-card {
+  @include card();
+
+  display: grid;
+  grid-template-rows: 12rem 1.25fr;
+  height: 100%;
+
+  .resource-img {
+    overflow: hidden;
+    img {
+      border-top-left-radius: var(--card-border-radius);
+      border-top-right-radius: var(--card-border-radius);
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+  }
+  .resource-info {
+    padding: $space-lg;
+    display: grid;
+    align-content: start;
+    grid-template-columns: auto min-content;
+    .resource-card-header {
+      font-size: var(--font-size-xl);
+      line-height: 2rem; // larger than spec
+      font-family: var(--font-family-headings);
+      font-weight: var(--font-weight-bolder);
+      grid-area: 1 / 1 / 2 / 2;
+    }
+    .resource-icon {
+      grid-column: 2;
+      grid-row: 1;
+      font-size: var(--font-size-title);
+      line-height: 2rem;
+      justify-self: end;
+    }
+    p {
+      grid-area: 2 / 1 / 2 / 3;
+      // FIXME: line height?
+      overflow: hidden;
+      display: -webkit-box;
+      -webkit-line-clamp: 3; /* number of lines to show */
+      line-clamp: 3;
+      -webkit-box-orient: vertical;
+    }
+
+    .links {
+      grid-area: 3 / 1 / 3 / 3;
+      margin-top: auto;
+      align-self: start;
+      justify-self: start;
+
+      display: flex;
+      flex-wrap: wrap;
+      column-gap: $space-md;
+      row-gap: $space-md;
+    }
+
+    .link-secondary {
+      display: flex;
+      align-items: center;
+      gap: $space-sm;
+      color: var(--theme-fg);
+      font-family: var(--font-family-headings);
+      font-weight: var(--font-weight-bold);
+      text-decoration: none;
+      flex-basis: 100%;
+      margin-top: $space-sm;
+
+      .material-symbols-outlined {
+        font-size: 1.5rem;
+      }
+
+      &:hover {
+        color: var(--theme-fg-accent);
+        text-decoration: none;
+      }
+    }
+  }
+
+  @media (min-width: $breakpoint-laptop) {
+    .resource-info {
+      padding: 2 * $space-lg;
+    }
+  }
+}

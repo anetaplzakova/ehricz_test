@@ -2,7 +2,7 @@
 @import "../mixins";
 
 // A grid of latest news cards cards
-.hl-latest-cards {
+.latest-cards {
   display: grid;
   @include auto-grid(21rem, 3rem, 3);
   margin: 0;
@@ -13,13 +13,13 @@
     list-style: none !important;
   }
   li.twitter {
-    row-span: 1;
+    row-span: 2;
     max-height: 300px;
   }
 }
 
 // A single latest news card
-.hl-latest-card {
+.latest-card {
   display: flex;
   flex-direction: column;
   align-items: start;
@@ -50,8 +50,7 @@
 
   .read-more {
     @include content-nav-link();
-    color: var(--wine-red);
+    color: var(--theme-fg-accent);
     white-space: nowrap;
   }
 }
-

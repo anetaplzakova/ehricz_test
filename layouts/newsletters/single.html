@@ -1,0 +1,27 @@
+{{ define "main" }}
+<section class="page-content">
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+
+    <ul class="latest-cards newsletter-cards">
+        {{ $lang := .Language.Lang }}
+        {{ $data := index site.Data (printf "newsletters.%s" $lang) }}
+        {{ range $data }}
+        <li class="latest-card newsletter-card">
+            <div class="newsletter-img">
+                <img src="{{ .image | relURL }}" alt="{{ .date }}">
+            </div>
+            <div class="newsletter-info">
+                <div class="newsletter-date">{{ .date }}</div>
+                <div class="latest-card-content">
+                    <p>{{ .description }}</p>
+                </div>
+                <div class="links">
+                    <a class="button-primary" href="{{ .url | relURL }}" target="_blank">{{ i18n "view" | default "Zobrazit" }}</a>
+                </div>
+            </div>
+        </li>
+        {{ end }}
+    </ul>
+</section>
+{{ end }}

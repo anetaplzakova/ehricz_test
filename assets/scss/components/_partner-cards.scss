@@ -32,6 +32,39 @@
   .partner-card-info {
     grid-area: info;
   }
+
+  .partner-people {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: $space-lg;
+    color: var(--theme-fg);
+    font-family: var(--font-family-headings);
+    font-weight: var(--font-weight-bolder);
+    font-size: var(--font-size-sm);
+
+    .material-symbols-outlined {
+      font-size: 1.5rem;
+      margin-right: 0.25rem;
+    }
+
+    a {
+      color: var(--theme-fg);
+      text-decoration: none;
+
+      &:hover {
+        color: var(--theme-fg-accent);
+        text-decoration: none;
+      }
+    }
+
+    .separator {
+      margin: 0 0.25rem;
+      color: var(--theme-fg);
+    }
+  }
+
   @media (min-width: $breakpoint-tablet) {
     .logo {
       max-width: 16rem;
@@ -40,8 +73,4 @@
       float: right;
     }
   }
-}
-
-.partner-people {
-  margin-bottom: 1rem;
 }

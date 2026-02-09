@@ -6,6 +6,7 @@
       url: http://memomap.cz/
     - title: More about MemoMap
       url: /en/services/memomap/
+      type: secondary
   icon: meeting_room
   image: memomap.png
   content: |

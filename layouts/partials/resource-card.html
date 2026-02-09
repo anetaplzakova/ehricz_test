@@ -1,0 +1,36 @@
+<div class="resource-card" id="resource-{{ .id }}" vocab="https://schema.org/" typeof="Service">
+    <div class="resource-img">
+        {{ $url := printf "images/%s" .image }}
+        {{ $imgpath := printf "static/%s" $url }}
+        {{ if fileExists $imgpath }}
+            <img class="person-image" src="{{ $url | relURL }}" alt="{{ .title }} image" property="image" />
+        {{ else }}
+            {{ $url := "images/cards-still-1.png" }}
+            <img class="person-image" src="{{ $url | relURL }}" alt="{{ .title }} image" property="image" />
+        {{ end }}
+    </div>
+    <div class="resource-info">
+        <header class="resource-card-header" property="name"><a href="{{ .url }}">{{ .title }}</a></header>
+        <a class="resource-icon " href="{{ .url }}" property="url"><span class="material-symbols-outlined">{{ .icon }}</span></a>
+        <div class="resource-description" property="description">
+            {{ .content | page.RenderString (dict "display" "block") }}
+        </div>
+        <footer class="links">
+            {{ if .url }}
+                <a class="button-primary" href="{{ .url }}">{{ i18n "go_to" (dict "Name" .title) }}</a>
+            {{ end }}
+            {{ if .links }}
+                {{ range .links }}
+                    {{ if eq .type "secondary" }}
+                        <a class="link-secondary" href="{{ .url }}">
+                            <span class="material-symbols-outlined">arrow_circle_right</span>
+                            {{ .title }}
+                        </a>
+                    {{ else }}
+                        <a class="button-primary" href="{{ .url }}">{{ .title }}</a>
+                    {{ end }}
+                {{ end }}
+            {{ end }}
+        </footer>
+    </div>
+</div>

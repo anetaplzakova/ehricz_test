@@ -6,6 +6,7 @@
       url: https://memomap.cz/
     - title: Více o aplikaci
       url: /services/memomap/
+      type: secondary
   icon: article
   image: memomap.png
   content: |
