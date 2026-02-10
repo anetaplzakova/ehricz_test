@@ -1,21 +1,33 @@
 @import "../variables";
 @import "../mixins";
 
-// Submenu styling
+// Submenu styling and Header Menu Overrides
 .header-menu-item {
   @media (min-width: $breakpoint-laptop) {
     position: relative;
 
+    // Transition for parent link
+    > a {
+      transition: background-color 0.15s ease-in-out, color 0.15s ease-in-out;
+
+      // GENERAL HOVER OVERRIDE (for all links including those without submenus)
+      &:hover {
+        color: var(--theme-header-fg) !important;
+        background-color: transparent !important;
+        border-color: transparent !important;
+      }
+    }
+
     &:hover .header-submenu {
-      display: block;
       opacity: 1;
       visibility: visible;
     }
 
-    // Keep parent highlighted when submenu is hovered
+    // Keep parent highlighted (dark) when submenu is hovered
     &:hover > a {
-      color: var(--theme-header-fg-accent);
-      background-color: var(--theme-header-bg-accent);
+      color: var(--theme-header-fg) !important;
+      background-color: transparent !important;
+      border-color: transparent !important;
       font-weight: var(--font-weight-bold);
     }
   }
@@ -27,9 +39,14 @@
   padding: 0;
 
   @media (min-width: $breakpoint-laptop) {
-    display: none;
+    // Initial state for transition
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.15s ease-in-out, visibility 0.15s ease-in-out;
+
+    display: block; 
     position: absolute;
-    top: 100%; // Changed from calc(100% + #{$space-md}) to avoid gap
+    top: 100%;
     left: 50%;
     transform: translateX(-50%);
     background-color: var(--theme-bg-accent);
@@ -38,7 +55,7 @@
     text-align: left;
     z-index: 100;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-    margin-top: $space-md; // Gap is now here but within the element's box model if we use a pseudo-bridge
+    margin-top: $space-md;
     border-radius: var(--input-border-radius);
 
     // Invisible bridge to keep hover state

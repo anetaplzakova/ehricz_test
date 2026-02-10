@@ -1,0 +1,18 @@
+{{ $id := .Get "id" }}
+{{ $lang := .Page.Lang }}
+{{ $people := index site.Data (printf "people.%s" $lang) }}
+
+{{ if not $people }}
+    {{ $people = index site.Data "people" $lang }}
+{{ end }}
+
+{{ if not $people }}
+    {{ $lang = printf "%s" .Page.Language }}
+    {{ $people = index site.Data (printf "people.%s" $lang) }}
+{{ end }}
+
+{{ range $people }}
+    {{ if eq .id $id }}
+        {{ partial "person-card.html" . }}
+    {{ end }}
+{{ end }}

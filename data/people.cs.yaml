@@ -1,17 +1,69 @@
 ---
 
 - id: sedlicka
-  name: Mgr. Magdalena Sedlická, Ph.D. (národní koordinátorka)
+  display_name: Mgr. Magdalena Sedlická, Ph.D. (národní koordinátorka)
   email: sedlicka@mua.cas.cz
-  image: people/Sedlicka.jpg
+  image: people/magdalena-sedlicka.jpg
+  link: /people/magdalena-sedlicka/
   about: |
-    Text
-  contact: true
 
 - id: plzakova
-  name: Mgr. Aneta Plzáková (datová kurátorka)
+  display_name: Mgr. Aneta Plzáková (datová kurátorka)
   email: plzakova@mua.cas.cz
   image: people/person-icon.png
+  link: /people/aneta-plzakova/
   about: |
-    Text
-  contact: true
+
+- id: frommer
+  name: Benjamin Frommer
+  display_name: Benjamin Frommer
+  email: ehri@mua.cas.cz
+  image: people/person-icon.png
+#  link: /people/benjamin-frommer/
+  about: |
+    **Benjamin Frommer** (Ph.D., Harvard, 1999), docent historie na Northwestern University v Evanstonu-Chicagu v USA, je autorem knihy _Národní očista: Retribuce v poválečném Československu_ (Praha: Academia, 2010), _National Cleansing: Retribution against Nazi Collaborators in Postwar Czechoslovakia_ New York: Cambridge University Press, 2005, a spolueditorem knihy _Intermarriage from Central Europe to Central Asia: Mixed Families in the Age of Extremes_ (Lincoln: University of Nebraska Press, 2020). Jeho současný projekt, _Ghetto bez zdí: Holocaust v Protektorátu Čechy a Morava_, zkoumá válečnou destrukci jedné z nejvíce integrovaných a smíšenými sňatky nejvíce provázaných židovských komunit na světě. Jeho výzkum podpořila mj. American Council of Learned Societies, the Fulbright Program, das Institut für die Wissenschaften vom Menschen, the Alice Kaplan Institute for the Humanities, a Masarykův ústav a Archiv Akademie věd ČR. Získal ocenění _Weinberg College Distinguished Teaching Award_ (2007) a byl držitelem _Wayne V. Jones Research Professorship in History_ (2010–2012) a _Charles Deering McCormick Professorship of Teaching Excellence_ (2013–2016). V letech 2013 až 2016 působil jako první ředitel Holocaust Educational Foundation of Northwestern University.
+
+- id: kubatova
+  name: Hana Kubátová
+  display_name: Hana Kubátová
+  email: ehri@mua.cas.cz
+  image: people/hana-kubatova.jpg
+#  link: /people/hana-kubatova/
+  about: |
+    **Hana Kubátová** působící jako docentka na Fakultě sociálních věd Univerzity Karlovy. Vystudovala politologii a mezinárodní vztahy, studium nacionalismu a moderní dějiny na Univerzitě Karlově a Středoevropské univerzitě v Budapešti (dnes ve Vídni). Je autorkou či spoluautorkou tří monografií a řady studií publikovaných v časopisech jako _Nations and Nationalism_, _Contemporary European History_ či _Holocaust Studies: Journal of Culture and History_. Nejnověji vydala knihu _Christian Nationalism, Nation-Building, and the Making of the Holocaust in Slovakia_ (Oxford University Press, 2025), která současně vyšla slovensky v N Press pod názvem _Kde líšky dávajú dobrú noc: kresťanský nacionalizmus a holokaust na Slovensku_.
+
+- id: cahova
+  name: Ivana Cahová
+  display_name: Ivana Cahová
+  email: ehri@mua.cas.cz
+  image: people/ivana-cahova.jpg
+#  link: /people/ivana-cahova/
+  about: |
+    **Ivana Cahová** je germanistka, bohemistka a judaistka, od roku 2010 působí jako vedoucí Centra židovských studií Kurta a Ursuly Schubertových na Filozofické fakultě Univerzity Palackého v Olomouci. Zabývá se dějinami Židů na Moravě, česky a německy psanou židovskou literaturou, německou literaturou a kulturou v Izraeli a šoa. Je mj. spoluautorkou odborné tištěné mapy _Vývoj židovského osídlení Olomouce: geografická a socioekonomická struktura židovského obyvatelstva v období 1180-2021_ (Olomouc: VUP 2022); autorkou monografie _Dramatik Max Zweig – prorok nového humanismu_ (Olomouc: VUP 2021) a spolueditorkou knihy _Tobě zahynouti nedám. Česká časopisecká šoa povídka 1945-1989_ (Praha: Akropolis 2017). Věnuje se také komunikaci mezi akademickým výzkumem a veřejností, včetně osmnácti ročníků multižánrového festivalu _Dny židovské kultury Olomouc_, a implementaci pokročilých technologií do výzkumu v rámci humanitních věd.
+
+- id: lanicek
+  name: Jan Láníček
+  display_name: Jan Láníček
+  email: ehri@mua.cas.cz
+  image: people/jan-lanicek.jpg
+#  link: /people/jan-lanicek/
+  about: |
+    **Jan Láníček** je docent moderních evropských a židovských dějin na Univerzitě Nového Jižního Walesu v Sydney. V roce 2011 získal doktorát na Univerzitě v Southamptonu. Vydal tři monografie, včetně: _Czechs, Slovaks and the Jews 1938-48: Beyond Idealisation and Condemnation_ (Palgrave, 2013; česky _Ve stínu šoa: Československá exilová vláda a Židé během druhé světové války a po ní_ (Academia, 2018)) a _The Jew in Czech and Slovak Imagination, 1938-89: Antisemitism, the Holocaust, and Zionism_ (spolu s Hanou Kubátovou). Je spolueditorem šesti knih, s Jan Lambertz, _More than Parcels: Wartime Aid for Jews in Nazi-Era Camps and Ghettos_ (2022), s Laurien Vastenhout _Jewish Councils in Nazi Europe, 1938–1945: A Pan European Perspective_ (2025) a s Avril Alba _The Palgrave Handbook of Australia and the Holocaust_ (Palgrave, 2026). V současné době pracuje na dvou projektech: jeden se zaměřuje na rodinné dějiny během holokaustu a druhý projekt analyzuje poválečné soudní procesy v Československu ve vztahu k holokaustu.
+
+- id: portmann
+  name: Kateřina Portmann
+  display_name: Kateřina Portmann
+  email: ehri@mua.cas.cz
+  image: people/katerina-portmann.jpg
+#  link: /people/katerina-portmann/
+  about: |
+    **Kateřina Portmann** je historičkou soudobých dějin, která působí na liberecké katedře historie FP TUL. Dlouhodobě se věnuje výzkumu dopadů válek, nedemokratických systémů (především) na civilní společnost a jejich reflexi a etablování oficiálních narativů, „kolektivní paměti“ v minulosti i současnosti. V kontextu výzkumu šoa výraznou pozornost získal projekt „Návrat domů“ Po stopách libereckých obětí holocaustu, za nějž získala v roce 2025 cenu Ministra školství, mládeže a tělovýchovy za vynikající vzdělávací činnost na vysoké škole. Ambicí projektu byla vedle výzkumu i jeho aplikace do výuky škol nejrůznějších stupňů a veřejného prostoru. Stejnojmenná kolektivní monografie se dostala do užší nominace na Magnesiu Litera za nakladatelský počin, stala se knihou Libereckého kraje roku 2025 (kategorie Odborná a populárně naučná literatura) a získala cenu (kniha i celý projekt) „Počin na území města“ roku 2024.
+
+- id: frankl
+  name: Michal Frankl
+  display_name: Michal Frankl
+  email: ehri@mua.cas.cz
+  image: people/michal-frankl.jpg
+#  link: /people/michal-frankl/
+  about: |
+    **Michal Frankl** je vedoucím oddělení „Vědění a participace“ v Leibnizově institutu pro dějiny a kulturu východní Evropy. Je autorem knihy _„Prag ist nunmehr antisemitisch“_ (2011), která se zabývá dějinami českého antisemitismu na konci 19. století, a spolu s Miloslavem Szabóem knihy _Budování státu bez antisemitismu?_ (2015), analyzující antisemitismus v období přechodu od habsburské monarchie k československému národnímu státu. Společně s Kateřinou Čapkovou napsal knihu _Nejistá útočiště_ (2008), kritické dějiny československé uprchlické politiky ve 30. letech 20. století. Jeho poslední kniha _Občané země nikoho_ (2023) zkoumá rychlý vznik zemí nikoho pro uprchlíky na konci 30. let a etno-nacionální reorientace občanství ve východní a střední Evropě. Působil jako hlavní řešitel projektu ERC Consolidator _„Unlikely refuge? Refugees and citizens in East-Central Europe in the 20th century“_, který byl realizován v Masarykově ústavu a Archivu Akademie věd České republiky. Od roku 2025 je hlavním řešitelem projektu _„Migration and us: Mobility, Refugees and Borders in a Humanities Perspective“_ (MyGRACE), financovaného z programu Jana Amose Komenského. Působil také jako vedoucí work package v projektech European Holocaust Research Infrastructure a podílel se na rozvoji blogu EHRI Document Blog, online edic i Geoprostorového repozitáře.

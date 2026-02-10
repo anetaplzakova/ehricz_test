@@ -1,17 +1,69 @@
 ---
 
 - id: sedlicka
-  name: Mgr. Magdalena Sedlická, Ph.D. (National Coordinator)
+  display_name: Mgr. Magdalena Sedlická, Ph.D. (National Coordinator)
   email: sedlicka@mua.cas.cz
-  image: people/Sedlicka.jpg
+  image: people/magdalena-sedlicka.jpg
+  link: /en/people/magdalena-sedlicka/
   about: |
-    Text
-  contact: true
 
 - id: plzakova
-  name: Mgr. Aneta Plzáková (Data Coordinator) 
+  display_name: Mgr. Aneta Plzáková (Data Coordinator)
   email: plzakova@mua.cas.cz
   image: people/person-icon.png
+  link: /en/people/aneta-plzakova/
   about: |
-    Text
-  contact: true
+
+- id: frommer
+  name: Benjamin Frommer
+  display_name: Benjamin Frommer
+  email: ehri@mua.cas.cz
+  image: people/person-icon.png
+#  link: /en/people/benjamin-frommer/
+  about: |
+    **Benjamin Frommer** (Ph.D., Harvard, 1999), Associate Professor of History at Northwestern University, Evanston-Chicago, USA, is the author of _National Cleansing: Retribution against Nazi Collaborators in Postwar Czechoslovakia_ (New York: Cambridge University Press, 2005), which was also published in Czech translation (Prague: Academia, 2010), and co-editor of _Intermarriage from Central Europe to Central Asia: Mixed Families in the Age of Extremes_ (Lincoln: University of Nebraska Press, 2020).  His current book project, _The Ghetto without Walls: The Holocaust in the Nazi Protectorate of Bohemia and Moravia_, examines the wartime destruction of one of the world's most integrated and intermarried Jewish communities. His research and writing have been supported by the American Council of Learned Societies, the Fulbright Program, the Institut für die Wissenschaften vom Menschen, the Alice Kaplan Institute for the Humanities, and the Masaryk Institute and Archive of the Czech Academy of Sciences. He has received the Weinberg College Distinguished Teaching Award (2007) and held the Wayne V. Jones Research Professorship in History (2010-2012) and the Charles Deering McCormick Professorship of Teaching Excellence (2013-2016). From 2013 to 2016 Frommer served as the inaugural Director of the Holocaust Educational Foundation of Northwestern University.
+
+- id: kubatova
+  name: Hana Kubátová
+  display_name: Hana Kubátová
+  email: ehri@mua.cas.cz
+  image: people/hana-kubatova.jpg
+#  link: /en/people/hana-kubatova/
+  about: |
+    **Hana Kubátová** is an Associate Professor at the Faculty of Social Sciences, Charles University. She studied political science and international relations, nationalism studies, and modern history at Charles University and Central European University in Budapest (now in Vienna). She is the author or co-author of three monographs and numerous articles published in journals such as _Nations and Nationalism_, _Contemporary European History_, and _Holocaust Studies: Journal of Culture and History_. Her most recent book, _Christian Nationalism, Nation-Building, and the Making of the Holocaust in Slovakia_ (Oxford University Press, 2025), was simultaneously published in Slovak by N Press under the title _Kde líšky dávajú dobrú noc: kresťanský nacionalizmus a holokaust na Slovensku_.
+
+- id: cahova
+  name: Ivana Cahová
+  display_name: Ivana Cahová
+  email: ehri@mua.cas.cz
+  image: people/ivana-cahova.jpg
+#  link: /en/people/ivana-cahova/
+  about: |
+    **Ivana Cahová** is a Germanist, Bohemist, and Judaist. Since 2010, she has served as the head of the Kurt and Ursula Schubert Center for Jewish Studies at the Faculty of Arts, Palacký University Olomouc. Her research focuses on the history of Jews in Moravia, Jewish literature written in Czech and German, German literature and culture in Israel, and the Shoah. She is, among other things, a co-author of the scholarly printed map _Development of the Jewish Settlement of Olomouc: Geographic and Socioeconomic Structure of the Jewish Population in the Period of 1180–2021_ (Olomouc: VUP, 2022); the author of the monograph _Dramatik Max Zweig – prorok nového humanismu_ (_Playwright Max Zweig – Prophet of a New Humanism)_ (Olomouc: VUP, 2021); and a co-editor of the volume _Tobě zahynouti nedám. Česká časopisecká šoa povídka 1945-1989_ (_Will Not Let You Perish: Czech Shoah Short Fiction in Periodicals, 1945–1989)_ (Prague: Akropolis, 2017). She is also engaged in communicating academic research to the public, including the organization of eighteen editions of the multi-genre festival _Days of Jewish Culture Olomouc_, and in the implementation of advanced technologies in research within the humanities.
+
+- id: lanicek
+  name: Jan Láníček
+  display_name: Jan Láníček
+  email: ehri@mua.cas.cz
+  image: people/jan-lanicek.jpg
+#  link: /en/people/jan-lanicek/
+  about: |
+    **Jan Láníček** is Associate Professor in Modern European and Jewish History at the University of New South Wales, Sydney. He received a PhD from the University of Southampton in 2011. He has published three monographs, including: _Czechs, Slovaks and the Jews 1938-48: Beyond Idealisation and Condemnation_ (Palgrave, 2013) and _The Jew in Czech and Slovak Imagination, 1938-89: Antisemitism, the Holocaust, and Zionism_ (together with Hana Kubátová. He has co-edited six books. Most recently, he was co-editor, with Jan Lambertz, of More than Parcels: Wartime Aid for Jews in Nazi-Era Camps and Ghettos (2022), with Laurien Vastenhout of Jewish Councils in Nazi Europe, 1938–1945: A Pan European Perspective (2025), and with Avril Alba, _The Palgrave Handbook of Australia and the Holocaust_ (Palgrave, 2026). He is currently working on two projects: one focuses on family histories during the Holocaust and the second project analyses post-Holocaust trials in Czechoslovakia.
+
+- id: portmann
+  name: Kateřina Portmann
+  display_name: Kateřina Portmann
+  email: ehri@mua.cas.cz
+  image: people/katerina-portmann.jpg
+#  link: /en/people/katerina-portmann/
+  about: |
+    **Kateřina Portmann** is a contemporary historian who works at the Department of History at the Technical University of Liberec. She has long been involved in researching the impact of wars and undemocratic systems (primarily) on civil society and their reflection and establishment of official narratives, "collective memory" in the past and present. In the context of Shoah research, the project "Return Home: In the Footsteps of Liberec Holocaust Victims" attracted significant attention, for which she received the 2025 Minister of Education, Youth, and Sports Award for outstanding educational activities at a university. In addition to research, the project's ambition was to apply it to teaching at various levels of education and in the public sphere. The collective monograph of the same name was shortlisted for the Magnesia Litera award for publishing, became the Book of the Liberec Region of 2025 (in the category of specialist and popular educational literature), and won the 2024 "Achievement in the City" award (both the book and the entire project).
+
+- id: frankl
+  name: Michal Frankl
+  display_name: Michal Frankl
+  email: ehri@mua.cas.cz
+  image: people/michal-frankl.jpg
+#  link: /en/people/michal-frankl/
+  about: |
+    **Michal Frankl** is the head of the department “Knowledge and Participation” of the Leibniz Institute for the History and Culture of Eastern Europe. He is the author of _„Prag ist nunmehr antisemitisch“_ (2011), a history of Czech antisemitism at the end of the 19th century and together with Miloslav Szabó of _Budování státu bez antisemitismu?_ (Building of a State With No Antisemitism?, 2015), an analysis of antisemitism in the transition from the Habsburg Empire to the Czechoslovak nation state. With Kateřina Čapková, he wrote _Unsichere Zuflucht_ (2012), a critical history of Czechoslovak refugee policy in the 1930s. His last book (_Občané země nikoho_, Citizens of the No Man’s Land, 2023) examines the rapid appearance of no man’s lands for refugees at the end of the 1930s and the ethnonational reorientation of citizenship in Eastern and Central Europe. He was the principal investigator of the ERC Consolidator project “Unlikely refuge? Refugees and citizens in East-Central Europe in the 20th century” hosted the Masaryk Institute and Archives of the Czech Academy of Sciences. Starting with 2025, he is the principal investigator of the project “Migration and us: Mobility, Refugees and Borders in a Humanities Perspective” (MyGRACE) funded through the Johannes Amos Comenius Programme. He served as work package leader in the European Holocaust Research Infrastructure projects and helped to develop the EHRI Document Blog, online editions as well as the Geospatial Repository.
