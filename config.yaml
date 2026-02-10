@@ -16,6 +16,7 @@ params:
   contactForm: false
   contactFormUrl: dummy
   env: production
+  newsPaginationLimit: 20
 
 # Menu configuration. Labels are in the i18n folders:
 menu:

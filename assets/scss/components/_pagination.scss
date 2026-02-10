@@ -1,0 +1,79 @@
+@import "../variables";
+@import "../mixins";
+
+.pagination-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+    margin: 5rem 0 2rem;
+    font-family: var(--font-family-headings);
+}
+
+.pagination-numbers {
+    display: flex;
+    gap: 0.5rem;
+}
+
+.pagination-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 45px;
+    height: 45px;
+    border-radius: 8px;
+    border: 2px solid var(--theme-bg-accent);
+    background-color: var(--white);
+    color: var(--theme-fg-accent);
+    font-weight: var(--font-weight-bold);
+    font-size: 1.1rem;
+    text-decoration: none;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+
+    &:hover {
+        background-color: var(--theme-bg-accent);
+    }
+
+    &.active {
+        background-color: var(--theme-bg-accent);
+        cursor: default;
+    }
+
+    &.disabled {
+        opacity: 0.3;
+        cursor: default;
+        pointer-events: none;
+    }
+}
+
+.pagination-arrow {
+    background: none;
+    border: none;
+    color: var(--theme-bg-accent);
+    font-size: 2rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    padding: 0 1rem;
+    transition: color 0.2s ease-in-out;
+
+    &:hover:not(.disabled) {
+        color: var(--theme-fg-accent);
+    }
+
+    &.disabled {
+        opacity: 0.3;
+        cursor: default;
+    }
+
+    .material-symbols-outlined {
+        font-size: 2.5rem;
+        font-weight: 300;
+    }
+}
+
+// Hidden state for cards
+.latest-cards li.hidden {
+    display: none;
+}
