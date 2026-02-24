@@ -24,13 +24,13 @@ menu:
     - identifier: about
       pageRef: about
       weight: 20
-    - identifier: advisory_board
-      parent: about
-      pageRef: '/board'
-      weight: 10
     - identifier: partners
       pageRef: partners
       weight: 30
+    - identifier: advisory_board
+      parent: partners
+      pageRef: '/board'
+      weight: 10
     - identifier: news
       pageRef: news
       weight: 40
@@ -76,13 +76,13 @@ languages:
         - identifier: about
           pageRef: about
           weight: 20
-        - identifier: advisory_board
-          parent: about
-          pageRef: '/board'
-          weight: 10
         - identifier: partners
           pageRef: partners
           weight: 30
+        - identifier: advisory_board
+          parent: partners
+          pageRef: '/board'
+          weight: 10
         - identifier: news
           pageRef: news
           weight: 40
