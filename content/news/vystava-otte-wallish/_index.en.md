@@ -10,3 +10,8 @@ On March 30, 2026, at 6 PM, the opening of Eva Janáčová's exhibition "Otte Wa
 Otte Wallish was born in Znojmo in 1906. He studied at the Academy of Fine Arts in Vienna, opened his own graphic studio in Prague in the early 1930s, and regularly collaborated with the Jewish National Fund. He designed mainly advertising leaflets, film posters, and did graphic book design. In 1934, he moved to Mandatory Palestine, where he continued his work. In 1948, he graphically designed the Declaration of Independence of the State of Israel, created the first Israeli stamps and coins, and participated in the design of the Israeli police emblem. In addition to state commissions, he also worked on commercial projects – he created several thousand posters, some of which are icons of graphic design in Israel. Eva Janáčová's exhibition will present Otte Wallish's work across all the places where he lived and created.
 
 More information at: [https://malymehrin.cz/en/](https://malymehrin.cz/en/)
+
+{{< image src="/images/plakat_mehrin.jpg" caption="Source of the picture: Otte Wallish, Poster Abadie, lithograph on paper, early 1930s, private collection of Eri Wallish." >}}
+
+*Source of the picture: Otte Wallish, Poster Abadie, lithograph on paper, early 1930s, private collection of Eri Wallish.*
+
