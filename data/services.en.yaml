@@ -28,6 +28,14 @@
   content: |
     Information about Jewish prisoners from the Czech lands and prisoners of the Terezín ghetto.
 
+- id: nacr_album
+  title: Album of Shoah Survivors from Prague
+  url: https://projekty.nacr.cz/album
+  icon: meeting_room
+  image: nacr_album.jpg
+  content: |
+    The National Archives of the Czech Republic project entitled Album of Shoah Survivors from Prague documents individuals who were deported in mass transports from Prague to Terezín and other concentration camps between 1941 and 1944 and survived the Holocaust.
+
 - id: portal
   title: EHRI Portal
   url: https://portal.ehri-project.eu/

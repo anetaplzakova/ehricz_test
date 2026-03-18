@@ -49,11 +49,11 @@
     p {
       grid-area: 2 / 1 / 2 / 3;
       // FIXME: line height?
-      overflow: hidden;
+      /* overflow: hidden;
       display: -webkit-box;
-      -webkit-line-clamp: 3; /* number of lines to show */
+      -webkit-line-clamp: 3; // number of lines to show
       line-clamp: 3;
-      -webkit-box-orient: vertical;
+      -webkit-box-orient: vertical; */
     }
 
     .links {

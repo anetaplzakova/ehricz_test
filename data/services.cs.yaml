@@ -32,6 +32,14 @@
   content: |
     Informace o židovských vězních z českých zemí a vězních ghetta Terezín.  
 
+- id: nacr_album
+  title: Album přeživších šoa z Prahy
+  url: https://projekty.nacr.cz/album
+  icon: meeting_room
+  image: nacr_album.jpg
+  content: |
+    Projekt Národního archivu dokumentuje osoby, které byly v letech 1941–1944 deportovány hromadnými transporty z Prahy do Terezína a dalších koncentračních táborů a přežily holokaust.
+
 - id: portal
   title: Portál EHRI
   url: https://portal.ehri-project.eu/
