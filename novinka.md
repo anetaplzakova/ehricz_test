@@ -1,13 +1,11 @@
-Ve dnech 23.–25. bøezna jsme v MÚA pøivítali zahranièní kolegy z EHRI-ERIC. Bìhem tzv. Strategy Days se intenzivnì diskutovalo budoucí smìøování EHRI-ERICu v horizontu budoucích pìti let, napøíklad v oblasti vìdeckého výzkumu, sdílení dat èi udržitelnosti. 
+Komentovaná procházka s MemoMap na Praze 7
 
-Souèástí programu bylo také jednání Výboru národních koordinátorù (National Coordinators Committee), který je jedním z øídících orgánù EHRI-ERIC. Národní koordinátoøi pøedstavili aktivity svých národních uzlù a prezentovali plány na tento rok. Èeský uzel reprezentovala jeho národní koordinátorka Magdalena Sedlická.
+19\. 5. 2026 | 16.00 | Sraz u hotelu Mama Shelter
 
-Poslední den se sešli èlenové pracovní skupiny Editorial Bord vedené MÚA (Michala Jandák-Lônèíková), která se vìnuje rozvoji EHRI Document Blogu, pøípravì EHRI podcastù a webináøù.
+Vydejte se na procházku po Praze 7, bìhem níž se seznámíte s aplikací [MemoMap Praha](https://memomap.cz), kterou vytvoøil Masarykùv ústav a Archiv AV ÈR (MÚA) jako službu èeského uzlu Evropské infrastruktury pro výzkum holokaustu (EHRI-CZ).
 
----
+Projekt MemoMap umožòuje studovat historii holocaustu skrze prostor mìsta. Interaktivní mapa Prahy z doby protektorátu zobrazuje adresy více než 40 000 obìtí holocaustu, 1 700 pøípadù porušení protižidovských naøízení, významná místa spojená s židovskou historií i pronásledováním a místa, kam Židé v dobì války nesmìli. MemoMap navazuje na aplikaci MemoGIS Praha, kterou nejen obsahovì doplòuje, ale jejíž funkcionalitu a design zásadnì rozšiøuje. Aplikaci si sami vyzkoušíte na vašem mobilním telefonu nebo tabletu s pøipojením k internetu (není tøeba nic dopøedu instalovat, webová aplikace je dostupná online na webové stránce [memomap.cz](https://memomap.cz)).
 
-From March 23 to 25, the Masaryk Institute and Archives (MÚA) hosted international colleagues from EHRI-ERIC. During the so-called Strategy Days, intensive discussions took place regarding the future direction of EHRI-ERIC over the next five years, focusing on areas such as scientific research, data sharing, and sustainability.
+Provede vás Daniela Bartáková. Procházka trvá 60 minut, kapacita je omezena. Akce se koná ve spolupráci s [Centrem Pamìti a dialogu Bubny](https://www.cpdb.cz/ "https://www.cpdb.cz/").
 
-The program also included a meeting of the National Coordinators Committee, one of the governing bodies of EHRI-ERIC. National coordinators presented the activities of their respective national nodes and outlined their plans for the current year. The Czech node was represented by its national coordinator, Magdalena Sedlická.
-
-On the final day, members of the Editorial Board working group met. Led by MÚA (Michala Jandák-Lônèíková), this group focuses on the development of the EHRI Document Blog and the preparation of EHRI podcasts and webinars.
+Registrace pøes [Open House Praha](https://www.openhousepraha.cz/).
