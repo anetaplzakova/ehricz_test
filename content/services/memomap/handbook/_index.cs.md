@@ -148,7 +148,7 @@ Příručka je rozdělena do sekcí, které vám pomohou v různých fázích va
 		  <a href="/services/memomap/handbook/datatypes/historical-map/">Historická mapa</a>
 		  </h4>
  
- - <h3 style="margin-bottom: 0.3rem; margin-top: 4rem;">
+  - <h3 style="margin-bottom: 0.3rem; margin-top: 4rem;">
 	 <a href="/services/memomap/handbook/datatypes/">3. Jak připravit data pro MemoMapu</a>
      </h3>
 
