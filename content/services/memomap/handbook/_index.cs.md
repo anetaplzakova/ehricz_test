@@ -154,21 +154,21 @@ Příručka je rozdělena do sekcí, které vám pomohou v různých fázích va
 
 	 Kapitola přibližuje práci v prostředí pro zadávání a úpravu dat.
 
-		- <h4 style="margin-bottom: 0rem;">
-		  <a href="/services/memomap/handbook/database/basics/">Jak funguje uživatelské rozhraní a práce s daty</a>
-		  </h4>
+	  - <h4 style="margin-bottom: 0rem;">
+		<a href="/services/memomap/handbook/database/basics/">Jak funguje uživatelské rozhraní a práce s daty</a>
+		</h4>
 
-		- <h4 style="margin-bottom: 0rem;">
-		  <a href="/services/memomap/handbook/database/records/">Jak vytvářet a upravovat záznamy</a>
-		  </h4>
+	  - <h4 style="margin-bottom: 0rem;">
+		<a href="/services/memomap/handbook/database/records/">Jak vytvářet a upravovat záznamy</a>
+		</h4>
 
-		- <h4 style="margin-bottom: 0rem;">
-		  <a href="/services/memomap/handbook/database/records-places/">Jak pracovat s místy a polohou</a>
-		  </h4>
+	  - <h4 style="margin-bottom: 0rem;">
+		<a href="/services/memomap/handbook/database/records-places/">Jak pracovat s místy a polohou</a>
+		</h4>
 
-		- <h4 style="margin-bottom: 0rem;">
-		  <a href="/services/memomap/handbook/database/records-relationships/">Jak data propojovat prostřednictvím vztahů</a>
-		  </h4> 		  
+	  - <h4 style="margin-bottom: 0rem;">
+		<a href="/services/memomap/handbook/database/records-relationships/">Jak data propojovat prostřednictvím vztahů</a>
+		</h4> 		  
 </div>
 
 <div style="margin-top: 6rem; padding: 1.5rem; border-top: 1px solid #ddd; display: flex; align-items: center; gap: 1.5rem;">
