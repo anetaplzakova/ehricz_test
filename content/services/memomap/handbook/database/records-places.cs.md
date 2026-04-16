@@ -1,5 +1,5 @@
 ---
-title: Jak pracovat s místy a mapou
+title: Jak pracovat s místy a polohou
 layout: single
 type: handbook
 ---
