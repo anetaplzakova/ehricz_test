@@ -34,6 +34,12 @@ EHRI-CZ poskytuje zejména tyto typy služeb:
 - Na digitalizované prameny aplikuje digitální metody, mezi něž náleží například automatické rozpoznávání textu a řeči, identifikace míst, historických aktérů, klíčových slov a další.
 - Podporuje bádání za pomoci prostorových metod a interaktivních map, mj. skrze aplikaci MemoMAP.
 
+<div class="person-cards">
+    {{< person-card id="sedlicka" >}}
+    {{< person-card id="plzakova" >}}
+</div>
+
+
 <!--
 ## Více o poslání a vizi EHRI
 

@@ -1,0 +1,10 @@
+<div class="banner">
+    <div class="logo">
+        {{ $logo := "images/ehri-logo.svg" }}
+        {{ if eq .Language.Lang "en" }}
+            {{ $logo = "images/ehri-logo-en.svg" }}
+        {{ end }}
+        <a href="{{ relLangURL "" }}"><img src="{{ .Param "headerLogo" | default $logo | relURL }}" alt="EHRI Logo"/></a>
+    </div>
+    <a href="{{ relLangURL "" }}" class="title">{{ .Site.Title }}</a>
+</div>
