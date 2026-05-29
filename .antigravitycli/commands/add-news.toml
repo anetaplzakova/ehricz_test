@@ -1,0 +1,22 @@
+description = "Přidání nové vícejazyčné novinky (Hugo) a aktualizace souborů s odkazy. Argumentem musí být název souboru (např. 'novinka.md')."
+
+prompt = """
+
+Prosím o provedení úkolu pro Hugo statický generátor stránek. Novinka je obsažena v souboru, jehož obsah je vložen níže.
+
+Zadání:
+1. Vytvoř nový adresář pro novinku v cestě: `content/news/`
+2. Vytvoř v tomto novém adresáři soubory s obsahem v češtině a angličtině (zahrň i potřebné front matter/metadata pro Hugo).
+3. Vlož krátký výtah z novinky (titulek a krátký popis/úvodní text) do následujících souborů s odkazy na novinky:
+   * `data/hl-latest.cs.yaml`
+   * `data/hl-latest.en.yaml`
+   * `data/latest.cs.yaml`
+   * `data/latest.en.yaml`
+4. Pozor, odkaz-url na anglickou verzi novinek musí vždy začínat /en/..., tedy například /en/news/novinka/; odkazy na českou verzi novinek nemusí obsahovat kód pro jazyk, stačí tedy /news/novinka/.
+5. Vstupní data (formát: `soubor.md -- dodatečné instrukce`): 
+{{args}}
+
+7. DŮLEŽITÉ: 
+* První část vstupu (před `--`) považuj za název souboru.
+* Druhou část vstupu (za `--`) považuj za dodatečné instrukce. Pokud druhá část chybí, instrukce ignoruj.
+"""
