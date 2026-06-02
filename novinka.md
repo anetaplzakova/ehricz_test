@@ -1,21 +1,27 @@
-﻿**EHRI webinář: EHRI-CZ Portal: Integrating Holocaust-Related Data Across Institutions**
+﻿Přednáška Laura Hobson Faure | Who Will Rescue Us? The Story of the Jewish Children Who Fled to France and America
 
-(Portál EHRI-CZ: Propojování údajů týkajících se holokaustu napříč institucemi)
+Přijďte si poslechnout přednášku historičky Laury Hobson Faure, která proběhne 24\. června 2026 od 17 h
 
-V rámci následujícího online EHRI webináře, který se uskuteční **ve středu 17. června 2026 v 15 h.**, představí **Aneta Plzáková** (MÚA) a **Maria Dermentzi** (Toolbox 21, spolupracovnice českého uzlu EHRI) aktuální stav vývoje Portálu EHRI-CZ a zaměří se přitom jak na koncepční, tak na praktické aspekty projektu. Portál propojuje data o holokaustu z různých institucí a zpřístupňuje archivní popisy, databáze obětí, digitální sbírky, geograficko-prostorové informace i kontextové zdroje a zároveň řeší výzvy, jako je vícejazyčnost, odlišné standardy metadat a rozdílná úroveň detailnosti dat.
+v Ústavu pro českou literaturu AV ČR. Akce se uskuteční v rámci spolupráce
 
-Interaktivní EHRI webinář není určen pouze specialistům na digitální humanitní vědy, ale také badatelům, archivářům, muzejním pracovníkům, studentům i širší odborné veřejnosti se zájmem o nové způsoby zkoumání pramenů týkajících se holokaustu a historických dat.
+EHRI-CZ a projektu MyGRACE. Autorka představí svou novou knihu Who Will Rescue Us? The Story of the Jewish
 
-Odkaz na webinář:
+Children Who Fled to France and America (Yale University Press, 2025) a svůj výzkum věnovaný osudům
 
-[https://www.ehri-project.eu/ehri-webinar-17-june-ehri-cz-portal-integrating-holocaust-related-data-across-institutions/](https://www.ehri-project.eu/ehri-webinar-17-june-ehri-cz-portal-integrating-holocaust-related-data-across-institutions/)
+židovských dětí ve Francii a Spojených státech během holokaustu a po jeho
 
-**EHRI webinar: EHRI-CZ Portal: Integrating Holocaust-Related Data Across Institutions**
+skončení.
 
-In the upcoming online EHRI webinar on Wednesday 17 June 2026 at 3 p.m. will **Aneta Plzáková** (Masaryk Institute and Archives of the CAS) and **Maria Dermentzi** (Toolbox 21, collaborator of the Czech EHRI node) present the current state of development of the **EHRI-CZ Portal**, focusing on both the conceptual and practical aspects of the project. The Portal connects Holocaust-related data from various institutions and provides access to archival descriptions, victim databases, digital collections, geo-spatial information, and contextual resources, while also addressing challenges such as multilingualism, differing metadata standards, and varying levels of how detailed data are.
+Hobson Faure představí, jak se několik menších iniciativ v rámci Kindertransportu snažilo ochránit židovské děti před nacistickým pronásledováním tím, že je převážely do Francie. Po nacistické okupaci Francie byly některé z těchto dětí evakuovány do Spojených států. Kniha vypráví složitý příběh dětí a rodin na útěku a o dospělých a organizacích – židovských, křesťanských i sekulárních –, které jim pomáhaly. Na základě více než desetiletého výzkumu kniha oživuje hlasy dětí prostřednictvím jejich deníků a rozhovorů orální historie.
 
-The interactive EHRI webinar is intended not only for specialists in digital humanities, but also for researchers, archivists, museum professionals, students, and the wider expert public interested in new ways of exploring sources related to the Holocaust and historical data.
+Přednáška proběhne v angličtině.
 
-Link to the webinar:
+=== anglická verze ===
 
-[https://www.ehri-project.eu/ehri-webinar-17-june-ehri-cz-portal-integrating-holocaust-related-data-across-institutions/](https://www.ehri-project.eu/ehri-webinar-17-june-ehri-cz-portal-integrating-holocaust-related-data-across-institutions/)
+Lecture Laura Hobson Faure | Who Will Rescue Us? The Story of the Jewish Children Who Fled to France and America
+
+Join us for a lecture by the historian Laura Hobson Faure on 24 June 2026 at 5pm at the Institute of Czech Literature of the CAS. The lecture is coorganized by the EHRI-CZ and the project MYGRACE. The author will present her book Who Will Rescue Us? The Story of the Jewish Children Who Fled to France and America (Yale University Press, 2025) and her ongoing research on Jewish children in France and the United States during the Holocaust and its aftermath. 
+
+Hobson Faure will explore how several small Kindertransport initiatives sought to protect Jewish children from Nazi persecution by bringing them to France. After the Nazi occupation of France some of the children were then evacuated to the United States. Who Will Rescue Us? tells a complex story of children and families on the run and the adults and the organizations — Jewish, Christian, and secular — that helped them. Based on over a decade of research, the book gives life to children’s voices through their diaries and oral history interviews.
+
+The lecture will be held in English.
