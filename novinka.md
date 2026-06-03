@@ -1,27 +1,17 @@
-﻿Přednáška Laura Hobson Faure | Who Will Rescue Us? The Story of the Jewish Children Who Fled to France and America
+﻿**EHRI-CZ stipendistka Emily Roche| Building Survival: Experiences of Architect Prisoners at Auschwitz**
 
-Přijďte si poslechnout přednášku historičky Laury Hobson Faure, která proběhne 24\. června 2026 od 17 h
+Druhou stipendistkou, která v červnu absolvuje stipendijní pobyt **EHRI-ERIC Conny Kristel Fellowship** v Židovském muzeu v Praze, je **Dr. Emily Julia Roche**. Vědecky zpracovává téma **_Building Survival: Experiences of Architect Prisoners at Auschwitz_**. Zajímá se o zkušenosti architektů vězněných v Osvětimi a zda mohly strategie utváření prostoru přispět k jejich přežití. 
 
-v Ústavu pro českou literaturu AV ČR. Akce se uskuteční v rámci spolupráce
+Snaha nacistického režimu provést genocidu je patrný v jeho architektuře, jako jsou kasárna, silnice, strážní věže, plynové komory a krematoria v Osvětimi – navržená nacistickými architekty a postavená nucenou prací. V těchto stavbách vězni bojovali o přežití a v prostředí svého vězení budovali tajné sítě a vyvíjeli strategie odporu. Někteří z těchto vězňů byli architekti, kteří byli přiděleni k nuceným pracím do stavebních kanceláří tábora, kde pracovali na plánech na rozšíření tohoto nechvalně proslulého tábora a zároveň využívali své odborné znalosti k odporu proti nacistické kontrole. Tento projekt je studií o tom, jak architekti prožívali a přežili uvěznění v Osvětimi.
 
-EHRI-CZ a projektu MyGRACE. Autorka představí svou novou knihu Who Will Rescue Us? The Story of the Jewish
+Přežití architektů v táboře Osvětim nebylo založeno pouze na náhodě, ale také na podpoře sítí, kterým se podařilo fungovat v pekelných podmínkách tábora. V badatelském projektu stipendistka nahlíží na vězněné architekty z biografického úhlu pohledu, přináší první architektonickou historii Osvětimi vyprávěnou z perspektivy jejích vězňů, přičemž se zaměřuje na architekty, aby zdůraznila, jak mohly prostorové strategie ovlivnit přežití.
 
-Children Who Fled to France and America (Yale University Press, 2025) a svůj výzkum věnovaný osudům
+Dr. Emily Julia Roche je postdoktorandskou stipendistkou irské vlády na Maynooth University. V roce 2024 získala doktorát z historie na Brown University a její práci podpořili Polish Studies Association, Association of Slavic, Eastern European and Eurasian Studies, United States Holocaust Memorial Museum, EHRI a USC Shoah Foundation. Publikovala na témata jako sebevraždy ve varšavském ghettu a architektonické sítě v okupované Varšavě. Její první kniha, která zkoumá budování národní identity v Polsku prostřednictvím životopisů architektů Heleny a Szymona Syrkusových, je v přípravě u nakladatelství University of Toronto Press.
 
-židovských dětí ve Francii a Spojených státech během holokaustu a po jeho
+The second fellow to complete a fellowship at the Jewish Museum in Prague this June is **Dr. Emily Julia Roche**. Her research focuses on the topic **_Building Survival: Experiences of Architect Prisoners at Auschwitz_**. She is interested in the experiences of architects imprisoned at Auschwitz and whether strategies for shaping space may have contributed to their survival.
 
-skončení.
+The genocidal intent of the Nazi regime is evident in its architecture, such as the barracks, roads, watchtowers, gas chambers, and crematoria at Auschwitz—designed by Nazi architects and built by forced labour. Among these structures, prisoners fought for survival, developing clandestine networks and strategies of defiance in the space of their imprisonment. Some of these prisoners were architects who received forced labour assignments in the camp’s construction offices, where they worked on plans for the expansion of the notorious camp while also using their expertise to resist Nazi control. This project is a study of how architects experienced and survived incarceration in Auschwitz.
 
-Hobson Faure představí, jak se několik menších iniciativ v rámci Kindertransportu snažilo ochránit židovské děti před nacistickým pronásledováním tím, že je převážely do Francie. Po nacistické okupaci Francie byly některé z těchto dětí evakuovány do Spojených států. Kniha vypráví složitý příběh dětí a rodin na útěku a o dospělých a organizacích – židovských, křesťanských i sekulárních –, které jim pomáhaly. Na základě více než desetiletého výzkumu kniha oživuje hlasy dětí prostřednictvím jejich deníků a rozhovorů orální historie.
+The survival of architects within the Auschwitz camp was based not only on chance, but also on the support of networks that managed to function in the hellish conditions of the camp. Adopting a biographical perspective on architect prisoners. In the research project the Fellow is researching the architectural history of Auschwitz from the perspective of its prisoners, focusing on architects to emphasize how spatial strategies could shape survival.
 
-Přednáška proběhne v angličtině.
-
-=== anglická verze ===
-
-Lecture Laura Hobson Faure | Who Will Rescue Us? The Story of the Jewish Children Who Fled to France and America
-
-Join us for a lecture by the historian Laura Hobson Faure on 24 June 2026 at 5pm at the Institute of Czech Literature of the CAS. The lecture is coorganized by the EHRI-CZ and the project MYGRACE. The author will present her book Who Will Rescue Us? The Story of the Jewish Children Who Fled to France and America (Yale University Press, 2025) and her ongoing research on Jewish children in France and the United States during the Holocaust and its aftermath. 
-
-Hobson Faure will explore how several small Kindertransport initiatives sought to protect Jewish children from Nazi persecution by bringing them to France. After the Nazi occupation of France some of the children were then evacuated to the United States. Who Will Rescue Us? tells a complex story of children and families on the run and the adults and the organizations — Jewish, Christian, and secular — that helped them. Based on over a decade of research, the book gives life to children’s voices through their diaries and oral history interviews.
-
-The lecture will be held in English.
+ Dr. Emily Julia Roche is a Government of Ireland Postdoctoral Fellow at Maynooth University. She received a PhD in History from Brown University in 2024 and her work has been supported by the Polish Studies Association, the Association of Slavic, Eastern European and Eurasian Studies, the United States Holocaust Memorial Museum, EHRI, and the USC Shoah Foundation. She has published on topics such as suicide in the Warsaw Ghetto and architectural networks in occupied Warsaw. Her first book, which explores architectural nation-building in Poland through the biographies of Helena and Szymon Syrkus, is under contract with the University of Toronto Press.

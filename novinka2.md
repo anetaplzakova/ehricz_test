@@ -1,0 +1,14 @@
+﻿**17/6/26 v 18.00**
+
+**O tom Benešovi  
+Moravská zemská knihovna, Kounicova 65a,  
+konferenční sál v přízemí**
+
+Edvard Beneš už déle než tři čtvrtě století nežije, přesto zůstává předmětem českých debat a polemik jako žádný jiný domácí politik. Zasloužil se o vznik prvního československého státu v roce, ale dvakrát se také podepsal na zániku demokracie u nás. Budeme se donekonečna přít o to, jestli byl stát s tolika menšinami životaschopný, jestli jsme se místo Mnichova neměli bránit, jestli byl v pořádku odsun Němců, jestli bylo správné orientovat stát místo k Západu na Sovětský svaz? Nová kniha Pavla Kosatíka je určena široké veřejnosti. Autor se domnívá, že se traumat spojených s Benešovým jménem můžeme zbavit, dávné chyby neopakovat a vytvořit si k státu lepší vztah, než jsme podědili – a snaží se proto o nový pohled na Beneše bez předsudků. Přijměte pozvání na debatu historičky Táni Klementové s Pavlem Kosatíkem. Součástí večera bude scénické čtení z knihy v podání herce Jáchyma Sůry s hudebním doprovodem. Knihu bude možné na místě zakoupit.  
+Pořad se koná ve spolupráci MEHRINu s festivalem Meeting Brno a Moravskou zemskou knihovnou. Autorkou obálky knihy je Tereza Marianová.
+
+[Pavel Kosatík: O tom Benešovi | Moravská zemská knihovna v Brně](https://www.mzk.cz/akce/pro-verejnost/beseda/pavel-kosatik-o-tom-benesovi "https://www.mzk.cz/akce/pro-verejnost/beseda/pavel-kosatik-o-tom-benesovi")
+
+[16\. května - Interview ČT24 Česká televize](https://www.ceskatelevize.cz/porady/10095426857-interview-ct24/226411058040516/?fbclid=IwY2xjawSD_ZFleHRuA2FlbQIxMABicmlkETBXS3ZMRlRNSGh5NmhQeEtJc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqnGTPW6wFZNPlCp0MPuvIcNs6-fjQevX6DaChBNDSjjU3kH2u5lvs7_4Yn3_aem_GhSo9W3LREU2mnRnng2QrQ "https://www.ceskatelevize.cz/porady/10095426857-interview-ct24/226411058040516/?fbclid=IwY2xjawSD_ZFleHRuA2FlbQIxMABicmlkETBXS3ZMRlRNSGh5NmhQeEtJc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqnGTPW6wFZNPlCp0MPuvIcNs6-fjQevX6DaChBNDSjjU3kH2u5lvs7_4Yn3_aem_GhSo9W3LREU2mnRnng2QrQ")
+
+[Benešův svět: Odkaz, který formuje Česko | iROZHLAS](https://www.irozhlas.cz/zivotni-styl/spolecnost/kosatik-bez-benese-nebylo-ceskoslovensko-a-v-roce-1938-naopak-bylo-nebyl-rvac_2603142140_elev?_ga=2.78565268.1826313463.1779900202-717459623.1732616031&_gl=1*pcj800*_gcl_au*MTc3NjI4ODUxNS4xNzczNzQzMzcy*_ga*NzE3NDU5NjIzLjE3MzI2MTYwMzE.*_ga_NHXTP7RWNV*czE3Nzk5MDAyMDEkbzgzJGcxJHQxNzc5OTAwMjA4JGo1MyRsMCRoMTQzODMzODQwMQ.. "https://www.irozhlas.cz/zivotni-styl/spolecnost/kosatik-bez-benese-nebylo-ceskoslovensko-a-v-roce-1938-naopak-bylo-nebyl-rvac_2603142140_elev?_ga=2.78565268.1826313463.1779900202-717459623.1732616031&_gl=1*pcj800*_gcl_au*MTc3NjI4ODUxNS4xNzczNzQzMzcy*_ga*NzE3NDU5NjIzLjE3MzI2MTYwMzE.*_ga_NHXTP7RWNV*czE3Nzk5MDAyMDEkbzgzJGcxJHQxNzc5OTAwMjA4JGo1MyRsMCRoMTQzODMzODQwMQ..")
