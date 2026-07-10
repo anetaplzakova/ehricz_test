@@ -1,14 +1,25 @@
-﻿**17/6/26 v 18.00**
+ČJ
 
-**O tom Benešovi  
-Moravská zemská knihovna, Kounicova 65a,  
-konferenční sál v přízemí**
+**EHRI Document Blog | The Extermination of Jews in the Kalinindorf Jewish National Raion of 1941**
 
-Edvard Beneš už déle než tři čtvrtě století nežije, přesto zůstává předmětem českých debat a polemik jako žádný jiný domácí politik. Zasloužil se o vznik prvního československého státu v roce, ale dvakrát se také podepsal na zániku demokracie u nás. Budeme se donekonečna přít o to, jestli byl stát s tolika menšinami životaschopný, jestli jsme se místo Mnichova neměli bránit, jestli byl v pořádku odsun Němců, jestli bylo správné orientovat stát místo k Západu na Sovětský svaz? Nová kniha Pavla Kosatíka je určena široké veřejnosti. Autor se domnívá, že se traumat spojených s Benešovým jménem můžeme zbavit, dávné chyby neopakovat a vytvořit si k státu lepší vztah, než jsme podědili – a snaží se proto o nový pohled na Beneše bez předsudků. Přijměte pozvání na debatu historičky Táni Klementové s Pavlem Kosatíkem. Součástí večera bude scénické čtení z knihy v podání herce Jáchyma Sůry s hudebním doprovodem. Knihu bude možné na místě zakoupit.  
-Pořad se koná ve spolupráci MEHRINu s festivalem Meeting Brno a Moravskou zemskou knihovnou. Autorkou obálky knihy je Tereza Marianová.
+Nový příspěvek na stránkách EHRI s názvem **The Extermination of Jews in the Kalinindorf Jewish National Raion of 1941** se zabývá vyhlazováním židovského obyvatelstva v Kalinindorfském židovském národním rajónu na podzim roku 1941 a nabízí bohatý výběr relevantních archivních dokumentů. Napsal ho Alexander Kruglov. Je to již 19. dokumentový blog, spadající do tematické řady „Holokaust na Ukrajině“. Článek je dostupný jak v ruském originále, tak v anglickém překladu. 
 
-[Pavel Kosatík: O tom Benešovi | Moravská zemská knihovna v Brně](https://www.mzk.cz/akce/pro-verejnost/beseda/pavel-kosatik-o-tom-benesovi "https://www.mzk.cz/akce/pro-verejnost/beseda/pavel-kosatik-o-tom-benesovi")
+Obě verze jsou dostupné na webové stránce: [https://blog.ehri-project.eu/ru/2026/06/29/истребление-евреев-в-калининдорф…](https://blog.ehri-project.eu/ru/2026/06/29/истребление-евреев-в-калининдорфe/) [https://blog.ehri-project.eu/2026/06/29/the-extermination-of-jews-in-the-ka…](https://blog.ehri-project.eu/2026/06/29/the-extermination-of-jews-in-the-kalinindorf/)  
 
-[16\. května - Interview ČT24 Česká televize](https://www.ceskatelevize.cz/porady/10095426857-interview-ct24/226411058040516/?fbclid=IwY2xjawSD_ZFleHRuA2FlbQIxMABicmlkETBXS3ZMRlRNSGh5NmhQeEtJc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqnGTPW6wFZNPlCp0MPuvIcNs6-fjQevX6DaChBNDSjjU3kH2u5lvs7_4Yn3_aem_GhSo9W3LREU2mnRnng2QrQ "https://www.ceskatelevize.cz/porady/10095426857-interview-ct24/226411058040516/?fbclid=IwY2xjawSD_ZFleHRuA2FlbQIxMABicmlkETBXS3ZMRlRNSGh5NmhQeEtJc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHqnGTPW6wFZNPlCp0MPuvIcNs6-fjQevX6DaChBNDSjjU3kH2u5lvs7_4Yn3_aem_GhSo9W3LREU2mnRnng2QrQ")
+**Vyhlazování židovských obyvatel v Kalinindorfském židovském národním rajónu na podzim roku 1941**
 
-[Benešův svět: Odkaz, který formuje Česko | iROZHLAS](https://www.irozhlas.cz/zivotni-styl/spolecnost/kosatik-bez-benese-nebylo-ceskoslovensko-a-v-roce-1938-naopak-bylo-nebyl-rvac_2603142140_elev?_ga=2.78565268.1826313463.1779900202-717459623.1732616031&_gl=1*pcj800*_gcl_au*MTc3NjI4ODUxNS4xNzczNzQzMzcy*_ga*NzE3NDU5NjIzLjE3MzI2MTYwMzE.*_ga_NHXTP7RWNV*czE3Nzk5MDAyMDEkbzgzJGcxJHQxNzc5OTAwMjA4JGo1MyRsMCRoMTQzODMzODQwMQ.. "https://www.irozhlas.cz/zivotni-styl/spolecnost/kosatik-bez-benese-nebylo-ceskoslovensko-a-v-roce-1938-naopak-bylo-nebyl-rvac_2603142140_elev?_ga=2.78565268.1826313463.1779900202-717459623.1732616031&_gl=1*pcj800*_gcl_au*MTc3NjI4ODUxNS4xNzczNzQzMzcy*_ga*NzE3NDU5NjIzLjE3MzI2MTYwMzE.*_ga_NHXTP7RWNV*czE3Nzk5MDAyMDEkbzgzJGcxJHQxNzc5OTAwMjA4JGo1MyRsMCRoMTQzODMzODQwMQ..")
+Kalinindorfský židovský národní rajón, který vznikl v roce 1927 jako vůbec první židovský okres v Sovětském svazu, se po německé okupaci jižní Ukrajiny v roce 1941 proměnil v dějiště masového násilí. Článek na základě archivních dokumentů znovu skládá průběh masakrů, zpřesňuje počty obětí a přibližuje, jakou roli sehráli místní kolaboranti. Zároveň ukazuje, že nově objevené archivní materiály výrazně rozšiřují naše chápání rozsahu vraždění a odhalují, jak málo poválečné spravedlnosti se obětem dostalo.
+
+AJ
+
+**EHRI Document Blog | The Extermination of Jews in the Kalinindorf Jewish National Raion of 1941**
+
+A new post has been published on the EHRI Document Blog entitled **The Extermination of Jews in the Kalinindorf Jewish National Raion of 1941**, written by Alexander Kruglov it is already  the19th contribution to the "Holocaust in Ukraine" series. 
+
+The article written by Alexander Kruglov examines the extermination of Jews in the Kalinindorf Jewish National Raion in the fall of 1941 and offers a rich selection of the relevant archival documents. It is available in both the Russian original and an English translation.
+
+You can read both versions on our website: [https://blog.ehri-project.eu/ru/2026/06/29/истребление-евреев-в-калининдорф…](https://blog.ehri-project.eu/ru/2026/06/29/истребление-евреев-в-калининдорфe/) [https://blog.ehri-project.eu/2026/06/29/the-extermination-of-jews-in-the-ka…](https://blog.ehri-project.eu/2026/06/29/the-extermination-of-jews-in-the-kalinindorf/)
+
+**The extermination of Jews in the Kalinindorf Jewish National Raion in the fall of 1941**
+
+The Kalinindorf Jewish National Raion, established in 1927 as the first Jewish national district in the Soviet Union, became a site of mass violence after the German occupation of southern Ukraine in 1941. Based on archival records, the article reconstructs the massacres, revises victim estimates, and examines the role of local collaborators. It also shows how additional archival evidence expands understanding of the scale of the killings and highlights the lack of postwar accountability.
