@@ -10,7 +10,8 @@
   icon: meeting_room
   image: memomap.png
   content: |
-    Praha, Pacov, Říčany: historické mapy, příběhy obětí holokaustu. 
+    Praha, Pacov, Říčany: historické mapy, příběhy obětí holokaustu. <br/>
+    Metodiky pro učitele.
     
 - id: holocaustcz
   title: Portál holocaust.cz
