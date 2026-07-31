@@ -1,39 +1,19 @@
 ﻿**ČJ**
 
-**Výzva pro zasílání přihlášek na nadnárodní workshop EHRI-ERIC | Documentation as Resistance: Methodologies for Reconstructing Early Postwar Transnational Jewish Knowledge Networks**
+**Nový příspěvek na EHRI Document Blogu| Tajné zprávy členů rakouského odboje v zajetí gestapa**
 
-Byla zveřejněna výzva k předkládání přihlášek na dvoudenní nadnárodní seminář EHRI-ERIC s názvem „Documentation as Resistance: Methodologies for Reconstructing Early Postwar Transnational Jewish Knowledge Networks“, který se uskuteční na konci roku 2026 v Londýně.  
+Na stránkách EHRI Document Blogu naleznete nový příspěvek, nazvaný „ „Límec je pevný, nikdo neucítí malou všitou zprávu_“_: Tajné zprávy členů rakouského odboje v zajetí gestapa“, napsal ho Barnabas Balint. Zabývá se v něm tajnými zprávami (Kassiber), uloženými v Dokumentačním centru rakouského odboje, které pocházejí od Elfriede Hartmannové, rakouské členky protinacistického odboje.
 
-**Datum konání workshopu**: 1.–2. prosince 2026.
+Elfriede Hartmannová je posílala rodičům během svého věznění gestapem, kdy čekala na popravu. Zprávy byly pašovány v oblečení a balíčcích a dokumentují zážitky z vězení a strategie, které členové odboje používali k udržení kontaktu s blízkými, vyjádření emocí a zachování pocitu vlastní identity. Kassibery, znovuobjevené desítky let po válce, tak neúmyslně vytvořily jedinečný archiv zážitků bojovnice odboje.
 
-**Místo:** The Wiener Holocaust Library, Londýn, Spojené království.
-
-**Přihlášky je možné zasílat do:** 24. srpna 2026.
-
-Příspěvky budou zkoumat, jak lze rané poválečné nadnárodní židovské dokumentační sítě rekonstruovat a analyzovat prostřednictvím inovativních vědeckých, archivních a digitálních metodologií. Dokumentace sama je považována nejen jako historický důkaz, ale i akt odporu a formy vytváření znalostí. Cílem workshopu je vyvinout metody pro výzkum nadnárodních dokumentačních sítí holokaustu pomocí nových technologií a metod a usnadnit nadnárodní výměnu znalostí.
-
-Workshop organizují národní uzly EHRI: EHRI-UK; EHRI-DE; EHRI-IL; EHRI-Sweden
-
-Další informace a text výzvy o workshopu naleznete zde:
-
-[https://www.ehri-project.eu/call-for-applications-ehri-eric-transnational-workshop-documentation-as-resistance-methodologies-for-reconstructing-early-postwar-transnational-jewish-knowledge-networks/](https://www.ehri-project.eu/call-for-applications-ehri-eric-transnational-workshop-documentation-as-resistance-methodologies-for-reconstructing-early-postwar-transnational-jewish-knowledge-networks/)
+Zprávu naleznete zde: [https://blog.ehri-project.eu/2026/07/30/secret-notes-from-austrian-resistance/](https://blog.ehri-project.eu/2026/07/30/secret-notes-from-austrian-resistance/)
 
 **AJ**
 
-**Call for Applications EHRI European Holocaust Research Infrastructure Transnational Workshop | Documentation as Resistance: Methodologies for Reconstructing Early Postwar Transnational Jewish Knowledge Networks**
+**New Post on the EHRI Document Blog| Secret notes from Austrian resistance members in Gestapo captivity**
 
-A call for applications has been published for a two-day EHRI-ERIC transnational seminar entitled ‘Documentation as Resistance: Methodologies for Reconstructing Early Postwar Transnational Jewish Knowledge Networks’, which will take place in London at the end of 2026.
+Another post was published on the EHRI Document Blog. The post, entitled "_'Since the Collar Is Stiff, No One Will Feel a Small Sewn-in Note': Secret Notes from Austrian Resistance Members in Gestapo Captivity_”, was written by Barnabas Balint. It examines clandestine notes (_Kassiber_) held at the Documentation Centre of the Austrian Resistance from Elfriede Hartmann, an Austrian member of the resistance against the Nazi regime.
 
-**Date**: 1–2 December 2026.
+This post examines the clandestine notes  written by Elfriede Hartmann, a member of the resistance against the Nazi regime in Austria, while she was imprisoned by the Gestapo and awaiting execution. Smuggled to her family inside clothing and parcels, these notes document her prison experience and reveal the strategies that members of the resistance used to maintain contact, express emotions and preserve a sense of self. Rediscovered decades after the war, the Kassiber therefore unintentionally created a unique archive of a resistance fighter’s experiences.
 
-**Venue**: The Wiener Holocaust Library, London, United Kingdom.
-
-**Deadline to Apply**: 24 August 2026.
-
-Contributions will explore how these knowledge networks may be reconstructed and analysed through innovative scholarly, archival and digital methodologies, treating documentation both as historical evidence but also as acts of resistance and forms of knowledge production. The aim is to develop methods for researching transnational Holocaust documentation networks using new technologies and methods and facilitate transnational knowledge exchange.
-
-EHRI National Nodes involved: EHRI-UK; EHRI-DE; EHRI-IL; EHRI-Sweden
-
-Find out more and apply:
-
-[https://www.ehri-project.eu/call-for-applications-ehri-eric-transnational-workshop-documentation-as-resistance-methodologies-for-reconstructing-early-postwar-transnational-jewish-knowledge-networks/](https://www.ehri-project.eu/call-for-applications-ehri-eric-transnational-workshop-documentation-as-resistance-methodologies-for-reconstructing-early-postwar-transnational-jewish-knowledge-networks/)
+You can find the post online here: [https://blog.ehri-project.eu/2026/07/30/secret-notes-from-austrian-resistance/](https://blog.ehri-project.eu/2026/07/30/secret-notes-from-austrian-resistance/)
