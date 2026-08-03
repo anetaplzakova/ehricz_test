@@ -16,13 +16,15 @@ layout: about
 
 ## Výzkumná infrastruktura
 
-
 Český uzel EHRI se v roce 2023 stal součástí výzkumné infrastruktury [LINDAT/CLARIAH-CZ](https://www.lindat.cz/) podporované Ministerstvem školství, mládeže a tělovýchovy. 
 
-EHRI je financována Evropskou komisí pod rámcovými programy FP7, Horizont 2020 a Horizont Evropa.
+EHRI bylo v minulosti financované Evropskou komisí pod rámcovými programy FP7, Horizont 2020 a Horizont Evropa.
 
 <!-- FIXME: utváření ERICu -->
-Od roku 2018 je EHRI na cestovní mapě evropských výzkumných infrastruktur a v současnosti se EHRI transformuje do podoby permanentní organizace - [European Research Infrastructure Consortium](https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/european-research-infrastructures/eric_en) (ERIC). Česká republika tento proces prostřednictvím Ministerstva školství, mládeže a tělovýchovy podporuje a je zastoupena v EHRI interim General Assembly.
+Od roku 2018 je EHRI na cestovní mapě evropských výzkumných infrastruktur. V lednu 2025 dosáhlo EHRI dalšího milníku, transformovalo se na permanentní organizaci, tzv. ERIC ([European Research Infrastructure Consortium](https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/european-research-infrastructures/eric_en)). Česká republika se aktivně podílela na jeho vzniku a stala se jednou z 10 zakládajících zemí. Jednotlivé národní uzly jsou vedeny národními koordinátory, kteří jsou od roku 2025 sdruženi ve Výboru národních koordinátorů (National Coordinators Committe).
+
+Dalším řídícím orgánem EHRI-ERICu je General Assembly, v němž jsou sdruženi zástupci z ministerstev a národní experti na danou problematiku ze zemí zastoupených v EHRI-ERICu.
+
 
 ## Hlavní cíle a služby
 

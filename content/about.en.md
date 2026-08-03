@@ -17,10 +17,15 @@ Top-quality research on the Holocaust is a prerequisite for informed discussion 
 
 The EHRI Czech national node has been part of the research infrastructure [LINDAT/CLARIAH-CZ](https://www.lindat.cz/) supported by the Ministry of Education, Youth and Sports since 2023. 
 
-EHRI is funded by the European Commission under FP7, Horizon 2020 and Horizon Europe.
+EHRI was funded by the European Commission under FP7, Horizon 2020 and Horizon Europe.
 
 <!-- FIXME: the formation of ERIC -->
-Since 2018, EHRI has been on the roadmap of European research infrastructures and is currently transforming into a permanent organisation - [European Research Infrastructure Consortium](https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/european-research-infrastructures/eric_en) (ERIC). The Czech Republic supports this process through the Ministry of Education, Youth and Sports and is represented in the EHRI Interim General Assembly.
+Since 2018, EHRI has been on the Roadmap of European research infrastructures. In January 2025, EHRI reached another milestone by transforming into a permanent organisation, an ERIC ([European Research Infrastructure Consortium](https://research-and-innovation.ec.europa.eu/strategy/strategy-2020-2024/our-digital-future/european-research-infrastructures/eric_en)). The Czech Republic actively contributed to its establishment, becoming one of the ten founding countries.
+
+Each EHRI national node is led by a National Coordinator, and since 2025, the National Coordinators have been brought together in the National Coordinators Committee.
+
+Another governing body of EHRI-ERIC is the General Assembly, which brings together representatives of ministries and national experts in the field from the countries participating in EHRI-ERIC.
+
 
 ## Main goals and services
 

@@ -1,10 +1,44 @@
 <div class="partners">
     <p>{{ i18n "partners_funders" }}</p>
+    <div class="partner-logos margin-bottom">
+        <a href="https://fondholocaust.cz/" target="_blank"><img class="partner-image sepia-image" src="{{ "images/logos/nfoh_logo.png" | relURL }}" alt="NFOH"/></a>
+        <a href="https://na.gov.cz/" target="_blank"><img class="partner-image sepia-image" src="{{ "images/logos/na_logo.png" | relURL }}" alt="NA"/></a>
+        <a href="https://tikkun.cz/" target="_blank"><img class="partner-image sepia-image" src="{{ "images/logos/tikkun_logo.jpg" | relURL }}" alt=""/></a>
+        <a href="https://www.terezinstudies.cz/" target="_blank"><img class="partner-image" src="{{ "images/logos/ITI_logo_CZE_sepia.png" | relURL }}" alt=""/></a>
+    </div>
+    <div class="partner-logos margin-bottom">
+        <a href="https://mua.cas.cz/" target="_blank"><img class="partner-image sepia-image-invert" src="{{ "images/logos/mua_logo.png" | relURL }}" alt=""/></a>
+        <a href="https://www.ricany.cz/" target="_blank"><img class="partner-image sepia-image" src="{{ "images/logos/ricany_logo.png" | relURL }}" alt=""/></a>
+        <a href="https://www.jewishmuseum.cz/" target="_blank"><img class="partner-image sepia-image-invert" src="{{ "images/logos/zmp_logo.png" | relURL }}" alt=""/></a>
+    </div>
     <div class="partner-logos">
-        <img src="{{ "images/eu-logo.svg" | relURL }}" alt="European Commission"/>
-        <img id="lindat-logo" src="{{ "images/logos/LINDAT-CLARIAH-cz-gray_0.svg" | relURL }}" alt="LINDAT/CLARIAH-CZ"/>
+        <a href="https://www.pamatnik-terezin.cz/" target="_blank"><img class="partner-image sepia-image-invert" src="{{ "images/logos/pamatnik_terezin_logo.png" | relURL }}" alt=""/></a>
+        <a href="https://antikomplex.cz/" target="_blank"><img class="partner-image sepia-image" src="{{ "images/logos/antikomplex_logo.png" | relURL }}" alt=""/></a>
     </div>
     <div class="partner-info">
         <p>{{ i18n "footer_support" }}</p>
     </div>
+    <div class="partner-logos">
+        <img src="{{ "images/eu-logo.svg" | relURL }}" alt="European Commission"/>
+        <img id="lindat-logo" src="{{ "images/logos/LINDAT-CLARIAH-cz-gray_0.svg" | relURL }}" alt="LINDAT/CLARIAH-CZ"/>
+    </div>
 </div>
+
+<style>
+.margin-bottom {
+  margin-bottom: 1.5em;
+}
+.partner-image {
+  margin-right: 2em;
+}
+
+.sepia-image {
+  filter: grayscale(100%) brightness(115%) sepia(60%) hue-rotate(5deg) saturate(60%);
+}
+
+.sepia-image-invert {
+  /* Pøevod èerné na svìtlý základ + pøesné natónování na #d5d2b8 */
+  filter: invert(89%) sepia(13%) saturate(583%) hue-rotate(11deg) brightness(93%) contrast(87%);
+}
+
+</style>
