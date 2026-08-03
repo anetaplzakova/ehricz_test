@@ -7,6 +7,9 @@
     - title: Více o aplikaci
       url: /services/memomap/
       type: secondary
+    - title: Metodiky pro učitele
+      url: https://memomap.cz/?detail=metodiky
+      type: secondary
   icon: article
   image: memomap.png
   content: |

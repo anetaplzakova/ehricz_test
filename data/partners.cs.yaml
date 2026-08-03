@@ -3,7 +3,7 @@
 - id: mua
   title: Masarykův ústav a archiv AV ČR
   url: https://www.mua.cas.cz/
-  image: logos/MUA_logo.png
+  image: logos/mua_logo.png
   content: |
     Ústav, který založil první československý prezident Tomáš G. Masaryk v roce 1932 je přední českou výzkumnou organizací se zaměřením na dějiny 19. a 20. století.
 
@@ -23,7 +23,7 @@
 - id: na
   title: Národní archiv
   url: https://www.nacr.cz
-  image: logos/NA_logo.png
+  image: logos/na_logo.png
   content: |
     Národní archiv je správním úřadem a ústředním archivem České republiky přímo řízeným Ministerstvem vnitra.
 

@@ -7,11 +7,13 @@
     - title: Více o aplikaci
       url: /services/memomap/
       type: secondary
+    - title: Metodiky pro učitele
+      url: https://memomap.cz/?detail=metodiky
+      type: secondary
   icon: meeting_room
   image: memomap.png
   content: |
     Praha, Pacov, Říčany: historické mapy, příběhy obětí holokaustu. <br/>
-    Metodiky pro učitele.
     
 - id: holocaustcz
   title: Portál holocaust.cz
