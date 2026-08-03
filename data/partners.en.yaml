@@ -43,7 +43,7 @@
 - id: pt
   title: Terezín Memorial
   url: https://www.pamatnik-terezin.cz/?lang=en
-  image: logos/PT_logo.png
+  image: logos/pamatnik_terezin_logo.png
   content: |
     The Terezín Memorial is a national cultural monument, a contributory organization of the Ministry of Culture of the Czech Republic, which is tasked with preserving the memory of the victims of Nazi persecution during World War II. 
     
@@ -67,7 +67,7 @@
 - id: zmp
   title: Jewish Museum in Prague
   url: https://www.jewishmuseum.cz/en/info/visit/
-  image: logos/zmp-logo.png
+  image: logos/zmp_eng_logo.png
   content: |
    The Jewish Museum in Prague is a unique European institution, the most comprehensive of its kind: it manages four historic synagogues and a Ceremonial Hall with unique exhibitions, the world-famous Old Jewish Cemetery, several depositories, archives, a library with a multimedia centre and restoration workplaces, as well as an educational and cultural centre. 
    
