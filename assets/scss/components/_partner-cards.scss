@@ -1,23 +1,23 @@
-@import "../variables";
+﻿@import "../variables";
 @import "../mixins";
 
 // A grid of partner cards
 .partner-cards {
   display: grid;
   grid-template-rows: 1fr;
-  grid-gap: $space-lg;
+  grid-gap: -lg;
   margin: 3rem 0;
 }
 
 
 .partner-card {
   @include card();
-  padding: $space-xl;
+  padding: -xl;
   grid-template-columns: 1fr min-content;
   .logo {
     width: 100%;
     max-width: 100%;
-    margin: 0 0 $space-md 0;
+    margin: 0 0 -md 0;
   }
   .partner-card-header {
     h3 {
@@ -38,7 +38,7 @@
     align-items: center;
     flex-wrap: wrap;
     gap: 0.5rem;
-    margin-bottom: $space-lg;
+    margin-bottom: -lg;
     color: var(--theme-fg);
     font-family: var(--font-family-headings);
     font-weight: var(--font-weight-bolder);
@@ -65,12 +65,54 @@
     }
   }
 
-  @media (min-width: $breakpoint-tablet) {
+  @media (min-width: -tablet) {
     .logo {
       max-width: 16rem;
       height: auto;
-      margin: 0 0 $space-md $space-md;
+      margin: 0 0 -md -md;
       float: right;
     }
   }
+}
+
+// Footer partner logos styling
+.footer-content .partners {
+  .partner-logos {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 1.25rem 1.75rem;
+
+    a {
+      display: inline-flex;
+      align-items: baseline;
+    }
+
+    img {
+      vertical-align: baseline;
+      height: 2.2rem;
+      width: auto;
+
+      @media (min-width: -tablet) {
+        height: 2.5rem;
+      }
+    }
+
+    .partner-image-bigger {
+      height: 2.8rem;
+
+      @media (min-width: -tablet) {
+        height: 3rem;
+      }
+    }
+  }
+}
+
+.sepia-image {
+  filter: grayscale(100%) brightness(200%) sepia(100%) hue-rotate(5deg) saturate(60%);
+}
+
+.sepia-image-invert {
+  /* Prevod cerne na svetly zaklad + presne natonovani na #d5d2b8 */
+  filter: invert(89%) sepia(13%) saturate(583%) hue-rotate(11deg) brightness(93%) contrast(87%);
 }
