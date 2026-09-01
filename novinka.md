@@ -1,15 +1,17 @@
-﻿ čj
+﻿čj
 
-**Nová sezóna podcastu EHRI _For the Living and the Dead: Traces of the Holocaust_ byla zahájena ve středu 5. srpna 2026.**
+**Nový příspěvek na Dokumentovém blogu: Victims of Brain Research during National Socialism** 
 
-Čtvrtá sezóna série podcastů EHRI přináší sedm nových dílů věnovaných tématu _**Romové a holokaust**_. Nový moderátor podcastu Lovro Kralj – výzkumný referent a redaktor obsahu v EHRI – vede rozhovory se sedmi odborníky, kteří líčí své postřehy a vyprávějí příběh o osobě nebo předmětu, který je nejvíce zasáhl.
+Článek od Aisling Shalvey popisuje, jak **projekt zabývající se oběťmi, na kterých byl za nacismu prováděn výzkum mozku**, využívá výpovědi přeživších a archivní výzkum k dokumentaci nacistických lékařských experimentů k obnovení identity obětí a k odhalení systému, který toto zneužívání umožnil. 
 
-Více informací: [https://www.ehri-project.eu/ehri-podcast-for-the-living-and-the-dead/](https://www.ehri-project.eu/ehri-podcast-for-the-living-and-the-dead/)
+Článek si můžete přečíst na: [https://blog.ehri-project.eu/2026/08/31/how-to-document-what-we-dont-yet-know/](https://blog.ehri-project.eu/2026/08/31/how-to-document-what-we-dont-yet-know/) 
 
 aj
 
-**A new season of the EHRI Podcast _For the Living and the Dead: Traces of the Holocaust_ was launched on Wednesday 5 August 2026.**
+**New contribution to the EHRI Document Blog: Victims of Brain Research during National Socialism** 
 
-The fourth season of the EHRI Podcast series _For the Living and the Dead. Traces of the Holocaust_ features seven new episodes around the theme **_Roma and the Holocaust_**. New podcast host Lovro Kralj – EHRI Research and Content Officer – interviews seven experts who share their insights while narrating the story of a person or object that really took their breath away.
+New article written by Aisling Shalvey explores how the **Victims of Brain Research during National Socialism** project uses survivor testimony and archival research to document Nazi medical experiments, restore victims’ identities, and expose the system that enabled their abuse.
+ 
+You can read it on  the website:
 
-More information: [https://www.ehri-project.eu/ehri-podcast-for-the-living-and-the-dead/](https://www.ehri-project.eu/ehri-podcast-for-the-living-and-the-dead/)
+ [https://blog.ehri-project.eu/2026/08/31/how-to-document-what-we-dont-yet-know/](https://blog.ehri-project.eu/2026/08/31/how-to-document-what-we-dont-yet-know/)
