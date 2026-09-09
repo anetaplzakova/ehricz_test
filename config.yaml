@@ -24,6 +24,10 @@ menu:
     - identifier: about
       pageRef: about
       weight: 20
+    - identifier: for_institutions
+      parent: about
+      pageRef: '/instituce'
+      weight: 10
     - identifier: partners
       pageRef: partners
       weight: 30
@@ -76,6 +80,10 @@ languages:
         - identifier: about
           pageRef: about
           weight: 20
+        - identifier: for_institutions
+          parent: about
+          pageRef: '/instituce'
+          weight: 10
         - identifier: partners
           pageRef: partners
           weight: 30
@@ -127,13 +135,18 @@ languages:
         - identifier: about
           pageRef: about
           weight: 20
-        - identifier: advisory_board
+        - identifier: for_institutions
           parent: about
-          pageRef: '/board'
+          url: 'https://www.ehri-project.eu/ehri-for-institutions/'
+          pageRef: 'https://www.ehri-project.eu/ehri-for-institutions/'
           weight: 10
         - identifier: partners
           pageRef: partners
           weight: 30
+        - identifier: advisory_board
+          parent: partners
+          pageRef: '/board'
+          weight: 10
         - identifier: news
           pageRef: news
           weight: 40

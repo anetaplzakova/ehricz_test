@@ -9,13 +9,21 @@
         <ul class="text-items header-menu">
             {{- $page := . -}}
             {{- range site.Menus.main -}}
+            {{- $href := .PageRef | relLangURL -}}
+            {{- if or (strings.HasPrefix .PageRef "http") (strings.HasPrefix .URL "http") -}}
+                {{- $href = or .URL .PageRef -}}
+            {{- end -}}
             <li class="header-menu-item{{ if or ($page.IsMenuCurrent .Menu .) ($page.HasMenuCurrent .Menu .) }} active{{ end }}{{ if .HasChildren }} has-children{{ end }}">
-                <a href="{{ .PageRef | relLangURL }}">{{ or (or (T .Identifier) .Name) .Identifier | safeHTML }}</a>
+                <a href="{{ $href }}">{{ or (or (T .Identifier) .Name) .Identifier | safeHTML }}</a>
                 {{ if .HasChildren }}
                 <ul class="header-submenu">
                     {{ range .Children }}
+                    {{- $childHref := .PageRef | relLangURL -}}
+                    {{- if or (strings.HasPrefix .PageRef "http") (strings.HasPrefix .URL "http") -}}
+                        {{- $childHref = or .URL .PageRef -}}
+                    {{- end -}}
                     <li class="header-submenu-item{{ if $page.IsMenuCurrent .Menu . }} active{{ end }}">
-                        <a href="{{ .PageRef | relLangURL }}">{{ or (or (T .Identifier) .Name) .Identifier | safeHTML }}</a>
+                        <a href="{{ $childHref }}">{{ or (or (T .Identifier) .Name) .Identifier | safeHTML }}</a>
                     </li>
                     {{ end }}
                 </ul>
