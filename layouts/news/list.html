@@ -99,6 +99,7 @@
                 {{ partial "featured-image.html" . }}
             {{ end }}
 
+            {{ if and (not .PublishDate.IsZero) (ne .PublishDate.Year 1) }}
             {{ $dateShort := .PublishDate | time.Format "02/01/2006" }}
             {{ $dateLong := .PublishDate | time.Format ":date_long" }}
             <time class="news-date" datetime="{{ $dateShort }}" property="datePublished">
@@ -106,6 +107,7 @@
                     {{ $dateLong }}
                 </a>
             </time>
+            {{ end }}
 
             <div property="articleBody">
                 {{ .Content }}

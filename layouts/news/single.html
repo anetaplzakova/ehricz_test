@@ -1,0 +1,26 @@
+{{ define "main" }}
+
+    {{ partial "breadcrumbs" . }}
+
+    <section class="page-content news" vocab="https://schema.org/" typeof="SocialMediaPosting">
+        <h1 property="headline">{{ .Title }}</h1>
+
+        {{ with .Resources.GetMatch .Params.Image }}
+            {{ partial "featured-image.html" . }}
+        {{ end }}
+
+        {{ if and (not .PublishDate.IsZero) (ne .PublishDate.Year 1) }}
+        {{ $dateShort := .PublishDate | time.Format "02/01/2006" }}
+        {{ $dateLong := .PublishDate | time.Format ":date_long" }}
+        <time class="news-date" datetime="{{ $dateShort }}" property="datePublished">
+            <a class="permalink" href="{{ .RelPermalink }}" property="url" >
+                {{ $dateLong }}
+            </a>
+        </time>
+        {{ end }}
+
+        <div property="articleBody">
+            {{ .Content }}
+        </div>
+    </section>
+{{ end }}
