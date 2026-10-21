@@ -9,7 +9,7 @@ date: 2026-12-10
 EHRI-CZ ve spolupráci s Židovským muzeem v Praze srdečně zvou na další přednášku z cyklu _Směry současného výzkumu holokaustu_, tentokrát od Lidie Zessin-Jurek nazvanou Krajina v pohybu: Prostory židovských uprchlíků ve východní Evropě na počátku války.
 {{< /intro >}}
 
-##### Datum: 10. prosince 2026
+##### Datum: 10. prosince 2026 od 18.00
 
 ##### Místo konání: OVK ŽMP, Maiselova 15, 110 00 Praha 1
 

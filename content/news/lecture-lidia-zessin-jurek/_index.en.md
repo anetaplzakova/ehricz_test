@@ -9,7 +9,7 @@ date: 2026-12-10
 EHRI-CZ, in collaboration with the Jewish Museum in Prague, cordially invites you to a lecture by Lidia Zessin-Jurek: A Landscape in Motion: Jewish Refugee Spaces in Early Wartime Eastern Europe which is a part of the lecture series _Trends in Contemporary Holocaust Research_.
 {{< /intro >}}
 
-##### Date: 10th December 2026
+##### Date: 10th December 2026 at 6pm
 
 ##### Venue: OVK ŽMP, Maiselova 15, 110 00 Prague 1
 
